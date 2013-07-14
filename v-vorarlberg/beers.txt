@@ -21,3 +21,10 @@ Egger Spezial, 5.5%, 12.8°, by:egg    # Helles Spezialbier
 Wälder Spezial, 5.5%, 12.7°, by:egg   # Helles Spezialbier
 Wälder Zwickl, 5.5%, 12.8°, by:egg
 
+Frastanzer Gold Spezial, 5.5%, 12.6°, by:frastanz     # Vollbier Helles
+Frastanzer Jubiläum,     4.9%, 11.7°, by:frastanz     # Vollbier Pils
+Frastanzer Kellerbier Naturtrüb, 5.5%, 12.6°, by:frastanz  # Vollbier Zwickl
+Frastanzer Pils,        4.9%, 11.7°, by:frastanz     # Vollbier Pils
+Frastanzer s'klenne,    4.9%, 11.7°, by:frastanz     # Vollbier
+
+

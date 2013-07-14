@@ -4,7 +4,7 @@
 Gösser Märzen,  5.2%, 11.8°, by:goesser     # main/bestseller brand (70%)
 Gösser Gold,    5.3%, 12.2°, c:7, b:25, by:goesser  # premium   # NB:b:25 = 25 IBU = bitterness 
 Gösser Spezial, 5.7%, 13.2°, by:goesser
-Gösser Zwickl,  5.2%, 11.8°, by:goesser
+Gösser Zwickl|Gösser Zwickl Naturtrüb,  5.2%, 11.8°, by:goesser
 Gösser Dunkles Zwickl,  5.7%, 13.2°, by:goesser
 Gösser Bock,    7.1%, 16.2°, by:goesser   # ausschließlich für die Weihnachtszeit gebraut
 Gösser Stiftsbräu, 4.2%, 11.8°, by:goesser
@@ -26,3 +26,21 @@ Schladminger Sepp,               5.1%, 11.7°,  by:schladminger
 
 Murauer Märzen, by:murau
 Murauer Hopfengold, 5.7%, 13.5°, c:12, by:murau, spezial
+
+
+Rossnatur,  5.3%, 12.2°,  by:leutschach
+
+Gratzer Johann, 5.3%, 12.8°, by:gratzer  # Spezialbier Maerzen
+Gratzer Ludwig, 7.2%, 16.7°, by:gratzer  # Bockbier
+
+
+Forstner Blond Pale Ale, 5.0%, 12.6°,  by:forstner
+Forstner Das Rote,       5.0%, 12.5°,  by:forstner    # Vollbier
+Forstner Slow 2 Roggen Ale, 5.4%, 13.4°,  by:forstner
+Forstner Styrian Ale,    6.6%, 15.4°,  by:forstner
+Forstner Triple 22,      9.5%, 22.2°,  by:forstner
+Forstner Vollmond Doppelbock, 7.5%, 18.3°,  by:forstner
+
+
+
+

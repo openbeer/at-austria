@@ -23,11 +23,11 @@ flamberger, Brauerei Michael Löscher, www.flamberger.at, ST, 8505 St. Nikolai i
 
 bevog, Brauhaus Bevog, www.bevog.at, ST, 8490 Bad Radkersburg // Gewerbepark B Nr. 9
 
-diebrauerei, Brauerei Leutschach, www.diebrauerei.com, ST, 8463 Leutschach // Schillerplatz 3
+leutschach, Brauerei Leutschach, www.diebrauerei.com, ST, 8463 Leutschach // Schillerplatz 3
 
 gratzer, Brauerei Gratzer, www.brauereigratzer.at, ST, 8224 Kaindorf // Obertiefenbach 26
 
-forstner, Hof-Bräu Kalsdorf, www.forstner-biere.at, ST, 8401 Kalsdorf // Dorfstraße 52
+forstner, Handbrauerei Forstner, www.forstner-biere.at, ST, 8401 Kalsdorf // Dorfstraße 52
 
 herzoghofbraeu, Herzog Hofbräu, www.herzog-hofbraeu.at, ST, 8142 Wundschuh // Steindorf 8
 

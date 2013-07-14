@@ -17,3 +17,10 @@ Edelweiss Hofbräu,   4.5%, 11.8°, c:15, by:kaltenhausen, hefeweizen|weissbier
 Edelweiss Dunkel,    5.3%, 12.3°, by:kaltenhausen, weissbier
 Edelweiss Gamsbock,  7.1%, 16.2°, by:kaltenhausen, weissbier
 
+
+
+Austrian Amber Ale|AAA, 5.6%, 12.8°, by:gusswerk
+Jakobsgold,         4.9%, 11.8°, by:gusswerk   # Vollbier Zwickl
+Edelguss,           4.9%, 11.9°, by:gusswerk   # Vollbier Helles
+Urban Keller's Steinbier,          5.6%, 12.7°, by:gusswerk, steinbier
+

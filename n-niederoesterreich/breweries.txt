@@ -60,3 +60,15 @@ marchfelder, Marchfelder Storchenbräu, www.bauersbier.at, N, 2284 Untersiebenbr
 schwarz, Privatbrauerei Gerald Schwarz, www.schwarzbraeu.at, N, 2851 Krumbach // Bundesstraße 19
 
 wolfsbrau,  Wolfsbräu, www.wolfsbrau.at, N, 2832 Thernberg // Blumengasse 7
+
+brettner, Brettner Brauerei, www.brettner.at, N, 2641 Schottwien // Hauptstraße 49
+
+gablitzer, Gablitzer Privatbrauerei, 2009, www.gablitzer.at, N, 3003 Gablitz // Spitzersteig 10
+
+#####
+# Brewpubs
+
+fiakerbraeu, Fiaker Bräu, www.fiakerwirt.at, N, 3550 Langenlois // Holzplatz 7
+
+haselbraeu, Wirtshausbrauerei Haselböck, 3662 Münichreith am Ostrong // Hausbrauerstraße 3
+

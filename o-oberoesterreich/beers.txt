@@ -33,9 +33,9 @@ Schnaitl Bock|Schnaitl Festbock, 7.5%, 16.8°, by:schnaitl  # Bittereinheiten: 2
 Uttendorfer Pils, by:vitzthum
 Uttendorfer Märzen, by:vitzthum   # ist Halb Dunkel??
 
-Freistädter Rattsherrn, 5.2%, 12.2°, by:freistaedter
+Freistädter Rattsherrn|Freistädter Rattsherrn Premium, 5.2%, 12.3°, by:freistaedter
 Freistädter Rauchbier, 5.3%, 12.3°, c:14, by:freistaedter, rauchbier
-
+Freistädter Bio Zwickl, 4.7%, 11.3°, by:freistaedter
 
 Schlägl Abtei Pils, 5.2%, 12.5°,  by:schlaegl
 Schlägl Stifter Bier, 5.7%, 12.4°, c:23-25, by:schlaegl # vollbier (obergaerig d.h. nicht lager)
@@ -52,3 +52,7 @@ Rieder Weißbierbock,  6.5%, 16.5°, c:8,  by:ried, weizenbock
 
 
 Attersee Bräu Hell,  by:attersee
+
+Frankenmarkter Bräu am Berg Lager Hell, 5.0%, 11.8°, by:braeuamberg   # vollbier lager
+
+
