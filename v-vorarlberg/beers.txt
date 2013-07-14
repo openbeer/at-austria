@@ -16,3 +16,8 @@ Fohrenburger Pils,      4.8%, 11.7°,  by:fohrenburg  # Vollbier
 
 Engelburg Bräu, 4.2%, 9.9°, by:fohrenburg     # Schankbier
 
+
+Egger Spezial, 5.5%, 12.8°, by:egg    # Helles Spezialbier
+Wälder Spezial, 5.5%, 12.7°, by:egg   # Helles Spezialbier
+Wälder Zwickl, 5.5%, 12.8°, by:egg
+

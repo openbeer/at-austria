@@ -86,6 +86,7 @@ aspach, Brauerei Aspach (Starzinger), 1777, O, 4890 Frankenmarkt // Hauptstraße
 braeuamberg, Brauerei Bräu am Berg (Starzinger), 1626, O, 4890 Frankenmarkt // Bahnhofstraße 1   # Part of Starzinger - www.starzinger.at
 
 attersee, Brauerei Attersee, www.brauerei-attersee.at, O, 4881 Straß (i. Attergau) // Straß 8
+  brands: Attersee Bräu
 
 pfeiffisbraeu, Brauerei Pachinger|Pfeiffi’s Bräu, www.pfeiffis-braeu.at, O, 4843 Ampflwang // Vorderschlagen 19
 

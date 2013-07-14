@@ -49,3 +49,6 @@ Baumgartner Zwickl,     5.1%, 12.2°,  by:baumgartner  # naturtrüb|unfiltriert
 
 
 Rieder Weißbierbock,  6.5%, 16.5°, c:8,  by:ried, weizenbock
+
+
+Attersee Bräu Hell,  by:attersee

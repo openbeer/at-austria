@@ -46,3 +46,8 @@ Egger Leicht,       3.5 %,  8.8°, by:egger   # will change to Egger Sprizz ??
 Hubertus Märzen,    5.1 %,  11.9°, by:hubertus
 Hubertus Pils,      5.4 %,  12.5°, by:hubertus
 Hubertus Dunkel,    3.9 %,  12.4°, by:hubertus
+
+
+Korneuburger Original, 5.2%, 12.6°, by:korneuburg
+Korneuburger Privat,   5.0%, 12.5°, by:korneuburg
+Korneuburger Premium,  5.1%, 12.8°, by:korneuburg
