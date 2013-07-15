@@ -12,7 +12,9 @@ ottakringer, Ottakringer Brauerei **, 1838, www.ottakringer.at, W, 1160 Wien // 
 # brewbups
 
 siebensternbraeu, 7 Stern Bräu|Siebensternbräu, 1994, www.7stern.at, W,  1070 Wien // Siebensterngasse 19
-  brands: 7 Stern Bräu     # todo/check: auto-key works with leading number? (possible/allowed?)
+
+#  fix: will not work w/ 7sternbraeu auto generated key; allow or use siebensternbraeu?
+#  brands: 7 Stern Bräu     # todo/check: auto-key works with leading number? (possible/allowed?)
 # Annual production: 1_400 hl
 
 
