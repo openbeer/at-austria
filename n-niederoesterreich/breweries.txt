@@ -55,13 +55,13 @@ emmerberg, Emmerberg-Bräu / Erste Österreichische Ökobrauerei, 1991, N, 2722 
 
 holzbrauer, Holzb(r)auer / Natürliche Handwerksbrauerei, N, 2831 Warth // Wiesengasse 9
 
-marchfelder, Marchfelder Storchenbräu, www.bauersbier.at, N, 2284 Untersiebenbrunn // Brückengasse 5
+storchenbraeu, Marchfelder Storchenbräu, www.storchenbraeu.at, N, 2284 Untersiebenbrunn // Brückengasse 5
 
-schwarz, Privatbrauerei Gerald Schwarz, www.schwarzbraeu.at, N, 2851 Krumbach // Bundesstraße 19
+schwarzbraeu, Privatbrauerei Gerald Schwarz, www.schwarzbraeu.at, N, 2851 Krumbach // Bundesstraße 19
 
 wolfsbrau,  Wolfsbräu, www.wolfsbrau.at, N, 2832 Thernberg // Blumengasse 7
 
-brettner, Brettner Brauerei, www.brettner.at, N, 2641 Schottwien // Hauptstraße 49
+brettner, Brettner Brauerei ("Altes Doktorhaus"), www.brettner.at, N, 2641 Schottwien // Hauptstraße 49
 
 gablitzer, Gablitzer Privatbrauerei, 2009, www.gablitzer.at, N, 3003 Gablitz // Spitzersteig 10
 
@@ -72,3 +72,4 @@ fiakerbraeu, Fiaker Bräu, www.fiakerwirt.at, N, 3550 Langenlois // Holzplatz 7
 
 haselbraeu, Wirtshausbrauerei Haselböck, 3662 Münichreith am Ostrong // Hausbrauerstraße 3
 
+kartausenbraeu, Privatbrauerei Gaming Kartausen Bräu, 3293 Gaming // Kartause 1

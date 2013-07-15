@@ -2,10 +2,13 @@
 # Salzburg (S)
 
 Stiegl Goldbräu, 4.9%, 12°, c:8, by:stiegl, maerzen
+Stiegl Pils,     4.9%, 11.6°,    by:stiegl
+Stiegl Paracelsus Zwickl,   5.0%, 12.0°,  by:stiegl
 Stiegl Weizengold, by:stiegl
 
 
 Trumer Pils,   4.9%, 11.5°,  by:trumer, lager|pils
+Trumer Imperial Pils, 6.8%, 16.2°,  by:trumer
 Trumer Märzen, 4.8%, 11.8°,  by:trumer, lager|maerzen
 
 

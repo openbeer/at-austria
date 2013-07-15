@@ -7,9 +7,11 @@ Zwettler Pils,         4.9 %,  11.5°, by:zwettler
 Zwettler Zwickl,       5.5 %,  12.5°, by:zwettler
 Zwettler Dunkles,      3.4 %,  11.5°, by:zwettler
 Zwettler Kuenringer Festbock,  6.8 %, 16.2°,  by:zwettler
+Zwettler Saphir (Premium Pils),  5.3%, 12.3°,  by:zwettler
+
 
 Weitra Helles,  5.0 %,   11.8°,  by:weitra
-Hadmar {Bio},   5.2 %,   12.5°,  by:weitra, bio
+Hadmar Bio,   5.2 %,   12.5°,  by:weitra, bio
 
 
 Schwechater,             5.0%, 11.5°, 41.0 kcal/100ml, by:schwechat
@@ -31,11 +33,12 @@ Kaiser Premium,      5.4%, 12.2°,  by:wieselburg
 Kaiser Doppelmalz,   4.7%, 12.8°,  by:wieselburg
 
 
-Schremser Premium,     5.1%, 11.9°, by:schrems
+Schremser Premium,     5.1%, 11.9°, by:schrems  # Vollbier Lager
 Schremser Edelmärzen,  5.0%, 11.9°, by:schrems
 Schremser Pils,        4.5%, 11.2°, by:schrems
 Schremser Doppelmalz,  4.6%, 11.9°, by:schrems
 Schremser Bio Roggen,  5.2%, 11.9°, c:20, by:schrems, roggenbier
+Schremser Bio Naturpark,  5.1%, 11.9°, by:schrems
 
 
 Egger Märzen,       5.2 %, 11.8°, by:egger
@@ -67,3 +70,14 @@ Hainfelder Spezial Hell, 6.0%, 13.5°, by:hainfeld
 
 Hasel Bräu Helles,   4.9%, 11.8°, by:haselbraeu
 Hasel Bräu Böhmisch, 4.8%, 11.8°, by:haselbraeu
+
+Kartausen Bräu Hell, 5.0%, 11.8°, by:kartausenbraeu
+
+Marchfelder Störchle, 5.5%, 12.5°, by:storchenbraeu
+Marchfelder Märzen,   5.5%, 12.5°, by:storchenbraeu
+Marchfelder Pils,     5.5%, 12.5°, by:storchenbraeu
+Marchfelder Adebar,   5.5%, 12.5°, by:storchenbraeu   # Vollbier Zwickl
+
+Schwarz Bräu Helles,       5.0%, 12.4°, by:schwarzbraeu
+Schwarz Bräu Hopfen Helle, 5.0%,        by:schwarzbraeu
+Schwarz Bräu Bock,         7.6%, 16.9°, by:schwarzbraeu

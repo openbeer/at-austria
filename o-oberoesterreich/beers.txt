@@ -14,6 +14,9 @@ Zipfer Pils,         5.2%, 11.8°, by:zipf
 Zipfer Josefi Bock,  7.1%, 16.2°, by:zipf
 Zipfer Doppel Gold,  5.7%, 12.8°, by:zipf
 Zipfer Kellerbier,   5.6%, 12.2°, by:zipf       # ungefiltert|naturtrüb
+Zipfer Sparkling,    5.2%, 11.8°, by:zipf
+
+Schützen Bräu, 4.2%,  by:brauunion   # Schankbier
 
 
 Kapsreiter (Landbier) Hell,  5.3%, 12.8°, by:kapsreiter
@@ -24,14 +27,22 @@ Schloss Eggenberg Hopfenkönig,         5.1%, 11.7°,  by:schlosseggenberg, pils
 Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°,  by:schlosseggenberg
 Schloss Eggenberg Naturtrüb,           5.2%, 11.7°,  by:schlosseggenberg, zwickl
 Schloss Eggenberg Urbock 23°,          9.6%, 23°,    by:schlosseggenberg, starkbier
+Schloss Eggenberg Festbock,            7.1%, 16.3°,    by:schlosseggenberg, bockbier
 Samichlaus,               14%, 28°, c:40, by:schlosseggenberg,  starkes_lager 
 
 
 Schnaitl Naturtrüb, 5.1%, 11.8°, by:schnaitl               # Bittereinheiten: 20 IBU
 Schnaitl Bock|Schnaitl Festbock, 7.5%, 16.8°, by:schnaitl  # Bittereinheiten: 28 IBU
+Schnaitl Original,      5.1%, 11.8°, by:schnaitl   # Vollbier Maerzen
+Schnaitl Pils de Luxe,  5.0%, 11.3°, by:schnaitl
 
-Uttendorfer Pils, by:vitzthum
-Uttendorfer Märzen, by:vitzthum   # ist Halb Dunkel??
+
+
+Uttendorfer Pils,  4.9%, 12.0°, by:vitzthum
+Uttendorfer Märzen, 5.0%, 12.1°, by:vitzthum   # ist Halb Dunkel??
+Uttendorfer Export, 5.1%, 12.1°, by:vitzthum
+Uttendorfer Fallstaff, 5.6%, 13.1°, by:vitzthum
+
 
 Freistädter Rattsherrn|Freistädter Rattsherrn Premium, 5.2%, 12.3°, by:freistaedter
 Freistädter Rauchbier, 5.3%, 12.3°, c:14, by:freistaedter, rauchbier
@@ -39,6 +50,7 @@ Freistädter Bio Zwickl, 4.7%, 11.3°, by:freistaedter
 
 Schlägl Abtei Pils, 5.2%, 12.5°,  by:schlaegl
 Schlägl Stifter Bier, 5.7%, 12.4°, c:23-25, by:schlaegl # vollbier (obergaerig d.h. nicht lager)
+Schlägl Urquell,    5.8%, 11.8%, by:schlaegl   # vollbier maerzen
 
 Baumgartner Märzen,     5.1%, 12.2°,  by:baumgartner
 Baumgartner Doppelmalz, 5.1%, 13.7°,  by:baumgartner
@@ -48,11 +60,32 @@ Baunti 1609 Lager,      5.0%, 12.0°,  by:baumgartner
 Baumgartner Zwickl,     5.1%, 12.2°,  by:baumgartner  # naturtrüb|unfiltriert
 
 
-Rieder Weißbierbock,  6.5%, 16.5°, c:8,  by:ried, weizenbock
+Hofstettner Märzen,      4.7%, 11.4°, by:hofstetten
+Hofstettner Pils,        5.2%, 11.8°, by:hofstetten
+Hofstettner Spezial,     5.3%, 12.7°, by:hofstetten
+Hofstettner Granitbock Ice,  6.2%, 14.2°, by:hofstetten
+Hofstettner Granit,      5.5%, 12.8°, by:hofstetten
+Hofstettner Kübel,       5.3%, 11.7°, by:hofstetten
+
+
+Rieder Weißbierbock,    6.5%, 16.5°, c:8,  by:ried, weizenbock
+Rieder 1908 Naturtrüb,  5.2%, 12.9°,  by:ried
+
+
+Raschhofer Pils,    5.1%, 11.7°, by:raschhofer
+Raschhofer Märzen,  5.1%, 11.5°, by:raschhofer
+Raschhofer Zwickl,  5.4%, 12.5°, by:raschhofer
+
+
+Wurmhöringer Märzen,   4.9%, 11.9°, by:wurmhoeringer 
+Thermen Bräu Pils,     5.2%, 12.5°, by:wurmhoeringer
 
 
 Attersee Bräu Hell,  by:attersee
 
 Frankenmarkter Bräu am Berg Lager Hell, 5.0%, 11.8°, by:braeuamberg   # vollbier lager
 
+Hoangarten, 5.2%, 11.8°, by:kaltenboeck
 
+
+Leimer Bräu Hell, 5.0%, by:leimerbraeu

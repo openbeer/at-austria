@@ -23,8 +23,6 @@ Lichtenthaler Bräu, 1090 Wien // Lichtensteinstrasse 108
 
 The Highlander, 1090 Wien // Sobieskiplatz 4
 
-Medl - Bräu, 1989, 1140 Wien // Linzer Straße 275
-# Annual production: 600 hl
 
 Schwarzer Rabe, www.rabenbraeu.at, 1160 Wien // Ottakringer Straße 180
 
@@ -40,7 +38,6 @@ Kadlez Bräu, 1210 Wien // Floridsdorfer Hauptstraße 9
 
 Brauerei Brauhotel Weitra, 3970 Weitra // Rathausplatz 6
 
-Brauerei Erich Brettner ("Altes Doktorhaus"), 2641 Schottwien // Hauptstraße 49,
 
 Dunkelsteiner Bräu, 3121 Karlstetten // Schaubing 2
 
@@ -55,7 +52,6 @@ Linko Bräu, 3160 Traisen // Gartengasse 9
 
 Poidl Bräu, 2563 Pottenstein // Wehrgasse 6
 
-Privatbrauerei Gaming Kartausen Bräu, 3293 Gaming // Kartause 1
 
 Privatbrauerei Maria Pichler, 3633 Schönbach // Schönbach 1
 

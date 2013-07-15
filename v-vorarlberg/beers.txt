@@ -4,6 +4,9 @@
 Mohren Pilsner,  4.8%, 11.3°, by:mohren
 Mohren Ländle, by:mohren
 Mohren Kellerbier|Mohrenbräu Kellerbier|Mohren Zwickl, 5.7%, 12.8°, c:16, by:mohren  # Spezialbier unfiltriert
+Mohren Spezial,  5.6%, 12.7°, by:mohren
+Mohren Pfiff,    4.9%, 11.6°, by:mohren
+
 
 Fohrenburger Jubiläum,  5.5%, 12.8°, by:fohrenburg   # Spezialbier
 Fohrenburger Stiftle,   4.8%, 11.8°, by:fohrenburg

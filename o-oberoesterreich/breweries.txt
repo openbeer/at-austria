@@ -88,6 +88,9 @@ braeuamberg, Brauerei Bräu am Berg (Starzinger), 1626, O, 4890 Frankenmarkt // 
 attersee, Brauerei Attersee, www.brauerei-attersee.at, O, 4881 Straß (i. Attergau) // Straß 8
   brands: Attersee Bräu
 
+kaltenboeck, Brauerei Kaltenböck, 4864 Attersee // Palmsdorf 17
+  brands: Hoangarten
+
 pfeiffisbraeu, Brauerei Pachinger|Pfeiffi’s Bräu, www.pfeiffis-braeu.at, O, 4843 Ampflwang // Vorderschlagen 19
 
 
@@ -103,4 +106,9 @@ ritterbraeu, Ritterbräu Neumarkt, 1609, www.ritterbraeu.at, O, 4720 Neumarkt/Ha
 schwertberger, Schwertberger Bräu, O, 4311 Schwertberg // Ing. Schmiedl-Straße 7
 
 steffinger, Steffinger Brauerei, O, 4170 St. Stefan am Walde // Unterriedl 4
+
+###################
+# brewpubs
+
+leimerbraeu, Braugasthof Leimer|Leimer Bräu, O, 4860 Lenzing // Atterseestraße 34
 

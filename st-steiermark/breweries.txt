@@ -39,5 +39,5 @@ erzbergbraeu, Privatbrauerei Erzbergbräu, www.erzbergbraeu.at,  ST, 8790 Eisene
 
 tonibraeu, Toni Bräu, www.tonibraeu.at, ST, 8273 Ebersdorf // Wagenbach 61
 
-triebbraeu, Trieb-Bräu, ST, 8641 St. Marein // Ferdinand Raimundweg 7
+triebbraeu, Trieb Bräu, ST, 8641 St. Marein // Ferdinand Raimundweg 7
 
