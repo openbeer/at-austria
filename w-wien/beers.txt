@@ -13,7 +13,9 @@ Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°, by:ottakringer
 ##########
 # brewpubs
 
-7 Stern Bräu Wiener Helles, 4.7%, 11.8°, by:siebensternbraeu
-7 Stern Bräu Märzen,        5.1%, 13.5°, by:siebensternbraeu
+# NB: can NOT use autokey starts with number e.g. 7stern -> allow? in future - why? why not?
+
+siebensternbraeuwienerhelles, 7 Stern Bräu Wiener Helles, 4.7%, 11.8°, by:siebensternbraeu
+siebensternbraeumaerzen,      7 Stern Bräu Märzen,        5.1%, 13.5°, by:siebensternbraeu
 
 Medl Bräu Märzen,   4.9%, 12.2°, by:medl
