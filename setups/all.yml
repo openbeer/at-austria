@@ -1,5 +1,5 @@
 
-at:
+breweries:
 - at-austria!/b-burgenland/breweries
 - at-austria!/k-kaernten/breweries
 - at-austria!/n-niederoesterreich/breweries
@@ -10,6 +10,8 @@ at:
 - at-austria!/v-vorarlberg/breweries
 - at-austria!/w-wien/breweries
 - at-austria!/breweries.hl
+
+beers:
 - at-austria!/b-burgenland/beers
 - at-austria!/k-kaernten/beers
 - at-austria!/n-niederoesterreich/beers
@@ -20,4 +22,4 @@ at:
 - at-austria!/v-vorarlberg/beers
 - at-austria!/w-wien/beers
 
-#- at-austria!/beers.non   # skip non-alcoholic beers
+#- at-austria!/beers_non_alcoholic   # skip non-alcoholic beers

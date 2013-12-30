@@ -1,23 +1,31 @@
 ############################
 # Kärnten (K)
 
-Hirter Pils|Hirter Privat Pils, 5.2%, 12.3°, by:hirt   # Vollbier Pils
-Hirter Morchl, 5.0 %, 12.8°, c:80, by:hirt, dunkles
-Hirter Biobier, 4.8%, 11.6°, by:hirt
-Hirter 1270,    4.9%, 11.9°, by:hirt   # Vollbier
+_________________
+- Brauerei Hirt
 
+Hirter Pils|Hirter Privat Pils, 5.2%, 12.3°  # Vollbier Pils
+Hirter Morchl, 5.0 %, 12.8°, c:80, dunkles
+Hirter Biobier, 4.8%, 11.6°
+Hirter 1270,    4.9%, 11.9°   # Vollbier
 
+___________________________________________
+- Vereinigte Kärntner Brauereien, Villach
 
-Villacher Märzen,  5.0%, 11.8°, by:villacher
-Villacher Pils,   4.9%, 11.7°, by:villacher
-Villacher Pur,    4.0%, 9.5°, by:villacher
-Villacher Edition, 4.6%, 11.7°, by:villacher
-Piestinger Lager, 5.0%, 11.8°, by:villacher
+Villacher Märzen,  5.0%, 11.8°
+Villacher Pils,   4.9%, 11.7°
+Villacher Pur,    4.0%, 9.5°
+Villacher Edition, 4.6%, 11.7°
+Piestinger Lager, 5.0%, 11.8°
 
+_________________________________________________________________
+- Schleppe Brauerei (Vereinigte Kärntner Brauereien), Klagenfurt
 
-Schleppe Märzen,  5.0%, 11.7°,  by:schleppe
+Schleppe Märzen,  5.0%, 11.7°
 
+______________________________________________
+-  Privatbrauerei Loncium, Kötschach-Mauthen
 
-Loncium Helles, 4.9%, 11.8°, by:loncium
-Loncium Austrian Amber Lager, 5.5%, 12.7°, by:loncium
+Loncium Helles, 4.9%, 11.8°
+Loncium Austrian Amber Lager, 5.5%, 12.7°
 

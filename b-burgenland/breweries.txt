@@ -2,13 +2,17 @@
 # Breweries in Burgenland (B) / Eastern Austria
 
 
-
-gols, Pannonia Brauerei Gols *, www.golserbier.at, B, 7122 Gols // Sandgrube 1a
+[gols]
+  Pannonia Brauerei Gols *
+  www.golserbier.at
+  7122 Gols // Sandgrube 1a
   brands: Golser
 
 
 ####
 # Microbreweries
 
-kobersdorfer, Kobersdorfer Schlossbräu, www.kobersdorfer.at, B, 7332 Kobersdorf // Hauptstraße 43
-
+[kobersdorfer]
+  Kobersdorfer Schlossbräu
+  www.kobersdorfer.at
+  7332 Kobersdorf // Hauptstraße 43

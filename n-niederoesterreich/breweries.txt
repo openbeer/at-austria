@@ -5,71 +5,134 @@
 ##########
 # Wien Umbgebung
 
-schwechat, Brauerei Schwechat (Brau Union) **, 1796, www.schwechater.at, N, 2320 Schwechat // Mautner Markhof-Straße 11,   brau_union  # Part of Brau Union
-   brands: Schwechater
+[schwechat]
+  Brauerei Schwechat (Brau Union) **, 1796
+  www.schwechater.at
+  2320 Schwechat // Mautner Markhof-Straße 11
+  brands: Schwechater
+  brau_union   # Part of Brau Union
+
 
 #############
 # Waldviertel
 
-zwettler, Zwettler Brauerei|Privatbrauerei Zwettl **, 1709, www.zwettler.at, N, 3910 Zwettl // Syrnauer Straße 22-25
-   brands: Zwettler
+[zwettler]
+  Zwettler Brauerei|Privatbrauerei Zwettl **, 1709
+  www.zwettler.at
+  3910 Zwettl // Syrnauer Straße 22-25
+  brands: Zwettler
 
-weitra,   Weitra Bräu Bierwerkstatt|Brauerei Weitra *, 1321, www.bierwerkstatt.at, N, 3970 Weitra // Sparkasseplatz 160, zwettler  # Part of Zwettler
-   brands: Weitra, Hadmar
+[weitra]
+  Weitra Bräu Bierwerkstatt|Brauerei Weitra *, 1321
+  www.bierwerkstatt.at
+  3970 Weitra // Sparkasseplatz 160
+  brands: Weitra, Hadmar
+  zwettler   # Part of Zwettler
 
-schrems,  Brauerei Schrems *, 1410, www.schremser.at, N, 3943 Schrems // Niederschremser Straße 1
-   brands: Schremser
+[schrems]
+  Brauerei Schrems *, 1410
+  www.schremser.at
+  3943 Schrems // Niederschremser Straße 1
+  brands: Schremser
 
 
 #############
 # Weinviertel
 
-hubertus, Hubertus Bräu *, 1454, www.hubertus.at, N, 2136 Laa/Thaya // Hubertusgasse 1
-   brands: Hubertus
-
+[hubertus]
+  Hubertus Bräu *, 1454
+  www.hubertus.at
+  2136 Laa/Thaya // Hubertusgasse 1
+  brands: Hubertus
 
 
 #############
 #  Uncategorized
 
-wieselburg, Brauerei Wieselburg (Brau Union) **, 1770, www.wieselburger.at, N, 3250 Wieselburg // Dr.-Beuerle-Straße 1, brau_union  # Part of Brau Union
-   brands: Wieselburger
+[wieselburg]
+  Brauerei Wieselburg (Brau Union) **, 1770
+  www.wieselburger.at
+  3250 Wieselburg // Dr.-Beuerle-Straße 1
+  brands: Wieselburger
+  brau_union  # Part of Brau Union
 
 
-egger, Privatbrauerei Fritz Egger **, 1978, www.egger-bier.at, N, 3105 Unterradlberg // Tiroler Straße 18
-   brands: Egger
+[egger]
+  Privatbrauerei Fritz Egger **, 1978
+  www.egger-bier.at
+  3105 Unterradlberg // Tiroler Straße 18
+  brands: Egger
 
 
 ####
 # Microbreweries
 
-korneuburg, Biermanufaktur Korneuburg, www.biermanufaktur.at, N, 2100 Korneuburg // Brückenstraße 8
+[korneuburg]
+  Biermanufaktur Korneuburg
+  www.biermanufaktur.at
+  2100 Korneuburg // Brückenstraße 8
 
-hainfeld, Brauerei Hainfeld, www.brauerei-hainfeld.at, N, 3170 Hainfeld // Wienerstraße 10
+[hainfeld]
+  Brauerei Hainfeld
+  www.brauerei-hainfeld.at
+  3170 Hainfeld // Wienerstraße 10
 
-bruckners, Bruckners Brauwelt, www.bruckners-brauwelt.at, N, 3292 Gaming // Grubberg 4a
+[bruckners]
+  Bruckners Brauwelt
+  www.bruckners-brauwelt.at
+  3292 Gaming // Grubberg 4a
 
-bierzauberei, Die Bierzauberei, www.bierzauberer.info, N, 2345 Brunn am Gebirge // Leopold Gattringer-Straße 39
+[bierzauberei]
+  Die Bierzauberei
+  www.bierzauberer.info
+  2345 Brunn am Gebirge // Leopold Gattringer-Straße 39
 
-emmerberg, Emmerberg-Bräu / Erste Österreichische Ökobrauerei, 1991, N, 2722 Winzendorf // Hauptstraße 137
+[emmerberg]
+  Emmerberg-Bräu / Erste Österreichische Ökobrauerei, 1991
+  2722 Winzendorf // Hauptstraße 137
 
-holzbrauer, Holzb(r)auer / Natürliche Handwerksbrauerei, N, 2831 Warth // Wiesengasse 9
+[holzbrauer]
+  Holzb(r)auer / Natürliche Handwerksbrauerei
+  2831 Warth // Wiesengasse 9
 
-storchenbraeu, Marchfelder Storchenbräu, www.storchenbraeu.at, N, 2284 Untersiebenbrunn // Brückengasse 5
+[storchenbraeu]
+  Marchfelder Storchenbräu
+  www.storchenbraeu.at
+  2284 Untersiebenbrunn // Brückengasse 5
 
-schwarzbraeu, Privatbrauerei Gerald Schwarz, www.schwarzbraeu.at, N, 2851 Krumbach // Bundesstraße 19
+[schwarzbraeu]
+  Privatbrauerei Gerald Schwarz
+  www.schwarzbraeu.at
+  2851 Krumbach // Bundesstraße 19
 
-wolfsbrau,  Wolfsbräu, www.wolfsbrau.at, N, 2832 Thernberg // Blumengasse 7
+[wolfsbrau]
+  Wolfsbräu
+  www.wolfsbrau.at
+  2832 Thernberg // Blumengasse 7
 
-brettner, Brettner Brauerei ("Altes Doktorhaus"), www.brettner.at, N, 2641 Schottwien // Hauptstraße 49
+[brettner]
+  Brettner Brauerei ("Altes Doktorhaus")
+  www.brettner.at
+  2641 Schottwien // Hauptstraße 49
 
-gablitzer, Gablitzer Privatbrauerei, 2009, www.gablitzer.at, N, 3003 Gablitz // Spitzersteig 10
+[gablitzer]
+  Gablitzer Privatbrauerei, 2009
+  www.gablitzer.at
+  3003 Gablitz // Spitzersteig 10
 
-#####
+
+##################
 # Brewpubs
 
-fiakerbraeu, Fiaker Bräu, www.fiakerwirt.at, N, 3550 Langenlois // Holzplatz 7
+[fiakerbraeu]
+  Fiaker Bräu
+  www.fiakerwirt.at
+  3550 Langenlois // Holzplatz 7
 
-haselbraeu, Wirtshausbrauerei Haselböck, 3662 Münichreith am Ostrong // Hausbrauerstraße 3
+[haselbraeu]
+  Wirtshausbrauerei Haselböck
+  3662 Münichreith am Ostrong // Hausbrauerstraße 3
 
-kartausenbraeu, Privatbrauerei Gaming Kartausen Bräu, 3293 Gaming // Kartause 1
+[kartausenbraeu]
+  Privatbrauerei Gaming|Kartausen Bräu
+  3293 Gaming // Kartause 1

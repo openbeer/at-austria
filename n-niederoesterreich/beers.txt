@@ -1,83 +1,122 @@
 ###########################
 # Niederösterreich (N)
 
-Zwettler Original,     5.1 %,  11.9°, by:zwettler
-Zwettler Export Lager, 5.0 %,  11.8°, by:zwettler
-Zwettler Pils,         4.9 %,  11.5°, by:zwettler
-Zwettler Zwickl,       5.5 %,  12.5°, by:zwettler
-Zwettler Dunkles,      3.4 %,  11.5°, by:zwettler
-Zwettler Kuenringer Festbock,  6.8 %, 16.2°,  by:zwettler
-Zwettler Saphir (Premium Pils),  5.3%, 12.3°,  by:zwettler
+____________________________________________
+- Zwettler Brauerei|Privatbrauerei Zwettl
 
+Zwettler Original,     5.1 %,  11.9°
+Zwettler Export Lager, 5.0 %,  11.8°
+Zwettler Pils,         4.9 %,  11.5°
+Zwettler Zwickl,       5.5 %,  12.5°
+Zwettler Dunkles,      3.4 %,  11.5°
+Zwettler Kuenringer Festbock,  6.8 %, 16.2°
+Zwettler Saphir (Premium Pils),  5.3%, 12.3°
 
-Weitra Helles,  5.0 %,   11.8°,  by:weitra
-Hadmar Bio,   5.2 %,   12.5°,  by:weitra, bio
+_____________________________________________
+- Weitra Bräu Bierwerkstatt|Brauerei Weitra
 
+Weitra Helles,  5.0 %,   11.8°
+Hadmar Bio,   5.2 %,   12.5°, bio
 
-Schwechater,             5.0%, 11.5°, 41.0 kcal/100ml, by:schwechat
-Schwechater Zwickl,      5.4%, 12.5°, 45.0 kcal/100ml, by:schwechat
-Schwechater Hopfenperle, 5.1%, 11.8°, by:schwechat   # fass only
+___________________________________
+- Brauerei Schwechat (Brau Union)
 
+Schwechater,             5.0%, 11.5°, 41.0 kcal/100ml
+Schwechater Zwickl,      5.4%, 12.5°, 45.0 kcal/100ml
+Schwechater Hopfenperle, 5.1%, 11.8°   # fass only
 
-Wieselburger Gold,      5.0%, 11.8°,  by:wieselburg
-Wieselburger Spezial,   5.7%, 13.1°,  by:wieselburg
-Wieselburger Stammbräu, 5.4%, 12.6°,  by:wieselburg
+_____________________________________
+- Brauerei Wieselburg (Brau Union)
 
+Wieselburger Gold,      5.0%, 11.8°
+Wieselburger Spezial,   5.7%, 13.1°
+Wieselburger Stammbräu, 5.4%, 12.6°
 
+Kaiser Fasstyp,      5.0%, 11.6°,  www.kaiserbier.at, maerzen
+Kaiser Goldquell,    5.7%, 12.8°
 
-Kaiser Fasstyp,      5.0%, 11.6°,  www.kaiserbier.at,  by:wieselburg, maerzen
-Kaiser Goldquell,    5.7%, 12.8°,  by:wieselburg
+Kaiser 2.9 %,        2.9%,  9.2°
+Kaiser Premium,      5.4%, 12.2°
+Kaiser Doppelmalz,   4.7%, 12.8°
 
-Kaiser 2.9 %,        2.9%,  9.2°,  by:wieselburg
-Kaiser Premium,      5.4%, 12.2°,  by:wieselburg
-Kaiser Doppelmalz,   4.7%, 12.8°,  by:wieselburg
+______________________
+- Brauerei Schrems
 
+Schremser Premium,     5.1%, 11.9°  # Vollbier Lager
+Schremser Edelmärzen,  5.0%, 11.9°
+Schremser Pils,        4.5%, 11.2°
+Schremser Doppelmalz,  4.6%, 11.9°
+Schremser Bio Roggen,  5.2%, 11.9°, c:20, roggenbier
+Schremser Bio Naturpark,  5.1%, 11.9°
 
-Schremser Premium,     5.1%, 11.9°, by:schrems  # Vollbier Lager
-Schremser Edelmärzen,  5.0%, 11.9°, by:schrems
-Schremser Pils,        4.5%, 11.2°, by:schrems
-Schremser Doppelmalz,  4.6%, 11.9°, by:schrems
-Schremser Bio Roggen,  5.2%, 11.9°, c:20, by:schrems, roggenbier
-Schremser Bio Naturpark,  5.1%, 11.9°, by:schrems
+_____________________________________________
+- Privatbrauerei Fritz Egger, Unterradlberg
 
+Egger Märzen,       5.2 %, 11.8°
+Egger Zwickl 1868,  5.1 %, 11.6°
+Egger Permium,      5.2 %, 11.8°   # check is Premium (Pils)??
+Egger Leicht,       3.5 %,  8.8°   # will change to Egger Sprizz ??
 
-Egger Märzen,       5.2 %, 11.8°, by:egger
-Egger Zwickl 1868,  5.1 %, 11.6°, by:egger
-Egger Permium,      5.2 %, 11.8°, by:egger   # check is Premium (Pils)??
-Egger Leicht,       3.5 %,  8.8°, by:egger   # will change to Egger Sprizz ??
+____________________________
+- Hubertus Bräu, Laa/Thaya
 
-Hubertus Märzen,    5.1 %,  11.9°, by:hubertus
-Hubertus Pils,      5.4 %,  12.5°, by:hubertus
-Hubertus Dunkel,    3.9 %,  12.4°, by:hubertus
+Hubertus Märzen,    5.1 %,  11.9°
+Hubertus Pils,      5.4 %,  12.5°
+Hubertus Dunkel,    3.9 %,  12.4°
 
+______________________________
+- Biermanufaktur Korneuburg
 
-Korneuburger Original, 5.2%, 12.6°, by:korneuburg
-Korneuburger Privat,   5.0%, 12.5°, by:korneuburg
-Korneuburger Premium,  5.1%, 12.8°, by:korneuburg
+Korneuburger Original, 5.2%, 12.6°
+Korneuburger Privat,   5.0%, 12.5°
+Korneuburger Premium,  5.1%, 12.8°
 
+______________________________________________________
+- Brettner Brauerei ("Altes Doktorhaus"), Schottwien
 
-Brettner Fuhrmannsgold, 5.5%, 13.5°, by:brettner   # Vollbier Helles
+Brettner Fuhrmannsgold, 5.5%, 13.5°   # Vollbier Helles
 
-Fiaker Bräu Bock Hell, 7.0%, 15.0°, by:fiakerbraeu
-Fiaker Bräu Märzen,    4.9%, 11.9°, by:fiakerbraeu
-Fiaker Bräu Pils,      4.9%, 11.9°, by:fiakerbraeu
+____________________________
+- Fiaker Bräu, Langenlois
 
-Gablitzer Original,    4.8%, 12.0°,  by:gablitzer
+Fiaker Bräu Bock Hell, 7.0%, 15.0°
+Fiaker Bräu Märzen,    4.9%, 11.9°
+Fiaker Bräu Pils,      4.9%, 11.9°
 
-Hainfelder Edel-Pils,   4.8%, 11.5°, by:hainfeld
-Hainfelder Lager Hell,  5.0%, 12.2°, by:hainfeld
-Hainfelder Spezial Hell, 6.0%, 13.5°, by:hainfeld
+______________________________________
+- Gablitzer Privatbrauerei, Gablitz
 
-Hasel Bräu Helles,   4.9%, 11.8°, by:haselbraeu
-Hasel Bräu Böhmisch, 4.8%, 11.8°, by:haselbraeu
+Gablitzer Original,    4.8%, 12.0°
 
-Kartausen Bräu Hell, 5.0%, 11.8°, by:kartausenbraeu
+______________________
+- Brauerei Hainfeld
 
-Marchfelder Störchle, 5.5%, 12.5°, by:storchenbraeu
-Marchfelder Märzen,   5.5%, 12.5°, by:storchenbraeu
-Marchfelder Pils,     5.5%, 12.5°, by:storchenbraeu
-Marchfelder Adebar,   5.5%, 12.5°, by:storchenbraeu   # Vollbier Zwickl
+Hainfelder Edel-Pils,   4.8%, 11.5°
+Hainfelder Lager Hell,  5.0%, 12.2°
+Hainfelder Spezial Hell, 6.0%, 13.5°
 
-Schwarz Bräu Helles,       5.0%, 12.4°, by:schwarzbraeu
-Schwarz Bräu Hopfen Helle, 5.0%,        by:schwarzbraeu
-Schwarz Bräu Bock,         7.6%, 16.9°, by:schwarzbraeu
+_______________________________________________________
+- Wirtshausbrauerei Haselböck, Münichreith am Ostrong
+
+Hasel Bräu Helles,   4.9%, 11.8°
+Hasel Bräu Böhmisch, 4.8%, 11.8°
+
+_________________________________________
+- Kartausen Bräu|Privatbrauerei Gaming 
+
+Kartausen Bräu Hell, 5.0%, 11.8°
+
+_______________________________________________
+- Marchfelder Storchenbräu, Untersiebenbrunn
+
+Marchfelder Störchle, 5.5%, 12.5°
+Marchfelder Märzen,   5.5%, 12.5°
+Marchfelder Pils,     5.5%, 12.5°
+Marchfelder Adebar,   5.5%, 12.5°   # Vollbier Zwickl
+
+_____________________________________________
+- Privatbrauerei Gerald Schwarz, Krumbach
+
+Schwarz Bräu Helles,       5.0%, 12.4°
+Schwarz Bräu Hopfen Helle, 5.0%
+Schwarz Bräu Bock,         7.6%, 16.9°
