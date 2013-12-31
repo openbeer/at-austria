@@ -1,29 +1,42 @@
 ##################
 # Salzburg (S)
 
-Stiegl Goldbräu, 4.9%, 12°, c:8, by:stiegl, maerzen
-Stiegl Pils,     4.9%, 11.6°,    by:stiegl
-Stiegl Paracelsus Zwickl,   5.0%, 12.0°,  by:stiegl
-Stiegl Weizengold, by:stiegl
+________________________________
+- Stieglbrauerei zu Salzburg
 
+Stiegl Goldbräu, 4.9%, 12°, c:8, maerzen
+Stiegl Pils,     4.9%, 11.6°
+Stiegl Paracelsus Zwickl,   5.0%, 12.0°
+Stiegl Weizengold
 
-Trumer Pils,   4.9%, 11.5°,  by:trumer, lager|pils
-Trumer Imperial Pils, 6.8%, 16.2°,  by:trumer
-Trumer Märzen, 4.8%, 11.8°,  by:trumer, lager|maerzen
+____________________________________
+- Trumer Privatbrauerei, Obertrum
 
+Trumer Pils,   4.9%, 11.5°, lager|pils
+Trumer Imperial Pils, 6.8%, 16.2°
+Trumer Märzen, 4.8%, 11.8°, lager|maerzen
 
-Augustiner Märzen,  4.6%,  12°,   by:augustinersbg
-Augustiner Bock,    6.5%,  16.5°, by:augustinersbg
+___________________________________________
+- Augustiner Bräu Kloster Mülln, Salzburg
 
-Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, by:kaltenhausen, weissbier
-Edelweiss Hofbräu,   4.5%, 11.8°, c:15, by:kaltenhausen, hefeweizen|weissbier
-Edelweiss Dunkel,    5.3%, 12.3°, by:kaltenhausen, weissbier
-Edelweiss Gamsbock,  7.1%, 16.2°, by:kaltenhausen, weissbier
+Augustiner Märzen,  4.6%,  12°
+Augustiner Bock,    6.5%,  16.5°
 
+______________________________________
+- Hofbräu Kaltenhausen (Brau Union)
 
+#### todo: how to best add a website/weblink for a beer brand (e.g. edelweissbier.at) ??
 
-Austrian Amber Ale|AAA, 5.6%, 12.8°, by:gusswerk
-Jakobsgold,         4.9%, 11.8°, by:gusswerk   # Vollbier Zwickl
-Edelguss,           4.9%, 11.9°, by:gusswerk   # Vollbier Helles
-Urban Keller's Steinbier,          5.6%, 12.7°, by:gusswerk, steinbier
+Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, weissbier
+Edelweiss Hofbräu,   4.5%, 11.8°, c:15, hefeweizen|weissbier
+Edelweiss Dunkel,    5.3%, 12.3°, weissbier
+Edelweiss Gamsbock,  7.1%, 16.2°, weissbier
+
+_________________________________
+- Brauerei Gusswerk, Salzburg
+
+Austrian Amber Ale|AAA, 5.6%, 12.8°
+Jakobsgold,         4.9%, 11.8°   # Vollbier Zwickl
+Edelguss,           4.9%, 11.9°   # Vollbier Helles
+Urban Keller's Steinbier,          5.6%, 12.7°, steinbier
 
