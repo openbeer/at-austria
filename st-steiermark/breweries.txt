@@ -2,28 +2,50 @@
 # Breweries in Steiermark [Styria] (ST) / Southern Austria
 
 
-
-goesser, Gösser Brauerei (Brau Union)|Brauerei Göss **, www.goesser.at, ST, 8700 Göss/Leoben // Brauhausgasse 1, brauunion
+[goesser]
+  Gösser Brauerei (Brau Union)|Brauerei Göss **
+  www.goesser.at
+  8700 Göss/Leoben // Brauhausgasse 1
   brands: Gösser
+  brauunion
 
-puntigam, Brauerei Puntigam (Brau Union) **, www.puntigamer.at, ST, 8055 Graz // Triester Straße 359, brauunion
+[puntigam]
+  Brauerei Puntigam (Brau Union) **
+  www.puntigamer.at
+  8055 Graz // Triester Straße 359
   brands: Puntigamer, Reininghaus
+  brauunion
 
-schladminger, Schladminger Brau (Brau Union) *, 1909, www.schladmingerbier.at, ST, 8970 Schladming // Hammerfeldweg 163, brauunion
+[schladminger]
+  Schladminger Brau (Brau Union) *, 1909
+  www.schladmingerbier.at
+  8970 Schladming // Hammerfeldweg 163
   brands: Schladminger
+  brauunion
 
-murau, Brauerei Murau|Obermurtaler Brauerei *, www.murauerbier.at, ST, 8850 Murau // Raffaltplatz 19-23
+[murau]
+  Brauerei Murau|Obermurtaler Brauerei *    ## todo: check if name Obermurtaler Brauerei is still in use?
+  www.murauerbier.at
+  8850 Murau // Raffaltplatz 19-23
   brands: Murauer
-## todo: check if name Obermurtaler Brauerei is still in use?
 
 ####
 # Microbreweries
 
-flamberger, Brauerei Michael Löscher, www.flamberger.at, ST, 8505 St. Nikolai i. S. // Flamberg 101
+[flamberger]
+  Brauerei Michael Löscher
+  www.flamberger.at
+  8505 St. Nikolai i. S. // Flamberg 101
 
-bevog, Brauhaus Bevog, www.bevog.at, ST, 8490 Bad Radkersburg // Gewerbepark B Nr. 9
+[bevog]
+  Brauhaus Bevog
+  www.bevog.at
+  8490 Bad Radkersburg // Gewerbepark B Nr. 9
 
-leutschach, Brauerei Leutschach, www.diebrauerei.com, ST, 8463 Leutschach // Schillerplatz 3
+[leutschach]
+  Brauerei Leutschach
+  www.diebrauerei.com
+  8463 Leutschach // Schillerplatz 3
 
 gratzer, Brauerei Gratzer, www.brauereigratzer.at, ST, 8224 Kaindorf // Obertiefenbach 26
 
