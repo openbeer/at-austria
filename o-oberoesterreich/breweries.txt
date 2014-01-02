@@ -184,10 +184,3 @@
   Steffinger Brauerei
   4170 St. Stefan am Walde // Unterriedl 4
 
-###################
-# brewpubs
-
-[leimerbraeu]
-  Braugasthof Leimer|Leimer Bräu
-  4860 Lenzing // Atterseestraße 34
-

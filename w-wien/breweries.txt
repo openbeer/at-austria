@@ -2,22 +2,8 @@
 # Breweries in Wien [Vienna] (W) / Eastern Austria
 
 
-ottakringer, Ottakringer Brauerei **, 1838, www.ottakringer.at, W, 1160 Wien // Ottakringer Platz 1
+[ottakringer]
+  Ottakringer Brauerei **, 1838
+  www.ottakringer.at
+  1160 Wien // Ottakringer Platz 1
   brands: Ottakringer
-
-
-
-
-###################
-# brewbups
-
-siebensternbraeu, 7 Stern Bräu|Siebensternbräu, 1994, www.7stern.at, W,  1070 Wien // Siebensterngasse 19
-
-#  fix: will not work w/ 7sternbraeu auto generated key; allow or use siebensternbraeu?
-#  brands: 7 Stern Bräu     # todo/check: auto-key works with leading number? (possible/allowed?)
-# Annual production: 1_400 hl
-
-
-medl, Medl Bräu, 1989, 1140 Wien // Linzer Straße 275
-  brands: Medl Bräu
-# Annual production: 600 hl

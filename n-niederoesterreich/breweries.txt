@@ -121,17 +121,6 @@
   3003 Gablitz // Spitzersteig 10
 
 
-##################
-# Brewpubs
-
-[fiakerbraeu]
-  Fiaker Bräu
-  www.fiakerwirt.at
-  3550 Langenlois // Holzplatz 7
-
-[haselbraeu]
-  Wirtshausbrauerei Haselböck
-  3662 Münichreith am Ostrong // Hausbrauerstraße 3
 
 [kartausenbraeu]
   Privatbrauerei Gaming|Kartausen Bräu

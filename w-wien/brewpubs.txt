@@ -1,0 +1,64 @@
+#######################################################
+# Brewpubs in Wien [Vienna] (W) / Eastern Austria
+
+
+# todo: move to wien.db ??
+
+[siebensternbraeu]
+  7 Stern Bräu|Siebensternbräu, 1994
+  www.7stern.at
+  1070 Wien // Siebensterngasse 19
+  1_400 hl  # annual production
+
+#  fix: will not work w/ 7sternbraeu auto generated key; allow or use siebensternbraeu?
+#  brands: 7 Stern Bräu     # todo/check: auto-key works with leading number? (possible/allowed?)
+
+
+[medlbraeu]
+  Medl Bräu, 1989
+  1140 Wien // Linzer Straße 275
+  brands: Medl Bräu
+  600 hl  # annual production 
+
+[fifteensixteen]
+  1516 Brewing Company
+  1010 Wien // Krugerstraße 18/Schwarzenbergstraße 2
+
+[schwarzenberg]
+  Stadtbrauerei Schwarzenberg
+  1010 Wien // Schellinggasse 14
+
+[salmbraeu]
+  Salm Bräu, 1994
+  1030 Wien // Rennweg 8
+  3_000 hl # Annual production
+
+[wiedenbraeu]
+  Wieden-Bräu, 1991
+  www.wieden-braeu.at
+  1040 Wien // Waaggasse 5
+  1_600 hl #  Annual production
+  
+[lichtenthalerbraeu]
+  Lichtenthaler Bräu
+  1090 Wien // Lichtensteinstrasse 108
+
+[highlander]
+  The Highlander
+  1090 Wien // Sobieskiplatz 4
+
+[rabenbraeu]
+  Schwarzer Rabe|Raben Bräu
+  www.rabenbraeu.at
+  1160 Wien // Ottakringer Straße 180
+
+[fischerbraeu]
+  Fischerbräu, 1985
+  www.fischerbraeu.at
+  1190 Wien // Billrothstraße 17
+  3_000 hl  # Annual production
+  
+[kadlezbraeu]
+  Kadlez Bräu
+  1210 Wien // Floridsdorfer Hauptstraße 9
+

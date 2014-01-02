@@ -1,0 +1,40 @@
+#######################################################################
+# Brewpubs in Niederösterreich [Lower Austria] (N) / Eastern Austria
+
+[fiakerbraeu]
+  Fiaker Bräu
+  www.fiakerwirt.at
+  3550 Langenlois // Holzplatz 7
+
+[haselbraeu]
+  Wirtshausbrauerei Haselböck
+  3662 Münichreith am Ostrong // Hausbrauerstraße 3
+
+
+
+Brauerei Brauhotel Weitra, 3970 Weitra // Rathausplatz 6
+
+
+Dunkelsteiner Bräu, 3121 Karlstetten // Schaubing 2
+
+Erlauftaler Bräu, 3250 Wieselburg // Teichweg 6
+
+
+Gasthof Diewald, 2640 Gloggnitz // Raach am Hochgebirge 38
+
+Brauerei Dangl, 3763 Japons // Zettenreith 7
+
+Linko Bräu, 3160 Traisen // Gartengasse 9
+
+Poidl Bräu, 2563 Pottenstein // Wehrgasse 6
+
+
+Privatbrauerei Maria Pichler, 3633 Schönbach // Schönbach 1
+
+Rax Bräu, 2650 Payerbach // Hauptstraße 40
+
+
+Ybbstal Bräu Gasthaus Hehenberger, 3340 Waidhofen/Ybbs // Wienerstraße 28
+
+Zecherbräu, 2640 Enzenreith // Siedlaustraße 129
+

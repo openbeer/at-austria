@@ -1,0 +1,7 @@
+######################################################################
+# Brewpubs in Oberösterreich [Upper Austria] (O) / Western Austria
+
+[leimerbraeu]
+  Braugasthof Leimer|Leimer Bräu
+  4860 Lenzing // Atterseestraße 34
+

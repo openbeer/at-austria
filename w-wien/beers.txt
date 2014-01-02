@@ -1,21 +1,31 @@
 ##############################
 # Wien (W)
 
-Ottakringer Helles,                  5.2 %, 11.8°, by:ottakringer
-Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°, by:ottakringer
-Ottakringer (Gold Fassl) Pils,       4.6 %, 11.2°, by:ottakringer
-Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, by:ottakringer, bio
-Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°, by:ottakringer
-Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°, by:ottakringer
-Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°, by:ottakringer
-Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°, by:ottakringer
+__________________________
+- Ottakringer Brauerei
+
+Ottakringer Helles,                  5.2 %, 11.8°
+Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°
+Ottakringer (Gold Fassl) Pils,       4.6 %, 11.2°
+Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, bio
+Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°
+Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°
+Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°
+Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°
 
 ##########
 # brewpubs
 
 # NB: can NOT use autokey starts with number e.g. 7stern -> allow? in future - why? why not?
 
-siebensternbraeuwienerhelles, 7 Stern Bräu Wiener Helles, 4.7%, 11.8°, by:siebensternbraeu
-siebensternbraeumaerzen,      7 Stern Bräu Märzen,        5.1%, 13.5°, by:siebensternbraeu
+________________________________
+- 7 Stern Bräu|Siebensternbräu
 
-Medl Bräu Märzen,   4.9%, 12.2°, by:medl
+siebensternbraeuwienerhelles, 7 Stern Bräu Wiener Helles, 4.7%, 11.8°
+siebensternbraeumaerzen,      7 Stern Bräu Märzen,        5.1%, 13.5°
+
+______________
+- Medl Bräu
+
+Medl Bräu Märzen,   4.9%, 12.2°
+

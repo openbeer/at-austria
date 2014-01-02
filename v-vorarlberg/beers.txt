@@ -1,33 +1,43 @@
 #####################
 # Vorarlberg
 
-Mohren Pilsner,  4.8%, 11.3°, by:mohren
-Mohren Ländle, by:mohren
-Mohren Kellerbier|Mohrenbräu Kellerbier|Mohren Zwickl, 5.7%, 12.8°, c:16, by:mohren  # Spezialbier unfiltriert
-Mohren Spezial,  5.6%, 12.7°, by:mohren
-Mohren Pfiff,    4.9%, 11.6°, by:mohren
+______________________________
+-  Mohrenbrauerei, Dornbirn
 
+Mohren Pilsner,  4.8%, 11.3°
+Mohren Ländle
+Mohren Kellerbier|Mohrenbräu Kellerbier|Mohren Zwickl, 5.7%, 12.8°, c:16  # Spezialbier unfiltriert
+Mohren Spezial,  5.6%, 12.7°
+Mohren Pfiff,    4.9%, 11.6°
 
-Fohrenburger Jubiläum,  5.5%, 12.8°, by:fohrenburg   # Spezialbier
-Fohrenburger Stiftle,   4.8%, 11.8°, by:fohrenburg
-Fohrenburger Märzen,    4.8%, 11.8°, by:fohrenburg
-Fohrenburger Keller Naturtrüb, 5.3%, 12.7°, by:fohrenburg    # Spezialbier
-Fohrenburger Weizen,    5.2%, 12.5°,  by:fohrenburg, weizenbier
-Fohrenburger Dunkles,   5.5%, 12.7°,  by:fohrenburg,  #  Dunkles Spezialbier
-Fohrenburger Bock,      7.2%, 16.2°,  by:fohrenburg
-Fohrenburger Pils,      4.8%, 11.7°,  by:fohrenburg  # Vollbier
+_________________________________
+- Brauerei Fohrenburg, Bludenz
 
-Engelburg Bräu, 4.2%, 9.9°, by:fohrenburg     # Schankbier
+Fohrenburger Jubiläum,  5.5%, 12.8°   # Spezialbier
+Fohrenburger Stiftle,   4.8%, 11.8°
+Fohrenburger Märzen,    4.8%, 11.8°
+Fohrenburger Keller Naturtrüb, 5.3%, 12.7°    # Spezialbier
+Fohrenburger Weizen,    5.2%, 12.5°, weizenbier
+Fohrenburger Dunkles,   5.5%, 12.7°  #  Dunkles Spezialbier
+Fohrenburger Bock,      7.2%, 16.2°
+Fohrenburger Pils,      4.8%, 11.7° # Vollbier
 
+Engelburg Bräu, 4.2%, 9.9°    # Schankbier
 
-Egger Spezial, 5.5%, 12.8°, by:egg    # Helles Spezialbier
-Wälder Spezial, 5.5%, 12.7°, by:egg   # Helles Spezialbier
-Wälder Zwickl, 5.5%, 12.8°, by:egg
+________________________________
+- Brauerei Egg
 
-Frastanzer Gold Spezial, 5.5%, 12.6°, by:frastanz     # Vollbier Helles
-Frastanzer Jubiläum,     4.9%, 11.7°, by:frastanz     # Vollbier Pils
-Frastanzer Kellerbier Naturtrüb, 5.5%, 12.6°, by:frastanz  # Vollbier Zwickl
-Frastanzer Pils,        4.9%, 11.7°, by:frastanz     # Vollbier Pils
-Frastanzer s'klenne,    4.9%, 11.7°, by:frastanz     # Vollbier
+Egger Spezial, 5.5%, 12.8°    # Helles Spezialbier
+Wälder Spezial, 5.5%, 12.7°  # Helles Spezialbier
+Wälder Zwickl, 5.5%, 12.8°
+
+_________________________________________________
+- Vorarlberger Brauereigenossenschaft Frastanz
+
+Frastanzer Gold Spezial, 5.5%, 12.6°     # Vollbier Helles
+Frastanzer Jubiläum,     4.9%, 11.7°    # Vollbier Pils
+Frastanzer Kellerbier Naturtrüb, 5.5%, 12.6°  # Vollbier Zwickl
+Frastanzer Pils,        4.9%, 11.7°     # Vollbier Pils
+Frastanzer s'klenne,    4.9%, 11.7°     # Vollbier
 
 
