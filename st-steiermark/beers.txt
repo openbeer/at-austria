@@ -1,50 +1,74 @@
-##############################
+########################
 # Steiermark (ST)
 
-Gösser Märzen,  5.2%, 11.8°, by:goesser     # main/bestseller brand (70%)
-Gösser Gold,    5.3%, 12.2°, c:7, b:25, by:goesser  # premium   # NB:b:25 = 25 IBU = bitterness 
-Gösser Spezial, 5.7%, 13.2°, by:goesser
-Gösser Zwickl|Gösser Zwickl Naturtrüb,  5.2%, 11.8°, by:goesser
-Gösser Dunkles Zwickl,  5.7%, 13.2°, by:goesser
-Gösser Bock,    7.1%, 16.2°, by:goesser   # ausschließlich für die Weihnachtszeit gebraut
-Gösser Stiftsbräu, 4.2%, 11.8°, by:goesser
+______________________________________________
+- Gösser Brauerei (Brau Union)|Brauerei Göss
+
+Gösser Märzen,  5.2%, 11.8°     # main/bestseller brand (70%)
+Gösser Gold,    5.3%, 12.2°, c:7, b:25  # premium   # NB:b:25 = 25 IBU = bitterness 
+Gösser Spezial, 5.7%, 13.2°
+Gösser Zwickl|Gösser Zwickl Naturtrüb,  5.2%, 11.8°
+Gösser Dunkles Zwickl,  5.7%, 13.2°
+Gösser Bock,    7.1%, 16.2°, seasonal|weihnacht   # ausschließlich für die Weihnachtszeit gebraut
+Gösser Stiftsbräu, 4.2%, 11.8°
+
+_________________________________________
+- Brauerei Puntigam (Brau Union), Graz
+
+Puntigamer Panther,               5.2%, 12.1°   # main/bestseller brand 
+Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, maerzen
+Puntigamer Winterbier,            6.0%, 13.8°
+
+Reininghaus Märzen,              5.0%, 11.8°
+Reininghaus Pils,                4.8%, 11.4°
+Reininghaus Jahrgangspils 2011,  4.9%, 11.3°
+Reininghaus Jahrgangspils 2012,  4.9%, 11.3°, c:5  # origin: Reininghaus Familie/Adel/Graf aus Graz?
+Reininghaus Malz,                4.5%, 11.8°
+
+_______________________________________________
+- Schladminger Brau (Brau Union), Schladming
+
+Schladminger Märzen,             5.1%, 11.7°,
+Schladminger Schnee Weiße,       5.0%, 12.2°, weizenbier
+Schladminger BioZwickl,          5.2%, 11.9°
+Schladminger Sepp,               5.1%, 11.7°
+
+__________________________________________
+- Obermurtaler Brauerei|Brauerei Murau
+
+Murauer Märzen,   5.2%, 12.5°
+Murauer Pils,     5.1%, 12.2°
+Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
+
+_______________________
+- Brauerei Leutschach
+
+Rossnatur,  5.3%, 12.2°
+
+_______________________________
+- Brauerei Gratzer, Kaindorf
+
+Gratzer Johann, 5.3%, 12.8°   # Spezialbier Maerzen
+Gratzer Ludwig, 7.2%, 16.7°   # Bockbier
 
 
-Puntigamer Panther,               5.2%, 12.1°, by:puntigam   # main/bestseller brand 
-Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, by:puntigam,  maerzen
-Puntigamer Winterbier,            6.0%, 13.8°, by:puntigam
+____________________________________
+- Handbrauerei Forstner, Kalsdorf
 
-Reininghaus Märzen,              5.0%, 11.8°,  by:puntigam # ST, city:graz, by:brauunion
-Reininghaus Pils,                4.8%, 11.4°,  by:puntigam # ST, city:graz, by:brauunion
-Reininghaus Jahrgangspils 2011, 4.9%, 11.3°,   by:puntigam
-Reininghaus Jahrgangspils 2012, 4.9%, 11.3°, c:5, by:puntigam # ST, city:graz, by:brauunion   # origin: Reininghaus Familie/Adel/Graf aus Graz?
-Reininghaus Malz,                4.5%, 11.8°,  by:puntigam # ST, city:graz, by:brauunion
+Forstner Blond Pale Ale, 5.0%, 12.6°
+Forstner Das Rote,       5.0%, 12.5°   # Vollbier
+Forstner Slow 2 Roggen Ale, 5.4%, 13.4°
+Forstner Styrian Ale,    6.6%, 15.4°
+Forstner Triple 22,      9.5%, 22.2°
+Forstner Vollmond Doppelbock, 7.5%, 18.3°
 
-Schladminger Märzen,             5.1%, 11.7°,  by:schladminger
-Schladminger Schnee Weiße,       5.0%, 12.2°,  by:schladminger, weizenbier
-Schladminger BioZwickl,          5.2%, 11.9°,  by:schladminger
-Schladminger Sepp,               5.1%, 11.7°,  by:schladminger
+___________________________
+- Toni Bräu, Ebersdorf 
 
-Murauer Märzen,   5.2%, 12.5°,  by:murau
-Murauer Pils,     5.1%, 12.2°,  by:murau
-Murauer Hopfengold, 5.7%, 13.5°, c:12, by:murau, spezial
+Toni Bräu Helles, 5.0%, 12.0°
 
+___________________________
+- Trieb Bräu, St. Marein
 
-Rossnatur,  5.3%, 12.2°,  by:leutschach
+Trieb Bräu Märzen, 5.1%
 
-Gratzer Johann, 5.3%, 12.8°, by:gratzer  # Spezialbier Maerzen
-Gratzer Ludwig, 7.2%, 16.7°, by:gratzer  # Bockbier
-
-
-Forstner Blond Pale Ale, 5.0%, 12.6°,  by:forstner
-Forstner Das Rote,       5.0%, 12.5°,  by:forstner    # Vollbier
-Forstner Slow 2 Roggen Ale, 5.4%, 13.4°,  by:forstner
-Forstner Styrian Ale,    6.6%, 15.4°,  by:forstner
-Forstner Triple 22,      9.5%, 22.2°,  by:forstner
-Forstner Vollmond Doppelbock, 7.5%, 18.3°,  by:forstner
-
-
-Toni Bräu Helles, 5.0%, 12.0°, by:tonibraeu
-
-
-Trieb Bräu Märzen, 5.1%, by:triebbraeu
