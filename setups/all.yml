@@ -1,25 +1,32 @@
 
 breweries:
-- at-austria!/b-burgenland/breweries
-- at-austria!/k-kaernten/breweries
-- at-austria!/n-niederoesterreich/breweries
-- at-austria!/o-oberoesterreich/breweries
-- at-austria!/s-salzburg/breweries
-- at-austria!/st-steiermark/breweries
-- at-austria!/t-tirol/breweries
-- at-austria!/v-vorarlberg/breweries
-- at-austria!/w-wien/breweries
+- at-austria!/1--b-burgenland--eastern/breweries
+- at-austria!/1--n-niederoesterreich--eastern/breweries
+- at-austria!/1--w-wien--eastern/breweries
+- at-austria!/2--k-kaernten--southern/breweries
+- at-austria!/2--st-steiermark--southern/breweries
+- at-austria!/3--o-oberoesterreich--western/breweries
+- at-austria!/3--s-salzburg--western/breweries
+- at-austria!/3--t-tirol--western/breweries
+- at-austria!/3--v-vorarlberg--western/breweries
 - at-austria!/breweries.hl
 
-beers:
-- at-austria!/b-burgenland/beers
-- at-austria!/k-kaernten/beers
-- at-austria!/n-niederoesterreich/beers
-- at-austria!/o-oberoesterreich/beers
-- at-austria!/s-salzburg/beers
-- at-austria!/st-steiermark/beers
-- at-austria!/t-tirol/beers
-- at-austria!/v-vorarlberg/beers
-- at-austria!/w-wien/beers
+brewpubs:
+- at-austria!/1--n-niederoesterreich--eastern/brewpubs
+- at-austria!/1--w-wien--eastern/brewpubs
+- at-austria!/3--o-oberoesterreich--western/brewpubs
 
-#- at-austria!/beers_non_alcoholic   # skip non-alcoholic beers
+beers:
+- at-austria!/1--b-burgenland--eastern/beers
+- at-austria!/1--n-niederoesterreich--eastern/beers
+- at-austria!/1--w-wien--eastern/beers
+- at-austria!/2--k-kaernten--southern/beers
+- at-austria!/2--st-steiermark--southern/beers
+- at-austria!/3--o-oberoesterreich--western/beers
+- at-austria!/3--s-salzburg--western/beers
+- at-austria!/3--t-tirol--western/beers
+- at-austria!/3--v-vorarlberg--western/beers
+
+# skip non-alcoholic beers
+#- at-austria!/beers_non_alcoholic
+
