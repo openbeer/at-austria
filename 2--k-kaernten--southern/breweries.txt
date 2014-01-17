@@ -1,5 +1,5 @@
 ###############################################################
-# Breweries in Kärnten [Carinthia] (K) / Southern Austria
+# Breweries in Kärnten [Carinthia] (K) - Southern Austria
 
 
 [hirt]
@@ -10,7 +10,7 @@
 
 
 [villacher]
-  Vereinigte Kärntner Brauereien **      # todo/fix!!: change name to Villacher
+  Villacher Brauerei (Vereinigte Kärntner Brauereien) **
   www.villacher.com
   9500 Villach // Brauhausgasse 6
   brands: Villacher, Piestinger
@@ -18,7 +18,7 @@
 [schleppe]
   Schleppe Brauerei (Vereinigte Kärntner Brauereien) *, 1607
   www.schleppe.at
-  K, 9020 Klagenfurt // Schleppeplatz 1
+  9020 Klagenfurt // Schleppeplatz 1
   brands: Schleppe
 
 
