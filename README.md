@@ -1,11 +1,11 @@
-# Beers n Breweries in Austria (Österreich)
+# Beers, Breweries n Brewpubs in Austria (Österreich)
 
 
-Free open public domain beer n brewery data for Austria / Europe. Example:
+Free open public domain beer, brewery n brewpub data for Austria / Europe. Example:
 
 ~~~
-__________________________
-- Ottakringer Brauerei
+_______________________________
+- Ottakringer Brauerei, Wien
 
 Ottakringer Helles,                  5.2 %, 11.8°
 Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°
