@@ -1,0 +1,13 @@
+
+breweries:
+- at-austria!/1--b-burgenland--eastern/breweries
+- at-austria!/1--n-niederoesterreich--eastern/breweries
+- at-austria!/1--w-wien--eastern/breweries
+
+
+beers:
+- at-austria!/1--b-burgenland--eastern/beers
+- at-austria!/1--n-niederoesterreich--eastern/beers
+- at-austria!/1--w-wien--eastern/beers
+
+
