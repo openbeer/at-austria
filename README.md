@@ -1,11 +1,7 @@
 # Beers, Breweries n Brewpubs in Austria (Österreich)
 
 
-Free open public domain beer, brewery n brewpub data for Austria / Europe.
-More [´beer.db´ Project Site »](http://openbeer.github.io)
-
-
-Example:
+Free open public domain beer, brewery n brewpub data for Austria / Europe. Example:
 
 ~~~
 _______________________________
@@ -36,6 +32,9 @@ Augustiner Bock,    6.5%,  16.5°
 
 ...
 ~~~
+
+More at the [`beer.db` Project Site »](http://openbeer.github.io)
+
 
 ## Real World Usage
 
