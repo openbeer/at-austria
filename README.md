@@ -33,7 +33,7 @@ Augustiner Bock,    6.5%,  16.5°
 ...
 ~~~
 
-More at the [Open Beer, Brewery n Brewpub Data (beer.db) Project Site »](http://openbeer.github.io)
+More at the [Open Beer, Brewery n Brewpub Data (`beer.db`) Project Site »](http://openbeer.github.io)
 
 
 
