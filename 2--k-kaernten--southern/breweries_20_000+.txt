@@ -1,0 +1,10 @@
+###############################################################
+# Breweries in Kärnten [Carinthia] (K) - Southern Austria
+
+[schleppe]
+  Schleppe Brauerei (Vereinigte Kärntner Brauereien) *, 1607
+  www.schleppe.at
+  9020 Klagenfurt // Schleppeplatz 1
+  brands: Schleppe
+  60_000 hl
+

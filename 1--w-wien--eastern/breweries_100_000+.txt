@@ -4,6 +4,8 @@
 
 [ottakringer]
   Ottakringer Brauerei **, 1838
-  www.ottakringer.at
   1160 Wien // Ottakringer Platz 1
+  www.ottakringer.at
   brands: Ottakringer
+  740_000 hl
+

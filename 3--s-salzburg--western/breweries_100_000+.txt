@@ -1,0 +1,32 @@
+####################################################
+# Breweries in Salzburg (S) / Western Austria
+
+
+#####################
+# Stadt Salzburg
+
+[stiegl]
+  Stieglbrauerei|Stieglbrauerei zu Salzburg ***, 1492
+  5017 Salzburg // Kendlerstraße 1
+  www.stiegl.at
+  brands: Stiegl
+  775_000 hl
+
+
+###############
+# Land Salzburg
+
+[trumer]
+  Trumer Privatbrauerei **
+  5162 Obertrum // Brauhausgasse 2
+  www.trumer.at
+  brands: Trumer
+  100_000 hl
+
+[kaltenhausen]
+  Hofbräu Kaltenhausen (Brau Union) **, 1475
+  5400 Hallein-Kaltenhausen // Salzburger Straße 67
+  www.kaltenhausen.at
+  brands: Edelweiss
+  brauunion
+

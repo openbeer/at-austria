@@ -1,0 +1,9 @@
+#####################################################
+# Breweries in Burgenland (B) / Eastern Austria
+
+[gols]
+  Pannonia Brauerei Gols *
+  www.golserbier.at
+  7122 Gols // Sandgrube 1a
+  brands: Golser
+

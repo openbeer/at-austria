@@ -5,26 +5,8 @@
 #####################
 # Stadt Salzburg
 
-[stiegl]
-  Stieglbrauerei|Stieglbrauerei zu Salzburg ***, 1492
-  www.stiegl.at
-  5017 Salzburg // Kendlerstraße 1
-  brands: Stiegl
-
-# NB: augustiner key already in use by Augustiner Bräu in Muenchen / de
-
-[augustinermuelln]
-  Augustiner Bräu Kloster Mülln *, 1621
-  www.augustinerbier.at
-  5020 Salzburg // Lindhofstraße 7
-
 #####
 # -- Microbreweries
-
-[gusswerk]
-  Brauerei Gusswerk
-  www.brauhaus-gusswerk.at
-  5020 Salzburg // Söllheimerstraße 16
 
 [dieweisse]
   Die Weisse Brauerei, 1901
@@ -34,17 +16,4 @@
 
 ###############
 # Land Salzburg
-
-[trumer]
-  Trumer Privatbrauerei **
-  www.trumer.at
-  5162 Obertrum // Brauhausgasse 2
-  brands: Trumer
-
-[kaltenhausen]
-  Hofbräu Kaltenhausen (Brau Union) **, 1475
-  www.kaltenhausen.at
-  5400 Hallein-Kaltenhausen // Salzburger Straße 67
-  brands: Edelweiss
-  brauunion
 

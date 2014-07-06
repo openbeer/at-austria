@@ -2,68 +2,6 @@
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
 
-##########
-# Wien Umbgebung
-
-[schwechat]
-  Brauerei Schwechat (Brau Union) **, 1796
-  www.schwechater.at
-  2320 Schwechat // Mautner Markhof-Straße 11
-  brands: Schwechater
-  brau_union   # Part of Brau Union
-
-
-#############
-# Waldviertel
-
-[zwettler]
-  Zwettler Brauerei|Privatbrauerei Zwettl **, 1709
-  www.zwettler.at
-  3910 Zwettl // Syrnauer Straße 22-25
-  brands: Zwettler
-
-[weitra]
-  Weitra Bräu Bierwerkstatt|Brauerei Weitra *, 1321
-  www.bierwerkstatt.at
-  3970 Weitra // Sparkasseplatz 160
-  brands: Weitra, Hadmar
-  zwettler   # Part of Zwettler
-
-[schrems]
-  Brauerei Schrems *, 1410
-  www.schremser.at
-  3943 Schrems // Niederschremser Straße 1
-  brands: Schremser
-
-
-#############
-# Weinviertel
-
-[hubertus]
-  Hubertus Bräu *, 1454
-  www.hubertus.at
-  2136 Laa/Thaya // Hubertusgasse 1
-  brands: Hubertus
-
-
-#############
-#  Uncategorized
-
-[wieselburg]
-  Brauerei Wieselburg (Brau Union) **, 1770
-  www.wieselburger.at
-  3250 Wieselburg // Dr.-Beuerle-Straße 1
-  brands: Wieselburger
-  brau_union  # Part of Brau Union
-
-
-[egger]
-  Privatbrauerei Fritz Egger **, 1978
-  www.egger-bier.at
-  3105 Unterradlberg // Tiroler Straße 18
-  brands: Egger
-
-
 ####
 # Microbreweries
 
@@ -119,8 +57,6 @@
   Gablitzer Privatbrauerei, 2009
   www.gablitzer.at
   3003 Gablitz // Spitzersteig 10
-
-
 
 [kartausenbraeu]
   Privatbrauerei Gaming|Kartausen Bräu

@@ -2,92 +2,9 @@
 # Breweries in Oberösterreich [Upper Austria] (O) / Western Austria
 
 
-###
-# todo: add ?? Hausruckviertel | Traunviertel
-#  | Oberösterreichischer Zentralraum ein fünftes Viertel (Linz Umgebung??)
-#
-
-
-##############################################
-#  Mühlviertel / Mühlkreis
-#   see de.wikipedia.org/wiki/Mühlviertel
-
-[schlaegl]
-  Stiftsbrauerei Schlägl *, 1580
-  www.schlaegl.co.at
-  4160 Schlägl // Schlägl 1 (Mühlviertel)
-  brands: Schlägl
-
-[freistaedter]
-  Freistädter Brauhaus|Braucommune in Freistadt *, 1770
-  www.freistaedter-bier.at
-  4240 Freistadt // Brauhausstraße 2 (Mühlviertel)
-  brands: Freistädter
-
-[hofstetten]
-  Brauerei Hofstetten *
-  www.hofstetten.at
-  4113 St. Martin // Adsdorf 5 (Mühlviertel)
-
-
 #####################################################
 # Innviertel / Innkreis
 #   see de.wikipedia.org/wiki/Innviertel
-
-[kapsreiter]
-  Kapsreiter Brauerei *
-  4780 Schärding // Linzer Straße 1
-  brands: Kapsreiter
-  ottakringer   # Part of Ottakringer
-
-[baumgartner]
-  Brauerei Jos. Baumgartner *, 1609
-  www.brauerei-baumgartner.at
-  4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)
-
-[schnaitl]
-  Brauerei Schnaitl|Privatbrauerei Schnaitl *, 1842
-  www.schnaitl.at
-  5142 Eggelsberg // Gundertshausen 9 (Innviertel)
-  brands: Schnaitl
-
-[vitzthum]
-  Brauerei Vitzthum *, 1600
-  www.uttendorf-bier.com
-  5261 Uttendorf // Uttendorf 25 (Innviertel)
-  brands: Uttendorfer
-
-[ried]
-  Brauerei Ried *, 1536
-  www.rieder-bier.at
-  4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)
-  brands: Rieder
-
-[kellerbrauerei]
-  Kellerbrauerei, 1446
-  www.kellerbrauerei.at
-  4910 Ried/Innkreis // Am Kellerbräuberg 2
-
-[raschhofer]
-  Brauerei Raschhofer, 1645
-  www.raschhoferbier.at
-  4950 Altheim // Braunauer Straße 12
-
-[wurmhoeringer]
-  Privatbrauerei Wurmhöringer, 1652
-  www.wurmhoeringer.at
-  4950 Altheim // Stadtplatz 10/11
-
-[grieskirchen]
-  Brauerei Grieskirchen *, 1708
-  www.grieskirchner.at
-  4710 Grieskirchen // Stadtplatz 14
-  brands: Grieskirchner
-
-[stiftengelszell]
-  Trappistenbrauerei / Stift Engelszell
-  www.stift-engelszell.at
-  4090 Engelhartszell // Stiftstraße 6
 
 # brewpub
 
@@ -95,38 +12,6 @@
   Hausbrauerei Bogner
   www.hausbrauerei-bogner.at
   5280 Braunau // Haselbach 26 (Innviertel)   # Kleinste Weißbierbrauerei der Welt
-
-
-##############################
-# Salzkammergut (Teil in OÖ)
-
-## NB: eggenberg key used by Pivovar Eggenberg in Český Krumlov
-
-[schlosseggenberg]
-  Brauerei Schloss Eggenberg **, 1681
-  www.schloss-eggenberg.at
-  4655 Vorchdorf // Eggenberg 1
-  brands: Schloss Eggenberg, Samichlaus
-
-
-################################
-# Uncategorized
-
-
-[zipf]
-  Brauerei Zipf (Brau Union) **
-  www.zipfer.at
-  4871 Zipf // Zipf 22
-  brands: Zipfer
-  brau_union  # Part of Brau Union
-
-
-## todo: make into/mark as holding company ??
-[brauunion]
-  Brau Union Österreich
-  www.brauunion.at
-  4020 Linz // Poschacherstrasse 35
-
 
 
 ####################
