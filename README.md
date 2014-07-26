@@ -42,6 +42,12 @@ More at the [Open Beer, Brewery n Brewpub Data (`beer.db`) Project Site »](http
 - [The Free World Beer Book › Austria](http://openbeer.github.io/book/at.html)
 
 
+## Real World Slideshow (Brewery n Beer Fotos)
+
+- [Ottakringer Braukultur-Wochen 2014](https://plus.google.com/photos/100841117019192894371/albums/6038058312732921473)
+
+
+
 ## Questions? Comments?
 
 Send them along to the
