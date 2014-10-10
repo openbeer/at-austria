@@ -55,7 +55,6 @@
 
 [attersee]
   Brauerei Attersee
-  www.brauerei-attersee.at
   4881 Straß (i. Attergau) // Straß 8
   brands: Attersee Bräu
   www.brauerei-attersee.at
