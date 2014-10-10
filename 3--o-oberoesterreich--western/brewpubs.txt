@@ -1,7 +1,73 @@
 ######################################################################
 # Brewpubs in Oberösterreich [Upper Austria] (O) / Western Austria
 
+
+[biohofbrauereifuerst]
+  Bio-Hofbrauerei Fürst
+  4212 Neumarkt im Mühlkreis // Möhringdorf 8 
+
+[bratlbraeu]
+  Bratl Bräu
+  4372 St. Georgen am Walde // Markt 13
+
+[brauhofgoldberg]
+  Brauhof Goldberg
+  4521 Schiedlberg // Weichstettenstraße 119
+
+[kaltenboeck]
+  Brauerei Kaltenböck
+  4864 Attersee // Palmsdorf 17
+
+[ederbraeu]
+  Eder-Bräu Bierbuschenschank
+  4292 Kefermarkt // Netzberg 32
+
+[ernstinger]
+  Ernstinger Wirt's Bräu
+  5121 Ostermiething // Ernsting 6
+
+[zumalfons]
+  Gasthausbrauerei Zum Alfons
+  4690 Schwanenstadt // Bergern 2
+
+[gerstlbraeu]
+  Gerstl Bräu 
+  4600 Wels // Freiung 9-11 
+
+[bogner]
+  Hausbrauerei Bogner                   ## Kleinste Weißbierbrauerei der Welt   
+  www.hausbrauerei-bogner.at
+  5280 Braunau am Inn // Haselbach 26   ## - Innviertel  
+
+[rampnbraeu]
+  Hofrauerei Preuner|Ramp'n Bräu
+  4873 Frankenburg // Vordersteining 5
+
+[kemmetbraeu]
+  Kemmet Bräu
+  4580 Windischgarsten // Hauptstraße 22
+
 [leimerbraeu]
   Braugasthof Leimer|Leimer Bräu
   4860 Lenzing // Atterseestraße 34
+
+[sandbergbraeu]
+  Sandberg Bräu
+  4550 Kremsmünster // Sandberg 1
+
+[schlossbrauereiweinberg]
+  Schloßbrauerei Weinberg 
+  4292 Kefermarkt // Weinberg 2
+
+[staffelmayr]
+  Staffelmayr Gutshofbräu 
+  4400 Steyr // Kegelprielstraße 17
+
+[thorbraeu]
+  Thor-Bräu
+  4100 Ottensheim // Hostauerstraße 2
+
+[voralpenbraeu]
+  Voralpenbräu
+  4642 Sattledt // Hauptstraße 13
 
