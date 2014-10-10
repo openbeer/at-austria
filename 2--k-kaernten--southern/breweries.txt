@@ -7,12 +7,12 @@
 
 [loncium]
   Privatbrauerei Loncium
-  www.loncium.at
   9640 Kötschach-Mauthen // Mauthen 60
+  www.loncium.at
 
 [wimitz]
   Wimitzbräu
-  www.wimitzbraeu.com
   9311 Kraig // Wimitz 7
+  www.wimitzbraeu.com
 
 
