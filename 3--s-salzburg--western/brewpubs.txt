@@ -2,3 +2,68 @@
 # Brewpubs / Braugasthaus (Gasthaus mit Hausbrauerei)
 
 
+########
+# Salzburg
+
+[isibraeu]
+  Isi-Bräu
+  5020 Salzburg // Bäckerstraße 3
+
+[skloane]
+  s'Kloane Brauhaus
+  5020 Salzburg // Schallmoser Hauptstraße 27
+
+
+##############
+# Salzburg Umgebung
+
+[allerbergerbraeu]
+  Allerberger Bräu
+  5072 Siezenheim // Doktorstraße 49
+
+[zumfassl]
+  Gasthausbrauerei Zum Faßl
+  5082 Grödig // Haupstraße 36
+
+[raggei]
+  Raggei-Bräu
+  5102 Anthering bei Salzburg // Acharting 32
+
+
+##############
+# todo: use regions 
+# - Pinzgau ?
+# - Salzkammergut etc.
+
+[bramsaubraeu]
+  Bramsau-Bräu
+  5324 Faistenau // Bramsaustraße 1
+
+[braeurup]
+  Bräurup
+  5730 Mittersill // Kirchgasse 9
+
+[kiesbyes]
+  Kiesbye's Bierkulturhaus 
+  5162 Obertrum // Dorfplatz 1
+
+[kohlschnait]
+  Kohlschnait Bräu
+  5662 Bruck an der Glocknerstraße // Niederhof 3
+
+[weixen]
+  Landgasthaus Weixen
+  5661 Rauris // Seidlwinkelstraße 114
+
+[schmaranz]
+  Schmaranz Bräu
+  5630 Bad Hofgastein // Wieden 52
+
+[simal]
+  Simal-Bräu
+  5700 Zell am See // Bruckberg 1
+
+[sweizerl]
+  s'Weizerl
+  5151 Nussdorf // Hauptstraße 32
+
