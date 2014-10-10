@@ -18,8 +18,6 @@
   6_500 hl
 
 
-
-
 [korneuburg]
   Biermanufaktur Korneuburg
   www.biermanufaktur.at
@@ -63,16 +61,7 @@
   www.wolfsbrau.at
   2832 Thernberg // Blumengasse 7
 
-[brettner]
-  Brettner Brauerei ("Altes Doktorhaus")
-  www.brettner.at
-  2641 Schottwien // Hauptstraße 49
-
 [gablitzer]
   Gablitzer Privatbrauerei, 2009
   www.gablitzer.at
   3003 Gablitz // Spitzersteig 10
-
-[kartausenbraeu]
-  Privatbrauerei Gaming|Kartausen Bräu
-  3293 Gaming // Kartause 1
