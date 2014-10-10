@@ -7,8 +7,8 @@
 
 [brangerbraeu]
   Branger Bräu, 1993
-  www.brangeralm.at
   6175 Unterperfuß/Innsbruck // Unterperfuß 32
+  www.brangeralm.at
 
 [baumgartnerinnsbruck]   ## NB: baumgartner key already in use for at/oo
   Brauerei Harald Franz Baumgartner
@@ -16,8 +16,8 @@
 
 [starkenberg]
   Brauerei Schloß Starkenberg, 1810
-  www.starkenberg.at
   6464 Tarrenz // Griesegg 1
+  www.starkenberg.at
   ### todo: check production greater 20_000 ???
 
 [kristall]
@@ -26,6 +26,6 @@
 
 [vilser]
   Vilser Privatbrauerei
-  www.vilserprivatbrauerei.at
   6682 Vils // Stadtgasse 2
+  www.vilserprivatbrauerei.at
 
