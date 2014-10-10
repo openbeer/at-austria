@@ -7,6 +7,10 @@
 
 [kobersdorfer]
   Kobersdorfer Schlossbräu
-  www.kobersdorfer.at
   7332 Kobersdorf // Hauptstraße 43
+  www.kobersdorfer.at
+
+[scharrer]
+  Brauerei Scharrer
+  7453 Steinberg-Dörfl // Obere Hauptstraße 129
 
