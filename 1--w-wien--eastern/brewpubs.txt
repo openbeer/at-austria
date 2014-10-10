@@ -1,8 +1,15 @@
 #######################################################
 # Brewpubs in Wien [Vienna] (W) / Eastern Austria
 
+###
+#  todo: sort by bezirk !!!
+#
+#  1- innere stadt
+#  2- leopoldstadt etc.
+
 
 # todo: move to wien.db ??
+
 
 [siebensternbraeu]
   7 Stern Bräu|Siebensternbräu, 1994
@@ -13,6 +20,13 @@
 #  fix: will not work w/ 7sternbraeu auto generated key; allow or use siebensternbraeu?
 #  brands: 7 Stern Bräu     # todo/check: auto-key works with leading number? (possible/allowed?)
 
+[hiaslbraeu]
+  Hiaslbräu
+  1220 Wien // Biberhaufenweg 228 
+
+[zumschwarzenadler]
+  Zum Schwarzen Adler
+  1050 Wien // Schönbrunner Strasse 40
 
 [medlbraeu]
   Medl Bräu, 1989
