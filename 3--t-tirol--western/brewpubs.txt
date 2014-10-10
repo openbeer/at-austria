@@ -2,4 +2,59 @@
 # Brewpubs / Braugasthaus (Gasthaus mit Hausbrauerei)
 
 
+[achensee]
+  Achenseebier Schau- und Hausbrauerei
+  6213 Pertisau //
+
+[ebner]
+  Gasthof Ebner Brauerei
+  6067 Absam // Karl Zanger Straße 17
+
+[rattenberg]
+  Brauhaus Rattenberg
+  6240 Rattenberg // Bienerstraße 84
+
+[dorfbraeu]
+  Dorf Bräu
+  6167 Neustift i. Stubaital // Dorf 15
+
+[heustadl]
+  Gasthofbrauerei Heustadl
+  6622 Rinnen/Berwang // Nr. 38      ## or use 6622 Rinnen/Berwang 38 //  ???
+
+[haidenhof]
+  Haidenhof Wirtshausbrauerei
+  9900 Lienz // Grafendorferstraße 2
+
+[loderbraeu]
+  Loder Bräu Privatbrauerei
+  6344 Walchsee/Kaiserwinkl // Kalvarienweg 5
+
+[mairwirt]
+  Gasthof Mairwirt
+  6385 Schwendt // Dorfstrasse 17
+
+[metzgerbraeu]
+  Metzger Bräu
+  6293 Tux // Lanersbach
+
+[oldybraeu]
+  Oldy Bräu
+  6460 Imst // Josef-Kochstraße 3 
+
+[shoef]
+ s'Höf Bräuhaus
+  6675 Tannheim // Unterhöfen 28 
+
+[strickers]
+  Strickers Dorf-Alm
+  6654 Holzgau // Nr. 71
+
+[stoefflbraeu]
+  Stöfflbräu|Das Bauernhofbräuhaus
+  6330 Schwoich bei Kufstein // Sonnendorf 27
+
+[theresienbraeu]
+  Theresienbräu
+  6020 Innsbruck // Maria-Theresien-Straße 51-53
 
