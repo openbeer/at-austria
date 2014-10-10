@@ -1,7 +1,7 @@
 
 [braugasthofschmidt]
   Braugasthof Schmidt
-  7423 Neustift a.d. Lafnitz 64
+  7423 Neustift a.d. Lafnitz 64 //     ## use // Nr. 64 -- why? why not?
 
 ### fix/todo:
 #  allow trailing numbers in austrian city (is street number if there are no street names in village)
