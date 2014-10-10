@@ -32,13 +32,6 @@
   brands: Gregorius, Benno
 
 
-# brewpub
-
-[bogner]
-  Hausbrauerei Bogner
-  www.hausbrauerei-bogner.at
-  5280 Braunau // Haselbach 26 (Innviertel)   # Kleinste Weißbierbrauerei der Welt
-
 
 ####################
 # More Microbreweries
