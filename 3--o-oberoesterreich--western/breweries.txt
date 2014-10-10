@@ -38,8 +38,8 @@
 
 [argus]
   Argus-Bräu, 2002,
-  www.argus-braeu.at
   4861 Schörfling (am Attersee) // Oberachmanstraße 21
+  www.argus-braeu.at
 
 [aspach]
   Brauerei Aspach (Starzinger), 1777
@@ -58,6 +58,12 @@
   www.brauerei-attersee.at
   4881 Straß (i. Attergau) // Straß 8
   brands: Attersee Bräu
+  www.brauerei-attersee.at
+
+[bachner]
+  Brauerei Bachner
+  4170 St. Stefan am Walde // Unterriedl 4
+
 
 [kaltenboeck]
   Brauerei Kaltenböck
@@ -65,19 +71,19 @@
   brands: Hoangarten
 
 [pfeiffisbraeu]
-  Brauerei Pachinger|Pfeiffi’s Bräu
-  www.pfeiffis-braeu.at
+  Brauerei Pachinger|Pfeiffi's Bräu
   4843 Ampflwang // Vorderschlagen 19
+  www.pfeiffis-braeu.at
 
 [florianibraeu]
   Dörnbacher Floriani-Bräu, 2000
-  www.florianibraeu.at
   4061 Wilhering // Dörnbacherstraße 132
+  www.florianibraeu.at
 
 [biobrauerei]
   Neufeldner Biobrauerei
-  www.biobrauerei.at
   4120 Neufelden // Bräuhausgasse 3
+  www.biobrauerei.at
 
 [schwertberger]
   Schwertberger Bräu
@@ -85,5 +91,9 @@
 
 [steffinger]
   Steffinger Brauerei
-  4170 St. Stefan am Walde // Unterriedl 4
+  4170 St. Stefan am Walde // Unterriedl 4       ### check - still open/in operation in 2014???
 
+[trauner]
+  Trauner Bier
+  4050 Traun // Madlschenterweg 7
+  www.traunerbier.at
