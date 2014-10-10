@@ -6,53 +6,53 @@
 
 [flamberger]
   Brauerei Michael Löscher
-  www.flamberger.at
   8505 St. Nikolai i. S. // Flamberg 101
+  www.flamberger.at
 
 [bevog]
   Brauhaus Bevog
-  www.bevog.at
   8490 Bad Radkersburg // Gewerbepark B Nr. 9
+  www.bevog.at
 
 [leutschach]
   Brauerei Leutschach
-  www.diebrauerei.com
   8463 Leutschach // Schillerplatz 3
+  www.diebrauerei.com
 
 [gratzer]
   Brauerei Gratzer
-  www.brauereigratzer.at
   8224 Kaindorf // Obertiefenbach 26
+  www.brauereigratzer.at
 
 [forstner]
-  Handbrauerei Forstner
-  www.forstner-biere.at
+  Hof-Bräu Kalsdorf|Handbrauerei Forstner
   8401 Kalsdorf // Dorfstraße 52
+  www.forstner-biere.at
 
 [herzoghofbraeu]
   Herzog Hofbräu
-  www.herzog-hofbraeu.at
   8142 Wundschuh // Steindorf 8
+  www.herzog-hofbraeu.at
 
 [pock]
-  Landwerkstatt & Genusslabor
-  www.pockbier.com
+  Landwerkstatt & Genusslabor|Pock Bier
   8481 Weinburg // Pichla/M. 31
+  www.pockbier.com
 
 [nibelungengold]
   Nibelungengold Brauerei
-  www.nibelungengold.at
   8280 Fürstenfeld // Franz-Bauer-Weg 4
+  www.nibelungengold.at
 
 [erzbergbraeu]
   Privatbrauerei Erzbergbräu
-  www.erzbergbraeu.at
   8790 Eisenerz // Trofengbachgasse 2
+  www.erzbergbraeu.at
 
 [tonibraeu]
   Toni Bräu
-  www.tonibraeu.at
   8273 Ebersdorf // Wagenbach 61
+  www.tonibraeu.at
 
 [triebbraeu]
   Trieb Bräu
