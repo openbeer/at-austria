@@ -1,0 +1,46 @@
+###########################
+# Niederösterreich (N)
+
+____________________________________________
+- Zwettler Brauerei|Privatbrauerei Zwettl
+
+Zwettler Original,     5.1 %,  11.9°
+Zwettler Export Lager, 5.0 %,  11.8°
+Zwettler Pils,         4.9 %,  11.5°
+Zwettler Zwickl,       5.5 %,  12.5°
+Zwettler Dunkles,      3.4 %,  11.5°
+Zwettler Kuenringer Festbock,  6.8 %, 16.2°
+Zwettler Saphir (Premium Pils),  5.3%, 12.3°
+
+
+___________________________________
+- Brauerei Schwechat (Brau Union)
+
+Schwechater,             5.0%, 11.5°, 41.0 kcal/100ml
+Schwechater Zwickl,      5.4%, 12.5°, 45.0 kcal/100ml
+Schwechater Hopfenperle, 5.1%, 11.8°   # fass only
+
+_____________________________________
+- Brauerei Wieselburg (Brau Union)
+
+Wieselburger Gold,      5.0%, 11.8°
+Wieselburger Spezial,   5.7%, 13.1°
+Wieselburger Stammbräu, 5.4%, 12.6°
+
+Kaiser Fasstyp,      5.0%, 11.6°,  www.kaiserbier.at, maerzen
+Kaiser Goldquell,    5.7%, 12.8°
+
+Kaiser 2.9 %,        2.9%,  9.2°
+Kaiser Premium,      5.4%, 12.2°
+Kaiser Doppelmalz,   4.7%, 12.8°
+
+
+_____________________________________________
+- Privatbrauerei Fritz Egger, Unterradlberg
+
+Egger Märzen,       5.2 %, 11.8°
+Egger Zwickl 1868,  5.1 %, 11.6°
+Egger Permium,      5.2 %, 11.8°   # check is Premium (Pils)??
+Egger Leicht|Egger Sprizz,       3.5 %,  8.8°
+
+

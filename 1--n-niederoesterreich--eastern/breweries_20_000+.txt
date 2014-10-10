@@ -5,14 +5,6 @@
 #############
 # Waldviertel
 
-[weitra]
-  Weitra Bräu Bierwerkstatt|Brauerei Weitra *, 1321
-  www.bierwerkstatt.at
-  3970 Weitra // Sparkasseplatz 160
-  brands: Weitra, Hadmar
-  zwettler   # Part of Zwettler
-  6_500 hl
-
 [schrems]
   Brauerei Schrems *, 1410
   www.schremser.at
