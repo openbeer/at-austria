@@ -9,9 +9,28 @@
 # part of ried - only a brand (indie brewery closed)
 
 
+##############################################
+#  Mühlviertel / Mühlkreis
+#   see de.wikipedia.org/wiki/Mühlviertel
+
+
+[hofstetten]
+  Brauerei Hofstetten *
+  4113 St. Martin // Adsdorf 5 (Mühlviertel)
+  www.hofstetten.at
+  5_700 hl
+
+
 #####################################################
 # Innviertel / Innkreis
 #   see de.wikipedia.org/wiki/Innviertel
+
+[stiftengelszell]
+  Trappistenbrauerei / Stift Engelszell
+  4090 Engelhartszell // Stiftstraße 6
+  www.stift-engelszell.at
+  brands: Gregorius, Benno
+
 
 # brewpub
 
@@ -32,10 +51,14 @@
 [aspach]
   Brauerei Aspach (Starzinger), 1777
   4890 Frankenmarkt // Hauptstraße 23  # Part of Starzinger - www.starzinger.at
+  15_000 hl (2001)
+
 
 [braeuamberg]
   Brauerei Bräu am Berg (Starzinger), 1626
   4890 Frankenmarkt // Bahnhofstraße 1   # Part of Starzinger - www.starzinger.at
+  10_000 hl (2001)
+
 
 [attersee]
   Brauerei Attersee
@@ -62,11 +85,6 @@
   Neufeldner Biobrauerei
   www.biobrauerei.at
   4120 Neufelden // Bräuhausgasse 3
-
-[ritterbraeu]
-  Ritterbräu Neumarkt, 1609
-  www.ritterbraeu.at
-  4720 Neumarkt/Hausruck // Bräuhausgasse 1
 
 [schwertberger]
   Schwertberger Bräu

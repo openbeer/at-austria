@@ -29,6 +29,5 @@
   www.kaltenhausen.at
   brands: Edelweiss
   brauunion
-
-### check for edelweiss - production greater 100_000 ?? (move to 20_000+)
+  ### check for edelweiss - production greater 100_000 ?? (move to 20_000+)
 

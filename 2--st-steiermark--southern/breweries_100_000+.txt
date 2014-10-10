@@ -7,7 +7,8 @@
   www.goesser.at
   brands: Gösser
   brauunion
-  1_300_000 hl
+  1_300_000 hl (2001)
+
 
 [puntigam]
   Brauerei Puntigam (Brau Union) **
@@ -15,7 +16,7 @@
   www.puntigamer.at
   brands: Puntigamer, Reininghaus
   brauunion
-  1_000_000 hl
+  1_000_000 hl (2001)
 
 [murau]
   Brauerei Murau|Obermurtaler Brauerei *    ## todo: check if name Obermurtaler Brauerei is still in use?

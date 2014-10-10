@@ -18,11 +18,7 @@
   Brauerei Schloß Starkenberg, 1810
   www.starkenberg.at
   6464 Tarrenz // Griesegg 1
-
-[huberbraeu]
-  Familienbrauerei Huber, 1727
-  www.huberbraeu.at
-  6380 St. Johann // Brauweg 2
+  ### todo: check production greater 20_000 ???
 
 [kristall]
   Kristall Brauerei

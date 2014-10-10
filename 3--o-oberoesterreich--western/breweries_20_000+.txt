@@ -10,52 +10,74 @@
 #  Mühlviertel / Mühlkreis
 #   see de.wikipedia.org/wiki/Mühlviertel
 
+[freistaedter]
+  Freistädter Brauhaus|Braucommune in Freistadt *, 1770
+  4240 Freistadt // Brauhausstraße 2 (Mühlviertel)
+  www.freistaedter-bier.at
+  brands: Freistädter
+  60_000 hl
+
+
 [schlaegl]
   Stiftsbrauerei Schlägl *, 1580
   4160 Schlägl // Schlägl 1 (Mühlviertel)
   www.schlaegl.co.at
   brands: Schlägl
-
-[hofstetten]
-  Brauerei Hofstetten *
-  4113 St. Martin // Adsdorf 5 (Mühlviertel)
-  www.hofstetten.at
+  30_000 hl
 
 
 #####################################################
 # Innviertel / Innkreis
 #   see de.wikipedia.org/wiki/Innviertel
 
-[schnaitl]
-  Brauerei Schnaitl|Privatbrauerei Schnaitl *, 1842
-  5142 Eggelsberg // Gundertshausen 9 (Innviertel)
-  www.schnaitl.at
-  brands: Schnaitl
-
-[vitzthum]
-  Brauerei Vitzthum *, 1600
-  5261 Uttendorf // Uttendorf 25 (Innviertel)
-  www.uttendorf-bier.com
-  brands: Uttendorfer
-
-
-[wurmhoeringer]
-  Privatbrauerei Wurmhöringer, 1652
-  4950 Altheim // Stadtplatz 10/11
-  www.wurmhoeringer.at
+[ried]
+  Brauerei Ried *, 1536
+  4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)
+  www.rieder-bier.at
+  brands: Rieder
+  70_000 hl (2001)
 
 [grieskirchen]
   Brauerei Grieskirchen *, 1708
   4710 Grieskirchen // Stadtplatz 14
   www.grieskirchner.at
   brands: Grieskirchner
+  70_000 hl (2001)
 
-[stiftengelszell]
-  Trappistenbrauerei / Stift Engelszell
-  4090 Engelhartszell // Stiftstraße 6
-  www.stift-engelszell.at
-  brands: Gregorius, Benno
+[wurmhoeringer]
+  Privatbrauerei Wurmhöringer, 1652
+  4950 Altheim // Stadtplatz 10/11
+  www.wurmhoeringer.at
+  48_000 hl (2001)
+
+[raschhofer]
+  Brauerei Raschhofer, 1645
+  4950 Altheim // Braunauer Straße 12
+  www.raschhoferbier.at
+  30_000 hl
+
+[schnaitl]
+  Brauerei Schnaitl|Privatbrauerei Schnaitl *, 1842
+  5142 Eggelsberg // Gundertshausen 9 (Innviertel)
+  www.schnaitl.at
+  brands: Schnaitl
+  25_000 hl (2001)
+
+[vitzthum]
+  Brauerei Vitzthum *, 1600
+  5261 Uttendorf // Uttendorf 25 (Innviertel)
+  www.uttendorf-bier.com
+  brands: Uttendorfer
+  20_000 hl  (2001)
 
 
 
+################################
+# Uncategorized
+
+[ritterbraeu]
+  Ritterbräu Neumarkt, 1609
+  www.ritterbraeu.at
+  4720 Neumarkt/Hausruck // Bräuhausgasse 1
+  20_000 hl
 

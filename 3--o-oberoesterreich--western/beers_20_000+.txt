@@ -1,6 +1,20 @@
 ##############################
 # Oberösterreich (O)
 
+
+______________________________
+- Braucommune in Freistadt
+
+Freistädter Rattsherrn|Freistädter Rattsherrn Premium, 5.2%, 12.3°
+Freistädter Bio Zwickl, 4.7%, 11.3°
+Freistädter Junghopfenpils, pils
+Freistädter Rotschopf
+Freistädter Dunk'l
+Freistädter März'n
+
+Freistädter Rauchbier, 5.3%, 12.3°, c:14, rauchbier
+
+
 __________________________
 - Brauerei Grieskirchen
 
@@ -33,21 +47,26 @@ Schlägl Abtei Pils, 5.2%, 12.5°
 Schlägl Stifter Bier, 5.7%, 12.4°, c:23-25  # vollbier (obergaerig d.h. nicht lager)
 Schlägl Urquell,    5.8%, 11.8%        # vollbier maerzen
 
-_________________________________
-- Brauerei Hofstetten, Adsdorf
-
-Hofstettner Märzen,      4.7%, 11.4°
-Hofstettner Pils,        5.2%, 11.8°
-Hofstettner Spezial,     5.3%, 12.7°
-Hofstettner Granitbock Ice,  6.2%, 14.2°
-Hofstettner Granit,      5.5%, 12.8°
-Hofstettner Kübel,       5.3%, 11.7°
-
 _________________________________________
 - Privatbrauerei Wurmhöringer, Altheim
 
 Wurmhöringer Märzen,   4.9%, 11.9°
 Thermen Bräu Pils,     5.2%, 12.5°
+
+
+__________________
+- Brauerei Ried
+
+Rieder Weißbierbock,    6.5%, 16.5°, c:8,  weizenbock
+Rieder 1908 Naturtrüb,  5.2%, 12.9°
+
+
+__________________________________
+- Brauerei Raschhofer, Altheim
+
+Raschhofer Pils,    5.1%, 11.7°
+Raschhofer Märzen,  5.1%, 11.5°
+Raschhofer Zwickl,  5.4%, 12.5°
 
 
 

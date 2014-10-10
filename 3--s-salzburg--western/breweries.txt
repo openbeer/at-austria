@@ -11,7 +11,7 @@
   Augustiner Bräu Kloster Mülln *, 1621
   www.augustinerbier.at
   5020 Salzburg // Lindhofstraße 7
-  8_500 hl
+  8_500 hl (2001)
 
 #####
 # -- Microbreweries
@@ -20,7 +20,7 @@
   Die Weisse Brauerei, 1901
   www.salzburgerweissbier.at
   5020 Salzburg // Bayerhamerstraße 10
-  ## greater 20_000 hl production ???
+  1_800 hl (2001)
 
 ###############
 # Land Salzburg

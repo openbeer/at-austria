@@ -8,5 +8,5 @@
   www.schladmingerbier.at
   brands: Schladminger
   brauunion
-  schladminger:  35_000 hl
+  35_000 hl (2001)
 

@@ -31,18 +31,6 @@ Schloss Eggenberg Urbock 23°,          9.6%, 23°,   starkbier
 Schloss Eggenberg Festbock,            7.1%, 16.3°, bockbier
 Samichlaus,               14%, 28°, c:40,  starkes_lager 
 
-______________________________
-- Braucommune in Freistadt
-
-Freistädter Rattsherrn|Freistädter Rattsherrn Premium, 5.2%, 12.3°
-Freistädter Bio Zwickl, 4.7%, 11.3°
-Freistädter Junghopfenpils, pils
-Freistädter Rotschopf
-Freistädter Dunk'l
-Freistädter März'n
-
-Freistädter Rauchbier, 5.3%, 12.3°, c:14, rauchbier
-
 
 _________________________________________
 - Brauerei Jos. Baumgartner, Schärding
@@ -53,21 +41,6 @@ Baumgartner Pils,       4.8%, 11.8°
 Baumgartner Export,     5.7%, 13.5°
 Baunti 1609 Lager,      5.0%, 12.0°
 Baumgartner Zwickl,     5.1%, 12.2°   # naturtrüb|unfiltriert
-
-
-__________________
-- Brauerei Ried
-
-Rieder Weißbierbock,    6.5%, 16.5°, c:8,  weizenbock
-Rieder 1908 Naturtrüb,  5.2%, 12.9°
-
-
-__________________________________
-- Brauerei Raschhofer, Altheim
-
-Raschhofer Pils,    5.1%, 11.7°
-Raschhofer Märzen,  5.1%, 11.5°
-Raschhofer Zwickl,  5.4%, 12.5°
 
 
 

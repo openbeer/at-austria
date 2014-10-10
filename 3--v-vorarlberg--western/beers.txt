@@ -1,3 +1,10 @@
 #####################
 # Vorarlberg
 
+________________________________
+- Brauerei Egg
+
+Egger Spezial, 5.5%, 12.8°    # Helles Spezialbier
+Wälder Spezial, 5.5%, 12.7°  # Helles Spezialbier
+Wälder Zwickl, 5.5%, 12.8°
+

@@ -1,10 +1,6 @@
 #####################################################
 # Breweries in Vorarlberg (V) / Western Austria
 
-[egg]
-  Brauerei Egg *, 1894
-  www.brauerei-egg.at
-  6863 Egg // Gerbe 500
 
 [frastanz]
   Vorarlberger Brauereigenossenschaft Frastanz *, 1902

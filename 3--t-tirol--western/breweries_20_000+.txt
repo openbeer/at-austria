@@ -8,9 +8,17 @@
   brauunion
   66_000 hl
 
+
 [zillertal]
   Brauhaus Simon Strasser *, 1509    # Zillertal Bier
   www.zillertal-bier.at
   6280 Zell am Ziller // Bräuweg 1
   brands: Zillertal
   50_000 hl
+
+[huberbraeu]
+  Familienbrauerei Huber, 1727
+  www.huberbraeu.at
+  6380 St. Johann // Brauweg 2
+  20_000 hl (2001)
+
