@@ -1,0 +1,25 @@
+
+[altesbrauhaus]
+  Altes Brauhaus
+  9150 Bleiburg // Hauptplatz 9
+
+[druckerbraeu]
+  Drucker-Bräu
+  9556 Liebenfels // Zweikirchen 9
+
+[hirterbotschaft]
+  Hirter Botschaft
+  9020 Klagenfurt // Bahnhofstraße 44
+
+[jauntaler]
+  Jauntaler Bauernbier
+  9132 Gallizien // Pirk 1
+
+[stoanabraeu]
+  Stoana Bräu
+  9546 Bad Kleinkirchheim // Zirkitzer Weg 17
+
+[turmbraeu]
+  Turmbräu
+  9500 Villach-Maria Gail // Anton Tuder Straße 2
+
