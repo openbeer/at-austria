@@ -2,6 +2,11 @@
 # Brewpubs in Oberösterreich [Upper Austria] (O) / Western Austria
 
 
+#
+#  todo: use (sub)regions
+#   Mühlviertel, Innviertel, Salzkammergut, Linz Umgebung etc.
+
+
 [biohofbrauereifuerst]
   Bio-Hofbrauerei Fürst
   4212 Neumarkt im Mühlkreis // Möhringdorf 8 
