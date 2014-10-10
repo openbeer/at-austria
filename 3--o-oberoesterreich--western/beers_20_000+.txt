@@ -1,0 +1,53 @@
+##############################
+# Oberösterreich (O)
+
+__________________________
+- Brauerei Grieskirchen
+
+Grieskirchner Pils,          4.8%, 11.2°
+Grieskirchner Märzen,        5.0%, 11.8°
+Grieskirchner Export Dunkel, 5.0%, 12.4°
+Grieskirchner Weisse Hell,   5.1%, 12.2°
+
+______________________________________
+- Brauerei Schnaitl, Gundertshausen
+
+Schnaitl Naturtrüb, 5.1%, 11.8°              # Bittereinheiten: 20 IBU
+Schnaitl Bock|Schnaitl Festbock, 7.5%, 16.8° # Bittereinheiten: 28 IBU
+Schnaitl Original,      5.1%, 11.8°  # Vollbier Maerzen
+Schnaitl Pils de Luxe,  5.0%, 11.3°
+
+__________________________________
+- Brauerei Vitzthum, Uttendorf
+
+Uttendorfer Pils,  4.9%, 12.0°
+Uttendorfer Märzen, 5.0%, 12.1°  # ist Halb Dunkel??
+Uttendorfer Export, 5.1%, 12.1°
+Uttendorfer Fallstaff, 5.6%, 13.1°
+
+
+___________________________
+- Stiftsbrauerei Schlägl
+
+Schlägl Abtei Pils, 5.2%, 12.5°
+Schlägl Stifter Bier, 5.7%, 12.4°, c:23-25  # vollbier (obergaerig d.h. nicht lager)
+Schlägl Urquell,    5.8%, 11.8%        # vollbier maerzen
+
+_________________________________
+- Brauerei Hofstetten, Adsdorf
+
+Hofstettner Märzen,      4.7%, 11.4°
+Hofstettner Pils,        5.2%, 11.8°
+Hofstettner Spezial,     5.3%, 12.7°
+Hofstettner Granitbock Ice,  6.2%, 14.2°
+Hofstettner Granit,      5.5%, 12.8°
+Hofstettner Kübel,       5.3%, 11.7°
+
+_________________________________________
+- Privatbrauerei Wurmhöringer, Altheim
+
+Wurmhöringer Märzen,   4.9%, 11.9°
+Thermen Bräu Pils,     5.2%, 12.5°
+
+
+

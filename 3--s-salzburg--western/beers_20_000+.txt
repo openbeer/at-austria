@@ -1,0 +1,12 @@
+##################
+# Salzburg (S)
+
+
+_________________________________
+- Brauerei Gusswerk, Salzburg
+
+Austrian Amber Ale|AAA, 5.6%, 12.8°
+Jakobsgold,         4.9%, 11.8°   # Vollbier Zwickl
+Edelguss,           4.9%, 11.9°   # Vollbier Helles
+Urban Keller's Steinbier,          5.6%, 12.7°, steinbier
+

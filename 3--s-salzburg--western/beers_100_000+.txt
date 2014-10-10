@@ -1,0 +1,30 @@
+##################
+# Salzburg (S)
+
+
+________________________________
+- Stieglbrauerei zu Salzburg
+
+Stiegl Goldbräu, 4.9%, 12°, c:8, maerzen
+Stiegl Pils,     4.9%, 11.6°
+Stiegl Paracelsus Zwickl,   5.0%, 12.0°
+Stiegl Weizengold
+
+
+____________________________________
+- Trumer Privatbrauerei, Obertrum
+
+Trumer Pils,   4.9%, 11.5°, lager|pils
+Trumer Imperial Pils, 6.8%, 16.2°
+Trumer Märzen, 4.8%, 11.8°, lager|maerzen
+
+______________________________________
+- Hofbräu Kaltenhausen (Brau Union)
+
+#### todo: how to best add a website/weblink for a beer brand (e.g. edelweissbier.at) ??
+
+Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, weissbier
+Edelweiss Hofbräu,   4.5%, 11.8°, c:15, hefeweizen|weissbier
+Edelweiss Dunkel,    5.3%, 12.3°, weissbier
+Edelweiss Gamsbock,  7.1%, 16.2°, weissbier
+

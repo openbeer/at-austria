@@ -1,0 +1,74 @@
+##############################
+# Oberösterreich (O)
+
+______________________________
+- Brauerei Zipf (Brau Union)
+
+Zipfer Urtyp,        5.4%, 12.2°    # main/bestseller brand
+Zipfer Urtyp Medium, 3.0%,  9.5°, c:5.5, schankbier|leichtbier   # NB: c:5.5  - color in ebc
+Zipfer Märzen,       5.0%, 11.8°
+Zipfer Pils,         5.2%, 11.8°
+Zipfer Josefi Bock,  7.1%, 16.2°
+Zipfer Doppel Gold,  5.7%, 12.8°
+Zipfer Kellerbier,   5.6%, 12.2°       # ungefiltert|naturtrüb
+Zipfer Sparkling,    5.2%, 11.8°
+
+_____________________
+- Brau Union, Linz
+
+Schützen Bräu, 4.2%   # Schankbier
+
+
+_______________________________
+- Brauerei Schloss Eggenberg
+
+Schloss Eggenberg (Classic) Märzen,    4.9%, 11.7°, maerzen
+Schloss Eggenberg Gold Spezial,        5.3%, 12.6°, spezial
+Schloss Eggenberg Hopfenkönig,         5.1%, 11.7°, pils
+Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°
+Schloss Eggenberg Naturtrüb,           5.2%, 11.7°, zwickl
+Schloss Eggenberg Urbock 23°,          9.6%, 23°,   starkbier
+Schloss Eggenberg Festbock,            7.1%, 16.3°, bockbier
+Samichlaus,               14%, 28°, c:40,  starkes_lager 
+
+______________________________
+- Braucommune in Freistadt
+
+Freistädter Rattsherrn|Freistädter Rattsherrn Premium, 5.2%, 12.3°
+Freistädter Bio Zwickl, 4.7%, 11.3°
+Freistädter Junghopfenpils, pils
+Freistädter Rotschopf
+Freistädter Dunk'l
+Freistädter März'n
+
+Freistädter Rauchbier, 5.3%, 12.3°, c:14, rauchbier
+
+
+_________________________________________
+- Brauerei Jos. Baumgartner, Schärding
+
+Baumgartner Märzen,     5.1%, 12.2°
+Baumgartner Doppelmalz, 5.1%, 13.7°
+Baumgartner Pils,       4.8%, 11.8°
+Baumgartner Export,     5.7%, 13.5°
+Baunti 1609 Lager,      5.0%, 12.0°
+Baumgartner Zwickl,     5.1%, 12.2°   # naturtrüb|unfiltriert
+
+
+__________________
+- Brauerei Ried
+
+Rieder Weißbierbock,    6.5%, 16.5°, c:8,  weizenbock
+Rieder 1908 Naturtrüb,  5.2%, 12.9°
+
+
+__________________________________
+- Brauerei Raschhofer, Altheim
+
+Raschhofer Pils,    5.1%, 11.7°
+Raschhofer Märzen,  5.1%, 11.5°
+Raschhofer Zwickl,  5.4%, 12.5°
+
+
+
+

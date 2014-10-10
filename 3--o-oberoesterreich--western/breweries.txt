@@ -2,6 +2,13 @@
 # Breweries in Oberösterreich [Upper Austria] (O) / Western Austria
 
 
+[kellerbrauerei]
+  Kellerbrauerei, 1446
+  4910 Ried/Innkreis // Am Kellerbräuberg 2
+  www.kellerbrauerei.at
+# part of ried - only a brand (indie brewery closed)
+
+
 #####################################################
 # Innviertel / Innkreis
 #   see de.wikipedia.org/wiki/Innviertel

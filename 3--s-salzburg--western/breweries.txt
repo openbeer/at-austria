@@ -5,6 +5,14 @@
 #####################
 # Stadt Salzburg
 
+# NB: augustiner key already in use by Augustiner Bräu in Muenchen / de
+
+[augustinermuelln]
+  Augustiner Bräu Kloster Mülln *, 1621
+  www.augustinerbier.at
+  5020 Salzburg // Lindhofstraße 7
+  8_500 hl
+
 #####
 # -- Microbreweries
 
@@ -12,7 +20,7 @@
   Die Weisse Brauerei, 1901
   www.salzburgerweissbier.at
   5020 Salzburg // Bayerhamerstraße 10
-
+  ## greater 20_000 hl production ???
 
 ###############
 # Land Salzburg

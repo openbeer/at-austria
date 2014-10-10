@@ -1,5 +1,5 @@
 ###############################################################
-# Breweries in Kärnten [Carinthia] (K) - Southern Austria
+# Breweries in Kärnten (K) - Southern Austria
 
 [schleppe]
   Schleppe Brauerei (Vereinigte Kärntner Brauereien) *, 1607

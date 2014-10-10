@@ -1,6 +1,10 @@
 ######################################################################
 # Breweries in Oberösterreich [Upper Austria] (O) / Western Austria
 
+############
+#  todo: check production - all greater 20_000 hl ????
+#   add estimate
+
 
 ##############################################
 #  Mühlviertel / Mühlkreis
@@ -22,12 +26,6 @@
 # Innviertel / Innkreis
 #   see de.wikipedia.org/wiki/Innviertel
 
-# [kapsreiter]
-#  Kapsreiter Brauerei *
-#  4780 Schärding // Linzer Straße 1
-#  brands: Kapsreiter
-#  ottakringer   # Part of Ottakringer
-
 [schnaitl]
   Brauerei Schnaitl|Privatbrauerei Schnaitl *, 1842
   5142 Eggelsberg // Gundertshausen 9 (Innviertel)
@@ -39,11 +37,6 @@
   5261 Uttendorf // Uttendorf 25 (Innviertel)
   www.uttendorf-bier.com
   brands: Uttendorfer
-
-[kellerbrauerei]
-  Kellerbrauerei, 1446
-  4910 Ried/Innkreis // Am Kellerbräuberg 2
-  www.kellerbrauerei.at
 
 
 [wurmhoeringer]

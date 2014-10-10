@@ -5,16 +5,9 @@
 #####################
 # Stadt Salzburg
 
-# NB: augustiner key already in use by Augustiner Bräu in Muenchen / de
-
-[augustinermuelln]
-  Augustiner Bräu Kloster Mülln *, 1621
-  www.augustinerbier.at
-  5020 Salzburg // Lindhofstraße 7
-  8_500 hl
 
 [gusswerk]
   Brauerei Gusswerk
   www.brauhaus-gusswerk.at
   5020 Salzburg // Söllheimerstraße 16
-
+  ### check - production greater 20_000 hl ???

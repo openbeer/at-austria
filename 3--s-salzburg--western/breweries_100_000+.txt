@@ -30,3 +30,5 @@
   brands: Edelweiss
   brauunion
 
+### check for edelweiss - production greater 100_000 ?? (move to 20_000+)
+

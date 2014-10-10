@@ -1,0 +1,20 @@
+#####################
+# Vorarlberg
+
+________________________________
+- Brauerei Egg
+
+Egger Spezial, 5.5%, 12.8°    # Helles Spezialbier
+Wälder Spezial, 5.5%, 12.7°  # Helles Spezialbier
+Wälder Zwickl, 5.5%, 12.8°
+
+_________________________________________________
+- Vorarlberger Brauereigenossenschaft Frastanz
+
+Frastanzer Gold Spezial, 5.5%, 12.6°     # Vollbier Helles
+Frastanzer Jubiläum,     4.9%, 11.7°    # Vollbier Pils
+Frastanzer Kellerbier Naturtrüb, 5.5%, 12.6°  # Vollbier Zwickl
+Frastanzer Pils,        4.9%, 11.7°     # Vollbier Pils
+Frastanzer s'klenne,    4.9%, 11.7°     # Vollbier
+
+

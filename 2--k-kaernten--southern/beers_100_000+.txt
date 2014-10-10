@@ -1,0 +1,20 @@
+########################################################
+# Beers in Kärnten (K) - Southern Austria
+
+_________________
+- Brauerei Hirt
+
+‹Hirter› Pils|‹Hirter› Privat Pils, 5.2%, 12.3°  # Vollbier Pils
+‹Hirter› Morchl, 5.0 %, 12.8°, c:80, dunkles
+‹Hirter› Biobier, 4.8%, 11.6°
+‹Hirter› 1270,    4.9%, 11.9°   # Vollbier
+
+________________________________________________________________
+- Villacher Brauerei (Vereinigte Kärntner Brauereien), Villach
+
+‹Villacher› Märzen,  5.0%, 11.8°
+‹Villacher› Pils,   4.9%, 11.7°
+‹Villacher› Pur,    4.0%, 9.5°
+‹Villacher› Edition, 4.6%, 11.7°
+‹Piestinger› Lager, 5.0%, 11.8°
+

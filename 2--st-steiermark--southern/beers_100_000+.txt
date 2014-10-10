@@ -1,0 +1,34 @@
+########################
+# Steiermark (ST)
+
+______________________________________________
+- Gösser Brauerei (Brau Union)|Brauerei Göss
+
+Gösser Märzen,  5.2%, 11.8°     # main/bestseller brand (70%)
+Gösser Gold,    5.3%, 12.2°, c:7, b:25  # premium   # NB:b:25 = 25 IBU = bitterness 
+Gösser Spezial, 5.7%, 13.2°
+Gösser Zwickl|Gösser Zwickl Naturtrüb,  5.2%, 11.8°
+Gösser Dunkles Zwickl,  5.7%, 13.2°
+Gösser Bock,    7.1%, 16.2°, seasonal|weihnacht   # ausschließlich für die Weihnachtszeit gebraut
+Gösser Stiftsbräu, 4.2%, 11.8°
+
+_________________________________________
+- Brauerei Puntigam (Brau Union), Graz
+
+Puntigamer Panther,               5.2%, 12.1°   # main/bestseller brand 
+Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, maerzen
+Puntigamer Winterbier,            6.0%, 13.8°
+
+Reininghaus Märzen,              5.0%, 11.8°
+Reininghaus Pils,                4.8%, 11.4°
+Reininghaus Jahrgangspils 2011,  4.9%, 11.3°
+Reininghaus Jahrgangspils 2012,  4.9%, 11.3°, c:5  # origin: Reininghaus Familie/Adel/Graf aus Graz?
+Reininghaus Malz,                4.5%, 11.8°
+
+__________________________________________
+- Obermurtaler Brauerei|Brauerei Murau
+
+Murauer Märzen,   5.2%, 12.5°
+Murauer Pils,     5.1%, 12.2°
+Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
+
