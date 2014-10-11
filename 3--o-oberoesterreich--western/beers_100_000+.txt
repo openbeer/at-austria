@@ -40,7 +40,13 @@ Baumgartner Doppelmalz, 5.1%, 13.7°
 Baumgartner Pils,       4.8%, 11.8°
 Baumgartner Export,     5.7%, 13.5°
 Baunti 1609 Lager,      5.0%, 12.0°
-Baumgartner Zwickl,     5.1%, 12.2°   # naturtrüb|unfiltriert
+Baumgartner Zwickl,     5.1%, 12.2°,  naturtrueb|unfiltriert
+
+Baumgartner Urbier,      5.4%, 12.7°, altmuenchner_dunkel
+
+Baumgartner Stiftungsbier
+Baumgartner Weihnachtsbock
+
 
 
 

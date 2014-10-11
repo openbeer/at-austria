@@ -1,11 +1,7 @@
 ######################################################################
-# Breweries in Oberösterreich [Upper Austria] (O) / Western Austria
+# Breweries in Oberösterreich (O) / Western Austria
 
 
-###
-# todo: add ?? Hausruckviertel | Traunviertel
-#  | Oberösterreichischer Zentralraum ein fünftes Viertel (Linz Umgebung??)
-#
 
 ################################
 # Uncategorized
@@ -41,10 +37,11 @@
 
 #####################################################
 # Innviertel / Innkreis
-#   see de.wikipedia.org/wiki/Innviertel
 
 [baumgartner]
   Brauerei Jos. Baumgartner *, 1609
   4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)
   www.brauerei-baumgartner.at
+  innviertel   # Bierregion Innviertel
   100_000 hl
+

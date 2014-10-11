@@ -1,8 +1,15 @@
 
-# [kapsreiter]
-#  Kapsreiter Brauerei *
-#  4780 Schärding // Linzer Straße 1
-#  brands: Kapsreiter
-#  ottakringer   # Part of Ottakringer
-#   closed 2012/13? - out-of-business
+[kapsreiter]
+  Kapsreiter Brauerei *
+  4780 Schärding // Linzer Straße 1
+  brands: Kapsreiter
+  ottakringer   # Part of Ottakringer
+  ## closed 2012/13? - out-of-business
+
+[kellerbrauerei]
+  Kellerbrauerei, 1446
+  4910 Ried/Innkreis // Am Kellerbräuberg 2
+  www.kellerbrauerei.at
+  part of ried - only a brand (indie brewery closed)
+  ## closed 2014??
 

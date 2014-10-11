@@ -2,11 +2,6 @@
 # Breweries in Oberösterreich [Upper Austria] (O) / Western Austria
 
 
-[kellerbrauerei]
-  Kellerbrauerei, 1446
-  4910 Ried/Innkreis // Am Kellerbräuberg 2
-  www.kellerbrauerei.at
-# part of ried - only a brand (indie brewery closed)
 
 
 ##############################################
@@ -23,13 +18,13 @@
 
 #####################################################
 # Innviertel / Innkreis
-#   see de.wikipedia.org/wiki/Innviertel
 
 [stiftengelszell]
-  Trappistenbrauerei / Stift Engelszell
-  4090 Engelhartszell // Stiftstraße 6
+  Trappistenbrauerei Stift Engelszell
+  4090 Engelhartszell // Stiftstraße 6  (Innviertel)
   www.stift-engelszell.at
-  brands: Gregorius, Benno
+  brands: Gregorius, Benno, Nivard
+  innviertel   # Bierregion Innviertel
 
 
 

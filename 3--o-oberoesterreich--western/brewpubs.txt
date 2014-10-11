@@ -43,6 +43,8 @@
   Hausbrauerei Bogner                   ## Kleinste Weißbierbrauerei der Welt   
   www.hausbrauerei-bogner.at
   5280 Braunau am Inn // Haselbach 26   ## - Innviertel  
+  innviertel   # Bierregion Innviertel
+
 
 [rampnbraeu]
   Hofrauerei Preuner|Ramp'n Bräu

@@ -34,7 +34,8 @@
   Brauerei Ried *, 1536
   4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)
   www.rieder-bier.at
-  brands: Rieder
+  brands: Rieder, Kellerbräu
+  innviertel   # Bierregion Innviertel
   70_000 hl (2001)
 
 [grieskirchen]
@@ -46,8 +47,9 @@
 
 [wurmhoeringer]
   Privatbrauerei Wurmhöringer, 1652
-  4950 Altheim // Stadtplatz 10/11
+  4950 Altheim // Stadtplatz 10/11  (Innviertel)
   www.wurmhoeringer.at
+  innviertel   # Bierregion Innviertel
   48_000 hl (2001)
 
 [raschhofer]
@@ -61,6 +63,7 @@
   5142 Eggelsberg // Gundertshausen 9 (Innviertel)
   www.schnaitl.at
   brands: Schnaitl
+  innviertel   # Bierregion Innviertel
   25_000 hl (2001)
 
 [vitzthum]
@@ -68,6 +71,7 @@
   5261 Uttendorf // Uttendorf 25 (Innviertel)
   www.uttendorf-bier.com
   brands: Uttendorfer
+  innviertel   # Bierregion Innviertel
   20_000 hl  (2001)
 
 

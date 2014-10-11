@@ -15,6 +15,7 @@
 
 - [Der Bierführer](http://www.brauereifuehrer.com) - von Michael Kranewitter aus Wien
 
+
 ## Wikipedia
 
 - [Liste österreichischer Brauereien](http://de.wikipedia.org/wiki/Liste_österreichischer_Brauereien)
@@ -26,4 +27,36 @@
 
 ## Oberösterreich
 
-- [Bierregion Innviertel](http://www.innviertelbier.at)
+### Bierregion Innviertel
+
+- [Bierregion Innviertel (`innviertelbier.at`)](http://www.innviertelbier.at)
+
+Sieben Innviertler Privatbrauereien:
+
+- Baumgartner (Schärding)
+- Wurmhöringer (Altheim)
+- Vitzthum (Uttendorf)
+- Rieder Bier (Ried i. Innkreis)
+- Schnaitl (Gundertshausen)
+- Stift Engelszell (Engelhartszell)  - Trappistenbrauerei
+- Bogner (Braunau am Inn)  - Gasthausbrauerei/Brewpub
+
+
+# International
+
+### Die Freien Brauer
+
+- [Die Freien Brauer (`die-freien-brauer.com`)](http://www.die-freien-brauer.com)
+
+41 Brauereien aus OE, D, Lux  (5 in OE)
+
+- Zwettler - Privatbrauerei Zwettl (Zwettl)
+- Hirter - Brauerei Hirt (Hirt)
+- Zillertal - Zillertal Bier (Zell am Ziller)
+- Fohrenburger - Brauerei Fohrenburg (Bludenz)
+- Stiegl - Stieglbrauerei zu Salzburg (Salzburg)
+
+
+
+
+
