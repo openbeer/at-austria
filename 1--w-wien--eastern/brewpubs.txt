@@ -1,5 +1,5 @@
 #######################################################
-# Brewpubs in Wien [Vienna] (W) / Eastern Austria
+# Brewpubs in Wien (W) / Eastern Austria
 
 
 # todo: move to wien.db ??

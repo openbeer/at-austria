@@ -20,31 +20,10 @@ Benno|Benno Trappistenbier,          6.9%, 14.7°, trappist_dubbel
 Nivard
 
 
-__________________________________________
-- Hausbrauerei Bogner, Braunau am Inn
-
-Bogners Weißbier,  5.0%, 12.1°, weizen
-Braunauer Helle
-Haslbacher Zwickl,  4.9%, 11.9°, naturtrueb|maerzen
-Johann Dunkel
-
-
-
-
 _____________________________________________________
 - Brauerei Bräu am Berg (Starzinger), Frankenmarkt
 
 Frankenmarkter Bräu am Berg Lager Hell, 5.0%, 11.8°   # vollbier lager
-
-____________________________________
-- Brauerei Kaltenböck, Palmsdorf
-
-Hoangarten, 5.2%, 11.8°
-
-________________________________
-- Braugasthof Leimer, Lenzing
-
-Leimer Bräu Hell, 5.0%
 
 
 _____________________________

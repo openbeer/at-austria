@@ -15,18 +15,6 @@ Korneuburger Original, 5.2%, 12.6°
 Korneuburger Privat,   5.0%, 12.5°
 Korneuburger Premium,  5.1%, 12.8°
 
-______________________________________________________
-- Brettner Brauerei ("Altes Doktorhaus"), Schottwien
-
-Brettner Fuhrmannsgold, 5.5%, 13.5°   # Vollbier Helles
-
-____________________________
-- Fiaker Bräu, Langenlois
-
-Fiaker Bräu Bock Hell, 7.0%, 15.0°
-Fiaker Bräu Märzen,    4.9%, 11.9°
-Fiaker Bräu Pils,      4.9%, 11.9°
-
 ______________________________________
 - Gablitzer Privatbrauerei, Gablitz
 
@@ -38,17 +26,6 @@ ______________________
 Hainfelder Edel-Pils,   4.8%, 11.5°
 Hainfelder Lager Hell,  5.0%, 12.2°
 Hainfelder Spezial Hell, 6.0%, 13.5°
-
-_______________________________________________________
-- Wirtshausbrauerei Haselböck, Münichreith am Ostrong
-
-Hasel Bräu Helles,   4.9%, 11.8°
-Hasel Bräu Böhmisch, 4.8%, 11.8°
-
-_________________________________________
-- Kartausen Bräu|Privatbrauerei Gaming 
-
-Kartausen Bräu Hell, 5.0%, 11.8°
 
 _______________________________________________
 - Marchfelder Storchenbräu, Untersiebenbrunn

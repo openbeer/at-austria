@@ -59,11 +59,6 @@
   4170 St. Stefan am Walde // Unterriedl 4
 
 
-[kaltenboeck]
-  Brauerei Kaltenböck
-  4864 Attersee // Palmsdorf 17
-  brands: Hoangarten
-
 [pfeiffisbraeu]
   Brauerei Pachinger|Pfeiffi's Bräu
   4843 Ampflwang // Vorderschlagen 19
