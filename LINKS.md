@@ -58,5 +58,14 @@ Sieben Innviertler Privatbrauereien:
 
 
 
+### Blogs
 
+- www.probier.at - Der oesterreichische Bierblog  - Martin Voigt n Friends (Wien)
+- www.biertaeglich.eu   - Bier Sepp (Sepp Wejwar)  (Wien)
+
+
+### Consumer Assocs (CAMRA-style)
+
+- BierIG  - www.bierig.org
+- KGB (C. Seidl ?)
 
