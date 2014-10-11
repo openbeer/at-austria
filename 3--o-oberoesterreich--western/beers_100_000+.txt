@@ -10,13 +10,13 @@ Zipfer Märzen,       5.0%, 11.8°
 Zipfer Pils,         5.2%, 11.8°
 Zipfer Josefi Bock,  7.1%, 16.2°
 Zipfer Doppel Gold,  5.7%, 12.8°
-Zipfer Kellerbier,   5.6%, 12.2°       # ungefiltert|naturtrüb
+Zipfer Kellerbier,   5.6%, 12.2°,   ungefiltert|naturtrüb
 Zipfer Sparkling,    5.2%, 11.8°
 
 _____________________
 - Brau Union, Linz
 
-Schützen Bräu, 4.2%   # Schankbier
+Schützen Bräu, 4.2%,  schankbier
 
 
 _______________________________
@@ -25,12 +25,13 @@ _______________________________
 Schloss Eggenberg (Classic) Märzen,    4.9%, 11.7°, maerzen
 Schloss Eggenberg Gold Spezial,        5.3%, 12.6°, spezial
 Schloss Eggenberg Hopfenkönig,         5.1%, 11.7°, pils
-Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°
+Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°, pils|lite
 Schloss Eggenberg Naturtrüb,           5.2%, 11.7°, zwickl
 Schloss Eggenberg Urbock 23°,          9.6%, 23°,   starkbier
 Schloss Eggenberg Festbock,            7.1%, 16.3°, bockbier
-Samichlaus,               14%, 28°, c:40,  starkes_lager 
 
+Samichlaus,               14%, 28°, c:40,  starkes_lager 
+Nessie,                  whiskey_malt_red_beer
 
 _________________________________________
 - Brauerei Jos. Baumgartner, Schärding

@@ -1,13 +1,12 @@
-#########################################################
-# Breweries in Tirol [Tyrol] (T) / Western Austria
-
+#############################################
+# Breweries in Tirol (T) / Western Austria
 
 [falkenstein]
   Brauerei Falkenstein (Brau Union) **
   9900 Lienz // Pußtertaler Straße 40
-  brauunion
+  brauunion|goesser
   66_000 hl
-
+  ## 1918 (?) uebernahme durch Goesser (braut heute Goesser biere e.g. Goesser Maerzen, Bock, Zwickl)
 
 [zillertal]
   Brauhaus Simon Strasser *, 1509    # Zillertal Bier

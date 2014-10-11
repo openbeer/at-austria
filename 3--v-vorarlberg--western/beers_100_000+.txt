@@ -8,19 +8,25 @@ Mohren Pilsner,  4.8%, 11.3°
 Mohren Ländle
 Mohren Kellerbier|Mohrenbräu Kellerbier|Mohren Zwickl, 5.7%, 12.8°, c:16  # Spezialbier unfiltriert
 Mohren Spezial,  5.6%, 12.7°
-Mohren Pfiff,    4.9%, 11.6°
+Mohren Pfiff,    4.9%, 11.6°, maerzen
+Mohren Export
+Mohren Gsi,    lite
+Mohren Bockbier
+Mohren Gambrinus,  dunkles
 
 _________________________________
 - Brauerei Fohrenburg, Bludenz
 
-Fohrenburger Jubiläum,  5.5%, 12.8°   # Spezialbier
+Fohrenburger Jubiläum,  5.5%, 12.8°,   spezialbier
 Fohrenburger Stiftle,   4.8%, 11.8°
 Fohrenburger Märzen,    4.8%, 11.8°
-Fohrenburger Keller Naturtrüb, 5.3%, 12.7°    # Spezialbier
+Fohrenburger Keller Naturtrüb, 5.3%, 12.7°, spezialbier
 Fohrenburger Weizen,    5.2%, 12.5°, weizenbier
-Fohrenburger Dunkles,   5.5%, 12.7°  #  Dunkles Spezialbier
+Fohrenburger Dunkles,   5.5%, 12.7°,  dunkles_spezialbier
 Fohrenburger Bock,      7.2%, 16.2°
-Fohrenburger Pils,      4.8%, 11.7° # Vollbier
+Fohrenburger Pils,      4.8%, 11.7°, vollbier
 
-Engelburg Bräu, 4.2%, 9.9°    # Schankbier
+Fohrenburger Festbier
+
+Engelburg Bräu, 4.2%, 9.9°,      schankbier
 

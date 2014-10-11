@@ -9,10 +9,13 @@ Freistädter Rattsherrn|Freistädter Rattsherrn Premium, 5.2%, 12.3°
 Freistädter Bio Zwickl, 4.7%, 11.3°
 Freistädter Junghopfenpils, pils
 Freistädter Rotschopf
+Freistädter Midium, lite
 Freistädter Dunk'l
 Freistädter März'n
+Freistädter Böck'l
 
-Freistädter Rauchbier, 5.3%, 12.3°, c:14, rauchbier
+
+Freistädter Rauchbier, 5.3%, 12.3°, c:14, rauchbier   ## move to history ??
 
 
 __________________________
@@ -60,9 +63,22 @@ Uttendorf Bock Dunkel
 ___________________________
 - Stiftsbrauerei Schlägl
 
+Schlägl Urquell,    5.8%, 11.8%,  vollbier|maerzen    # hauptsorte
+
+Schlägl Kristall
+Schlägl Kristall Leicht
+Schlägl Bio Roggen, bio
+Schlägl Zwickl
+Schlägl Doppel Bock
+Schlägl Malz König
+
 Schlägl Abtei Pils, 5.2%, 12.5°
-Schlägl Stifter Bier, 5.7%, 12.4°, c:23-25  # vollbier (obergaerig d.h. nicht lager)
-Schlägl Urquell,    5.8%, 11.8%        # vollbier maerzen
+Schlägl Stifterbier, 5.7%, 12.4°, c:23-25  # vollbier (obergaerig d.h. nicht lager)
+
+Schlägl Weizenbier
+Schlägl Edle Reserve
+Schlägl Kleine Feine
+
 
 _________________________________________
 - Privatbrauerei Wurmhöringer, Altheim

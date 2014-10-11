@@ -7,7 +7,7 @@
 # Uncategorized
 
 [zipf]
-  Brauerei Zipf (Brau Union) **
+  Brauerei Zipf (Brau Union)
   4871 Zipf // Zipf 22
   www.zipfer.at
   brands: Zipfer
@@ -28,7 +28,7 @@
 ## NB: eggenberg key used by Pivovar Eggenberg in Český Krumlov
 
 [schlosseggenberg]
-  Brauerei Schloss Eggenberg **, 1681
+  Brauerei Schloss Eggenberg, 1681
   4655 Vorchdorf // Eggenberg 1
   www.schloss-eggenberg.at
   brands: Schloss Eggenberg, Samichlaus
@@ -39,7 +39,7 @@
 # Innviertel / Innkreis
 
 [baumgartner]
-  Brauerei Jos. Baumgartner *, 1609
+  Brauerei Jos. Baumgartner, 1609
   4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)
   www.brauerei-baumgartner.at
   innviertel   # Bierregion Innviertel

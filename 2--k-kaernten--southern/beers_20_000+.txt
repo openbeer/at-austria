@@ -5,4 +5,13 @@ _________________________________________________________________
 - Schleppe Brauerei (Vereinigte Kärntner Brauereien), Klagenfurt
 
 ‹Schleppe› Märzen,  5.0%, 11.7°
+‹Schleppe› Pils
+‹Schleppe› Dunkel
+‹Schleppe› Bock
+‹Schleppe› Doppelbock
+‹Schleppe› Zwickl
+‹Schleppe› Hausbier
+‹Schleppe› Oktoberbräu
+
+‹Schleppe› Felsenkellerbier
 

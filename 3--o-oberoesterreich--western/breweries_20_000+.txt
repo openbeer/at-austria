@@ -70,7 +70,7 @@
   Brauerei Vitzthum *, 1600
   5261 Uttendorf // Uttendorf 25 (Innviertel)
   www.uttendorf-bier.com
-  brands: Uttendorfer
+  brands: Uttendorf
   innviertel   # Bierregion Innviertel
   20_000 hl  (2001)
 

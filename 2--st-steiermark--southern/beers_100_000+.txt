@@ -19,11 +19,13 @@ Puntigamer Panther,               5.2%, 12.1°   # main/bestseller brand
 Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, maerzen
 Puntigamer Winterbier,            6.0%, 13.8°
 
+#  etc. origin: Reininghaus Familie/Adel/Graf aus Graz?
+#   reininghaus uebernahme durch puntigamer in ???
+
 Reininghaus Märzen,              5.0%, 11.8°
 Reininghaus Pils,                4.8%, 11.4°
-Reininghaus Jahrgangspils 2011,  4.9%, 11.3°
-Reininghaus Jahrgangspils 2012,  4.9%, 11.3°, c:5  # origin: Reininghaus Familie/Adel/Graf aus Graz?
 Reininghaus Malz,                4.5%, 11.8°
+Reininghaus Jahrgangspils       #  2011,2012,2013,2014,2015
 
 __________________________________________
 - Obermurtaler Brauerei|Brauerei Murau

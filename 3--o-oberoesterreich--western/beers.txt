@@ -7,9 +7,13 @@ _________________________________
 Hofstettner Märzen,          4.7%, 11.4°
 Hofstettner Pils,            5.2%, 11.8°
 Hofstettner Spezial,         5.3%, 12.7°
+Hofstettner Granitbock, 
 Hofstettner Granitbock Ice,  6.2%, 14.2°
-Hofstettner Granit,          5.5%, 12.8°
-Hofstettner Kübel,           5.3%, 11.7°
+Hofstettner Granit|Granitbier,           5.5%, 12.8°
+Hofstettner Kübel|Kübelbier,  5.3%, 11.7°,  zwickl
+
+Hofstettner Kürbisbier
+Hofstettner Honigbier
 
 
 _______________________________________________________
