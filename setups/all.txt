@@ -1,0 +1,70 @@
+
+# -- breweries
+at-austria!/1--b-burgenland--eastern/breweries
+at-austria!/1--b-burgenland--eastern/breweries_20_000+
+at-austria!/1--n-niederoesterreich--eastern/breweries
+at-austria!/1--n-niederoesterreich--eastern/breweries_20_000+
+at-austria!/1--n-niederoesterreich--eastern/breweries_100_000+
+at-austria!/1--w-wien--eastern/breweries_100_000+
+at-austria!/2--k-kaernten--southern/breweries
+at-austria!/2--k-kaernten--southern/breweries_20_000+
+at-austria!/2--k-kaernten--southern/breweries_100_000+
+at-austria!/2--st-steiermark--southern/breweries
+at-austria!/2--st-steiermark--southern/breweries_20_000+
+at-austria!/2--st-steiermark--southern/breweries_100_000+
+at-austria!/3--o-oberoesterreich--western/breweries
+at-austria!/3--o-oberoesterreich--western/breweries_20_000+
+at-austria!/3--o-oberoesterreich--western/breweries_100_000+
+at-austria!/3--s-salzburg--western/breweries
+at-austria!/3--s-salzburg--western/breweries_20_000+
+at-austria!/3--s-salzburg--western/breweries_100_000+
+at-austria!/3--t-tirol--western/breweries
+at-austria!/3--t-tirol--western/breweries_20_000+
+at-austria!/3--v-vorarlberg--western/breweries
+at-austria!/3--v-vorarlberg--western/breweries_20_000+
+at-austria!/3--v-vorarlberg--western/breweries_100_000+
+
+# -- brewpubs
+at-austria!/1--b-burgenland--eastern/brewpubs
+at-austria!/1--n-niederoesterreich--eastern/brewpubs
+at-austria!/1--w-wien--eastern/brewpubs
+at-austria!/2--k-kaernten--southern/brewpubs
+at-austria!/2--st-steiermark--southern/brewpubs
+at-austria!/3--o-oberoesterreich--western/brewpubs
+at-austria!/3--s-salzburg--western/brewpubs
+at-austria!/3--t-tirol--western/brewpubs
+
+# -- beers
+at-austria!/1--b-burgenland--eastern/beers
+at-austria!/1--b-burgenland--eastern/beers_20_000+
+at-austria!/1--n-niederoesterreich--eastern/beers
+at-austria!/1--n-niederoesterreich--eastern/beers_20_000+
+at-austria!/1--n-niederoesterreich--eastern/beers_100_000+
+at-austria!/1--w-wien--eastern/beers_100_000+
+at-austria!/2--k-kaernten--southern/beers
+at-austria!/2--k-kaernten--southern/beers_20_000+
+at-austria!/2--k-kaernten--southern/beers_100_000+
+at-austria!/2--st-steiermark--southern/beers
+at-austria!/2--st-steiermark--southern/beers_20_000+
+at-austria!/2--st-steiermark--southern/beers_100_000+
+at-austria!/3--o-oberoesterreich--western/beers
+at-austria!/3--o-oberoesterreich--western/beers_20_000+
+at-austria!/3--o-oberoesterreich--western/beers_100_000+
+at-austria!/3--s-salzburg--western/beers
+at-austria!/3--s-salzburg--western/beers_20_000+
+at-austria!/3--s-salzburg--western/beers_100_000+
+at-austria!/3--t-tirol--western/beers
+at-austria!/3--t-tirol--western/beers_20_000+
+at-austria!/3--v-vorarlberg--western/beers
+at-austria!/3--v-vorarlberg--western/beers_20_000+
+at-austria!/3--v-vorarlberg--western/beers_100_000+
+
+# -- beersbrewpubs
+at-austria!/1--n-niederoesterreich--eastern/beers_brewpubs
+at-austria!/1--w-wien--eastern/beers_brewpubs
+at-austria!/3--o-oberoesterreich--western/beers_brewpubs
+  
+  
+## skip non-alcoholic beers
+# at-austria!/beers_non_alcoholic
+
