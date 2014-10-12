@@ -22,7 +22,7 @@
 
 [kristall]
   Kristall Brauerei
-  6236 Alpach // Inneralpbach 431
+  6236 Alpbach // Inneralpbach 431
 
 [vilser]
   Vilser Privatbrauerei

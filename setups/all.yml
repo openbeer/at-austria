@@ -25,6 +25,7 @@ breweries:
 - at-austria!/3--v-vorarlberg--western/breweries_100_000+
 
 brewpubs:
+- at-austria!/1--b-burgenland--eastern/brewpubs
 - at-austria!/1--n-niederoesterreich--eastern/brewpubs
 - at-austria!/1--w-wien--eastern/brewpubs
 - at-austria!/2--k-kaernten--southern/brewpubs
