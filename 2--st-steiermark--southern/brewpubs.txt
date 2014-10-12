@@ -13,7 +13,7 @@
 
 [bergerbraeu]
   Berger-Bräu
-  8255 St.Jakob i.Walde // Kirchenviertel 34
+  8255 St.Jakob i. Walde  // Kirchenviertel 34
 
 [fuerstenbraeu]
   Fürstenbräu 
@@ -21,7 +21,7 @@
 
 [leitnbraeu]
   Großstübinger Leitn Bräu
-  8114 Großstübing 34
+  8114 Großstübing // Nr. 34     ## fix: was => 8114 Großstübing 34
 
 [hausbrauereiseidl]
   Hausbrauerei Seidl
@@ -65,7 +65,7 @@
 
 [peterwirtsbraeu]
   Peterwirtsbräu
-  8983 Bad Mitterndorf 68
+  8983 Bad Mitterndorf // Nr. 68   ## fix: was => 8983 Bad Mitterndorf 68
 
 [putznbraeu]
   Putz'n Bräu
