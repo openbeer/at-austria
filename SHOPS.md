@@ -8,7 +8,12 @@
 ## Wien
 
 - Meinl am Graben
+- Ottakringer Shop
+- Stiegl-Getränkeshop (Standort Wien); Hermann-Mark-Gasse 10 (ehemals Oberlaaer Straße 236 D) - 1100 Wien
 
+## Salzburg
+
+- Stiegl-Getränkeshop; Kendlerstraße 2 - 5020 Salzburg
 
 
 
