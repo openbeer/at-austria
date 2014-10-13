@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2612364,
+          48.2386683
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Hofstetten",
+        "city": "St. Martin",
+        "address": "4113 St. Martin // Adsdorf 5 (Mühlviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7331661,
+          48.5040454
+        ]
+      },
+      "properties": {
+        "title": "Trappistenbrauerei Stift Engelszell",
+        "city": "Engelhartszell",
+        "address": "4090 Engelhartszell // Stiftstraße 6  (Innviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6040034,
+          47.9461563
+        ]
+      },
+      "properties": {
+        "title": "Argus-Bräu",
+        "city": "Schörfling (am Attersee)",
+        "address": "4861 Schörfling (am Attersee) // Oberachmanstraße 21",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4199273435388,
+          47.993067
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Aspach (Starzinger)",
+        "city": "Frankenmarkt",
+        "address": "4890 Frankenmarkt // Hauptstraße 23",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4199273435388,
+          47.993067
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Bräu am Berg (Starzinger)",
+        "city": "Frankenmarkt",
+        "address": "4890 Frankenmarkt // Bahnhofstraße 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4540582,
+          47.9092541
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Attersee",
+        "city": "Straß (i. Attergau)",
+        "address": "4881 Straß (i. Attergau) // Straß 8",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1025205,
+          48.5674914
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Bachner",
+        "city": "St. Stefan am Walde",
+        "address": "4170 St. Stefan am Walde // Unterriedl 4",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5661129,
+          48.0924656
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Pachinger",
+        "city": "Ampflwang",
+        "address": "4843 Ampflwang // Vorderschlagen 19",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1921444,
+          48.3235801
+        ]
+      },
+      "properties": {
+        "title": "Dörnbacher Floriani-Bräu",
+        "city": "Wilhering",
+        "address": "4061 Wilhering // Dörnbacherstraße 132",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9997079,
+          48.4842345
+        ]
+      },
+      "properties": {
+        "title": "Neufeldner Biobrauerei",
+        "city": "Neufelden",
+        "address": "4120 Neufelden // Bräuhausgasse 3",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5823796,
+          48.27415
+        ]
+      },
+      "properties": {
+        "title": "Schwertberger Bräu",
+        "city": "Schwertberg",
+        "address": "4311 Schwertberg // Ing. Schmiedl-Straße 7",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1025205,
+          48.5674914
+        ]
+      },
+      "properties": {
+        "title": "Steffinger Brauerei",
+        "city": "St. Stefan am Walde",
+        "address": "4170 St. Stefan am Walde // Unterriedl 4",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2374246,
+          48.2211206
+        ]
+      },
+      "properties": {
+        "title": "Trauner Bier",
+        "city": "Traun",
+        "address": "4050 Traun // Madlschenterweg 7",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5047566,
+          48.5112961
+        ]
+      },
+      "properties": {
+        "title": "Freistädter Brauhaus",
+        "city": "Freistadt",
+        "address": "4240 Freistadt // Brauhausstraße 2 (Mühlviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9668473,
+          48.636892
+        ]
+      },
+      "properties": {
+        "title": "Stiftsbrauerei Schlägl",
+        "city": "Schlägl",
+        "address": "4160 Schlägl // Schlägl 1 (Mühlviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.48839,
+          48.2085868
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Ried",
+        "city": "Ried/Innkreis",
+        "address": "4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.826192,
+          48.235011
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Grieskirchen",
+        "city": "Grieskirchen",
+        "address": "4710 Grieskirchen // Stadtplatz 14",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2320404,
+          48.250022
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Wurmhöringer",
+        "city": "Altheim",
+        "address": "4950 Altheim // Stadtplatz 10/11  (Innviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2320404,
+          48.250022
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Raschhofer",
+        "city": "Altheim",
+        "address": "4950 Altheim // Braunauer Straße 12",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9910444,
+          48.0765942
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schnaitl",
+        "city": "Eggelsberg",
+        "address": "5142 Eggelsberg // Gundertshausen 9 (Innviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1228453,
+          48.4594449
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Vitzthum",
+        "city": "Uttendorf",
+        "address": "5261 Uttendorf // Uttendorf 25 (Innviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5031657,
+          48.0363053
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Zipf (Brau Union)",
+        "city": "Zipf",
+        "address": "4871 Zipf // Zipf 22",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2865628,
+          48.3058789
+        ]
+      },
+      "properties": {
+        "title": "Brau Union Österreich",
+        "city": "Linz",
+        "address": "4020 Linz // Poschacherstrasse 35",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.922837,
+          48.0035141
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schloss Eggenberg",
+        "city": "Vorchdorf",
+        "address": "4655 Vorchdorf // Eggenberg 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4318,
+          48.4569975
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Jos. Baumgartner",
+        "city": "Schärding",
+        "address": "4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4845341,
+          48.4282728
+        ]
+      },
+      "properties": {
+        "title": "Bio-Hofbrauerei Fürst",
+        "city": "Neumarkt im Mühlkreis",
+        "address": "4212 Neumarkt im Mühlkreis // Möhringdorf 8",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8967303,
+          48.35948
+        ]
+      },
+      "properties": {
+        "title": "Bratl Bräu",
+        "city": "St. Georgen am Walde",
+        "address": "4372 St. Georgen am Walde // Markt 13",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2645752,
+          48.0920742
+        ]
+      },
+      "properties": {
+        "title": "Brauhof Goldberg",
+        "city": "Schiedlberg",
+        "address": "4521 Schiedlberg // Weichstettenstraße 119",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5356091,
+          47.9143904
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Kaltenböck",
+        "city": "Attersee",
+        "address": "4864 Attersee // Palmsdorf 17",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5383884,
+          48.4429634
+        ]
+      },
+      "properties": {
+        "title": "Eder-Bräu Bierbuschenschank",
+        "city": "Kefermarkt",
+        "address": "4292 Kefermarkt // Netzberg 32",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8303402,
+          48.0459363
+        ]
+      },
+      "properties": {
+        "title": "Ernstinger Wirt's Bräu",
+        "city": "Ostermiething",
+        "address": "5121 Ostermiething // Ernsting 6",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7749232,
+          48.0545249
+        ]
+      },
+      "properties": {
+        "title": "Gasthausbrauerei Zum Alfons",
+        "city": "Schwanenstadt",
+        "address": "4690 Schwanenstadt // Bergern 2",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0244047,
+          48.1566957
+        ]
+      },
+      "properties": {
+        "title": "Gerstl Bräu",
+        "city": "Wels",
+        "address": "4600 Wels // Freiung 9-11",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.039506,
+          48.253136
+        ]
+      },
+      "properties": {
+        "title": "Hausbrauerei Bogner",
+        "city": "Braunau am Inn",
+        "address": "5280 Braunau am Inn // Haselbach 26",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4921448,
+          48.0680308
+        ]
+      },
+      "properties": {
+        "title": "Hofrauerei Preuner",
+        "city": "Frankenburg",
+        "address": "4873 Frankenburg // Vordersteining 5",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3289935,
+          47.7218417
+        ]
+      },
+      "properties": {
+        "title": "Kemmet Bräu",
+        "city": "Windischgarsten",
+        "address": "4580 Windischgarsten // Hauptstraße 22",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6049039,
+          47.9733296
+        ]
+      },
+      "properties": {
+        "title": "Braugasthof Leimer",
+        "city": "Lenzing",
+        "address": "4860 Lenzing // Atterseestraße 34",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.128766,
+          48.0533652
+        ]
+      },
+      "properties": {
+        "title": "Sandberg Bräu",
+        "city": "Kremsmünster",
+        "address": "4550 Kremsmünster // Sandberg 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5383884,
+          48.4429634
+        ]
+      },
+      "properties": {
+        "title": "Schloßbrauerei Weinberg",
+        "city": "Kefermarkt",
+        "address": "4292 Kefermarkt // Weinberg 2",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4191276,
+          48.0390046
+        ]
+      },
+      "properties": {
+        "title": "Staffelmayr Gutshofbräu",
+        "city": "Steyr",
+        "address": "4400 Steyr // Kegelprielstraße 17",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1757273,
+          48.3318812
+        ]
+      },
+      "properties": {
+        "title": "Thor-Bräu",
+        "city": "Ottensheim",
+        "address": "4100 Ottensheim // Hostauerstraße 2",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0581292,
+          48.0702992
+        ]
+      },
+      "properties": {
+        "title": "Voralpenbräu",
+        "city": "Sattledt",
+        "address": "4642 Sattledt // Hauptstraße 13",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    }
+  ]
+}

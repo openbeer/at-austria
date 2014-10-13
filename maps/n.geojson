@@ -1,0 +1,668 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.075773,
+          48.0588086
+        ]
+      },
+      "properties": {
+        "title": "Allander Stierkogl Bräu",
+        "city": "Alland",
+        "address": "2534 Alland // Wagenhofstraße 538",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421579,
+          48.2509053
+        ]
+      },
+      "properties": {
+        "title": "Geroldinger Brauhaus",
+        "city": "Gerolding",
+        "address": "3392 Gerolding // Graf Geroldstraße 43",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2146518,
+          47.7266088
+        ]
+      },
+      "properties": {
+        "title": "Schrammelsbräu",
+        "city": "Bad Erlach",
+        "address": "2822 Bad Erlach // Harrathof 39",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8926097,
+          48.7010605
+        ]
+      },
+      "properties": {
+        "title": "Weitra Bräu Bierwerkstatt",
+        "city": "Weitra",
+        "address": "3970 Weitra // Sparkasseplatz 160",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2137866452156,
+          48.44041125
+        ]
+      },
+      "properties": {
+        "title": "Biermanufaktur Korneuburg",
+        "city": "Korneuburg",
+        "address": "2100 Korneuburg // Brückenstraße 8",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7712084,
+          48.0348811
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Hainfeld",
+        "city": "Hainfeld",
+        "address": "3170 Hainfeld // Wienerstraße 10",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0876554,
+          47.9286915
+        ]
+      },
+      "properties": {
+        "title": "Bruckners Brauwelt",
+        "city": "Gaming",
+        "address": "3292 Gaming // Grubberg 4a",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2836918,
+          48.1070931
+        ]
+      },
+      "properties": {
+        "title": "Die Bierzauberei",
+        "city": "Brunn am Gebirge",
+        "address": "2345 Brunn am Gebirge // Leopold Gattringer-Straße 39",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1134821,
+          47.8094981
+        ]
+      },
+      "properties": {
+        "title": "Emmerberg-Bräu / Erste Österreichische Ökobrauerei",
+        "city": "Winzendorf",
+        "address": "2722 Winzendorf // Hauptstraße 137",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4522464,
+          48.0423919
+        ]
+      },
+      "properties": {
+        "title": "Holzb(r)auer / Natürliche Handwerksbrauerei",
+        "city": "Warth",
+        "address": "2831 Warth // Wiesengasse 9",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7447625094486,
+          48.25528325
+        ]
+      },
+      "properties": {
+        "title": "Marchfelder Storchenbräu",
+        "city": "Untersiebenbrunn",
+        "address": "2284 Untersiebenbrunn // Brückengasse 5",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1969282168986,
+          47.5103717
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Gerald Schwarz",
+        "city": "Krumbach",
+        "address": "2851 Krumbach // Bundesstraße 19",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1771203,
+          47.6615042
+        ]
+      },
+      "properties": {
+        "title": "Wolfsbräu",
+        "city": "Thernberg",
+        "address": "2832 Thernberg // Blumengasse 7",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1537402,
+          48.2278911
+        ]
+      },
+      "properties": {
+        "title": "Gablitzer Privatbrauerei",
+        "city": "Gablitz",
+        "address": "3003 Gablitz // Spitzersteig 10",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0722362,
+          48.7934868
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schrems",
+        "city": "Schrems",
+        "address": "3943 Schrems // Niederschremser Straße 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3916766,
+          48.7218933
+        ]
+      },
+      "properties": {
+        "title": "Hubertus Bräu",
+        "city": "Laa/Thaya",
+        "address": "2136 Laa/Thaya // Hubertusgasse 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4780312,
+          48.1397436
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schwechat (Brau Union)",
+        "city": "Schwechat",
+        "address": "2320 Schwechat // Mautner Markhof-Straße 11",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0680780819885,
+          48.55353765
+        ]
+      },
+      "properties": {
+        "title": "Zwettler Brauerei",
+        "city": "Zwettl",
+        "address": "3910 Zwettl // Syrnauer Straße 22-25",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6795466,
+          48.2553232
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Fritz Egger",
+        "city": "Unterradlberg",
+        "address": "3105 Unterradlberg // Tiroler Straße 18",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1376585,
+          48.1298877
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Wieselburg (Brau Union)",
+        "city": "Wieselburg",
+        "address": "3250 Wieselburg // Dr.-Beuerle-Straße 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3532042,
+          47.9025176
+        ]
+      },
+      "properties": {
+        "title": "Bierwerkstatt Thomas Fritsche",
+        "city": "Siegersdorf",
+        "address": "2486 Siegersdorf // Pottendorfer Straße 106",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5678266,
+          48.7926425
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Dangl",
+        "city": "Japons",
+        "address": "3763 Japons // Zettenreith 7",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8716054,
+          47.6545995
+        ]
+      },
+      "properties": {
+        "title": "Brettner Brauerei (\"Altes Doktorhaus\")",
+        "city": "Schottwien",
+        "address": "2641 Schottwien // Hauptstraße 49",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8926097,
+          48.7010605
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Brauhotel Weitra",
+        "city": "Weitra",
+        "address": "3970 Weitra // Rathausplatz 6",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5656447,
+          48.2586538
+        ]
+      },
+      "properties": {
+        "title": "Dunkelsteiner Bräu",
+        "city": "Karlstetten",
+        "address": "3121 Karlstetten // Schaubing 2",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1376585,
+          48.1298877
+        ]
+      },
+      "properties": {
+        "title": "Erlauftaler Bräu",
+        "city": "Wieselburg",
+        "address": "3250 Wieselburg // Teichweg 6",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.676295,
+          48.472601
+        ]
+      },
+      "properties": {
+        "title": "Fiaker Bräu",
+        "city": "Langenlois",
+        "address": "3550 Langenlois // Holzplatz 7",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9374085,
+          47.6757858
+        ]
+      },
+      "properties": {
+        "title": "Gasthof Diewald",
+        "city": "Gloggnitz",
+        "address": "2640 Gloggnitz // Raach am Hochgebirge 38",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0570434,
+          47.6530813
+        ]
+      },
+      "properties": {
+        "title": "Haßbacher Braueck",
+        "city": "Haßbach",
+        "address": "2831 Haßbach // Berggasse 6",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0071885,
+          48.306687
+        ]
+      },
+      "properties": {
+        "title": "Langenrohrer Erlebnisbrauerei",
+        "city": "Langenrohr",
+        "address": "3442 Langenrohr // Josef-Reither-Straße 18",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6098667,
+          48.0435449
+        ]
+      },
+      "properties": {
+        "title": "Linko Bräu",
+        "city": "Traisen",
+        "address": "3160 Traisen // Gartengasse 9",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6703728,
+          48.0438943
+        ]
+      },
+      "properties": {
+        "title": "Petri-Bräu",
+        "city": "St. Veit an der Gölsen",
+        "address": "3161 St. Veit an der Gölsen // Brillergraben 8",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0908164,
+          47.9643174
+        ]
+      },
+      "properties": {
+        "title": "Poidl Bräu",
+        "city": "Pottenstein",
+        "address": "2563 Pottenstein // Wehrgasse 6",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0876554,
+          47.9286915
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Gaming",
+        "city": "Gaming",
+        "address": "3293 Gaming // Kartause 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0390921,
+          48.4533746
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Maria Pichler",
+        "city": "Schönbach",
+        "address": "3633 Schönbach // Schönbach 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8623556,
+          47.6931375
+        ]
+      },
+      "properties": {
+        "title": "Rax Bräu",
+        "city": "Payerbach",
+        "address": "2650 Payerbach // Hauptstraße 40",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1309828,
+          48.264524
+        ]
+      },
+      "properties": {
+        "title": "Wirtshausbrauerei Haselböck",
+        "city": "Münichreith am Ostrong",
+        "address": "3662 Münichreith am Ostrong // Hausbrauerstraße 3",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7445258559413,
+          47.95126495
+        ]
+      },
+      "properties": {
+        "title": "Ybbstal Bräu Gasthaus Hehenberger",
+        "city": "Waidhofen/Ybbs",
+        "address": "3340 Waidhofen/Ybbs // Wienerstraße 28",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.952258,
+          47.6693834
+        ]
+      },
+      "properties": {
+        "title": "Zecherbräu",
+        "city": "Enzenreith",
+        "address": "2640 Enzenreith // Siedlaustraße 129",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0410592,
+          47.8001977
+        ]
+      },
+      "properties": {
+        "title": "Augustiner Bräu Kloster Mülln",
+        "city": "Salzburg",
+        "address": "5020 Salzburg // Lindhofstraße 7",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0410592,
+          47.8001977
+        ]
+      },
+      "properties": {
+        "title": "Die Weisse Brauerei",
+        "city": "Salzburg",
+        "address": "5020 Salzburg // Bayerhamerstraße 10",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0410592,
+          47.8001977
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Gusswerk",
+        "city": "Salzburg",
+        "address": "5020 Salzburg // Söllheimerstraße 16",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0410592,
+          47.8001977
+        ]
+      },
+      "properties": {
+        "title": "Stieglbrauerei",
+        "city": "Salzburg",
+        "address": "5017 Salzburg // Kendlerstraße 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0752378,
+          47.9380101
+        ]
+      },
+      "properties": {
+        "title": "Trumer Privatbrauerei",
+        "city": "Obertrum",
+        "address": "5162 Obertrum // Brauhausgasse 2",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0410592,
+          47.8001977
+        ]
+      },
+      "properties": {
+        "title": "Isi-Bräu",
+        "city": "Salzburg",
+        "address": "5020 Salzburg // Bäckerstraße 3",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0410592,
+          47.8001977
+        ]
+      },
+      "properties": {
+        "title": "s'Kloane Brauhaus",
+        "city": "Salzburg",
+        "address": "5020 Salzburg // Schallmoser Hauptstraße 27",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9854864,
+          47.8105684
+        ]
+      },
+      "properties": {
+        "title": "Allerberger Bräu",
+        "city": "Siezenheim",
+        "address": "5072 Siezenheim // Doktorstraße 49",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0394938,
+          47.7401445
+        ]
+      },
+      "properties": {
+        "title": "Gasthausbrauerei Zum Faßl",
+        "city": "Grödig",
+        "address": "5082 Grödig // Haupstraße 36",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2320181,
+          47.7767374
+        ]
+      },
+      "properties": {
+        "title": "Bramsau-Bräu",
+        "city": "Faistenau",
+        "address": "5324 Faistenau // Bramsaustraße 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4837012,
+          47.2815157
+        ]
+      },
+      "properties": {
+        "title": "Bräurup",
+        "city": "Mittersill",
+        "address": "5730 Mittersill // Kirchgasse 9",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0752378,
+          47.9380101
+        ]
+      },
+      "properties": {
+        "title": "Kiesbye's Bierkulturhaus",
+        "city": "Obertrum",
+        "address": "5162 Obertrum // Dorfplatz 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8440179020417,
+          47.29043295
+        ]
+      },
+      "properties": {
+        "title": "Kohlschnait Bräu",
+        "city": "Bruck an der Glocknerstraße",
+        "address": "5662 Bruck an der Glocknerstraße // Niederhof 3",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9949295,
+          47.2290446
+        ]
+      },
+      "properties": {
+        "title": "Landgasthaus Weixen",
+        "city": "Rauris",
+        "address": "5661 Rauris // Seidlwinkelstraße 114",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1060635,
+          47.1703104
+        ]
+      },
+      "properties": {
+        "title": "Schmaranz Bräu",
+        "city": "Bad Hofgastein",
+        "address": "5630 Bad Hofgastein // Wieden 52",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7962369,
+          47.3239539
+        ]
+      },
+      "properties": {
+        "title": "Simal-Bräu",
+        "city": "Zell am See",
+        "address": "5700 Zell am See // Bruckberg 1",
+        "type": "Brewery",
+        "marker-color": "#ff0000"
+      }
+    }
+  ]
+}
