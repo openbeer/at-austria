@@ -25,7 +25,7 @@
   www.brauereigratzer.at
 
 [forstner]
-  Hof-Bräu Kalsdorf|Handbrauerei Forstner
+  Handbrauerei Forstner|Hof-Bräu Kalsdorf      # note: old name was Hof-Bräu Kalsdorf (still used for braeustueberl/brewery tap) 
   8401 Kalsdorf // Dorfstraße 52
   www.forstner-biere.at
 
