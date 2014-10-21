@@ -1,0 +1,105 @@
+###
+## try different styles for section markers
+#
+#  e.g. << Wien >>   2nd level
+#       <<< Salzkammergut >>> 3rd level
+#       <<<< Bezirk Hallstadt >>>> 4th level
+#  or
+#    == Wien
+#
+#   == Wien
+#   =======================
+#
+#   ===================
+#   == Wien
+#   ==========================
+# and so on
+
+#
+#
+#
+#  check if wikipedia breaks lines with new lines ??
+#    or needs an empty line for paragraphs like markdown  ???
+
+
+== Wien ==
+
+=== 1516 Brewing Company | Wien ===
+
+Hop Devil,         india_pale_ale
+Pearl Jade Stout,  foreign_extra_stout
+Wedding Bells,     vienna_lager
+
+
+== Niederösterreich ==
+
+=== Brauerei Schwechat | Schwechat, Niederösterreich ===
+
+Schwechater Zwickl,  pilsener
+
+
+<< Steiermark >>
+________________________________________________
+-  Handbrauerei Forstner | Kalsdorf, Steiermark
+
+Slow 2,      ale
+Styrian Ale, bitter_ale
+Wunder Bier, strong_ale
+
+_______________________________________________
+-  Gösser Brauerei | Göss (Leoben), Steiermark 
+
+Gösser Märzen,             maerzen
+Reininghaus Jahrganspils,  pilsener
+
+
+   << Oberösterreich >>
+
+  <<< Salzkammergut >>>>
+  
+ <<<< Bezirk Gmunden >>>>
+
+
+  +++ Oberösterreich +++
+
+ ++++ Salzkammergut ++++
+__________________________________________________________________________
+-  Brauerei Schloss Eggenberg | Vorchdorf (Salzkammergut), Oberösterreich
+
+Samichlaus,                     strong_lager
+Urbock 23°,                     eisbock
+Schloss Eggenberg Hopfenkönig,  pilsener
+
+__________________________________________
+-  Brauerei Zipf | Zipf, Oberösterreich
+
+Zipfer Urtyp,      pilsener
+Zipfer Pils,       pilsener
+Zipfer Sparkling,  dry_beer
+
+        ++ Salzburg ++
+      
+      +++ Salzburg Stadt +++
+
+     == Salzburg ==
+
+   === Salzburg Stadt ===
+
+____________________________________________
+- Stieglbrauerei zu Salzburg | Salzburg
+
+Stiegl Goldbräu, maerzen
+
+
+    === Salzburg Umland ===
+__________________________________________________
+- Hofbräu Kaltenhausen | Kaltenhausen zu Hallein
+
+Edelweiss Hofbräu,  hefeweizen
+Edelweiss Gamsbock, weizenbock
+Bernstein,          lager
+______________________________________
+- Trumer Privatbrauerei | Obertrum
+
+Trumer Pils, pilsener
+

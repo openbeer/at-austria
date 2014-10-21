@@ -1,7 +1,7 @@
 
 # -- Wien
 _________________________________
--  1516 Brewing Company | Wien
+- 1516 Brewing Company | Wien
 
 Hop Devil,         india_pale_ale
 Pearl Jade Stout,  foreign_extra_stout
@@ -9,14 +9,14 @@ Wedding Bells,     vienna_lager
 
 
 # -- Niederösterreich
-______________________________________________________
+________________________________________________________
 -   Brauerei Schwechat | Schwechat, Niederösterreich
 
 Schwechater Zwickl,  pilsener
 
 
 # -- Steiermark
-________________________________________________
+_________________________________________________
 -  Handbrauerei Forstner | Kalsdorf, Steiermark
 
 Slow 2,      ale
