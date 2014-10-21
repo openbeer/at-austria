@@ -3,7 +3,7 @@
 
 
 [ottakringer]
-  Ottakringer Brauerei **, 1838
+  Ottakringer Brauerei, 1838
   1160 Wien // Ottakringer Platz 1
   www.ottakringer.at
   brands: Ottakringer

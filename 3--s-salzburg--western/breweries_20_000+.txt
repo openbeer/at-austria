@@ -2,12 +2,11 @@
 # Breweries in Salzburg (S) / Western Austria
 
 
-#####################
-# Stadt Salzburg
-
+ === Stadt Salzburg ===
 
 [gusswerk]
   Brauerei Gusswerk
   www.brauhaus-gusswerk.at
   5020 Salzburg // Söllheimerstraße 16
   ### check - production greater 20_000 hl ???
+

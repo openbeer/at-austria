@@ -1,8 +1,8 @@
 ###########################
 # Niederösterreich (N)
 
-____________________________________________
-- Zwettler Brauerei|Privatbrauerei Zwettl
+_________________________________
+- Zwettler Brauerei | Zwettl
 
 Zwettler Original,     5.1 %,  11.9°
 Zwettler Export Lager, 5.0 %,  11.8°
@@ -36,7 +36,7 @@ Kaiser Doppelmalz,   4.7%, 12.8°
 
 
 _____________________________________________
-- Privatbrauerei Fritz Egger, Unterradlberg
+- Privatbrauerei Fritz Egger | Unterradlberg
 
 Egger Märzen,       5.2 %, 11.8°
 Egger Zwickl 1868,  5.1 %, 11.6°

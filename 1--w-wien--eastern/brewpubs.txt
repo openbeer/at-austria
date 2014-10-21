@@ -5,7 +5,7 @@
 # todo: move to wien.db ??
 
 
-# -- 1. Innere Stadt 
+ === 1. Innere Stadt ===
 
 [fifteensixteen]
   1516 Brewing Company
@@ -17,7 +17,7 @@
   1010 Wien // Schellinggasse 14
   www.stadtbrauerei.at
 
-# -- 3. Landstraße
+ === 3. Landstraße ===
 
 [salmbraeu]
   Salm Bräu, 1994
@@ -26,7 +26,7 @@
   3_000 hl   # annual production
 
 
-# -- 4. Wieden
+ === 4. Wieden ===
 
 [wiedenbraeu]
   Wieden-Bräu, 1991
@@ -34,7 +34,7 @@
   www.wieden-braeu.at
   1_600 hl   #  annual production
 
-# -- 5. Margareten
+ === 5. Margareten ===
 
 [zumschwarzenadler]
   Zum Schwarzen Adler|Hackl Bräu
@@ -42,7 +42,7 @@
   www.schwarzer-adler.co.at
   
 
-# -- 7. Neubau
+ === 7. Neubau ===
 
 [siebensternbraeu]
   7 Stern Bräu|Siebensternbräu, 1994
@@ -54,7 +54,7 @@
 #  brands: 7 Stern Bräu     # todo/check: auto-key works with leading number? (possible/allowed?)
 
 
-# -- 9. Alsergrund
+ === 9. Alsergrund ===
 
 [lichtenthalerbraeu]
   Lichtenthaler Bräu
@@ -66,7 +66,7 @@
   1090 Wien // Sobieskiplatz 4
   www.the-highlander.at
 
-# -- 14. Penzing
+ === 14. Penzing ===
 
 [medlbraeu]
   Medl Bräu, 1989
@@ -75,14 +75,14 @@
   brands: Medl Bräu
   600 hl  # annual production 
 
-# -- 16. Ottakring
-  
+ === 16. Ottakring ===
+
 [rabenbraeu]
   Schwarzer Rabe|Raben Bräu
   1160 Wien // Ottakringer Straße 180
   www.rabenbraeu.at
 
-# -- 19. Döbling
+ === 19. Döbling ===
 
 [fischerbraeu]
   Fischerbräu, 1985
@@ -90,7 +90,7 @@
   www.fischerbraeu.at
   3_000 hl  # Annual production
 
-# -- 21. Floridsdorf
+ === 21. Floridsdorf ===
 
 [kadlezbraeu]
   Kadlez Bräu
@@ -98,7 +98,7 @@
   www.kadlez.at
 
 
-# -- 22. Donaustadt  
+ === 22. Donaustadt ===
 
 [hiaslbraeu]
   Hiaslbräu|Zum Roten Hiasl

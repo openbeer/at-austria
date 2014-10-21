@@ -2,9 +2,6 @@
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
 
-####
-# Microbreweries
-
 [allander]
   Allander Stierkogl Bräu
   2534 Alland // Wagenhofstraße 538
@@ -24,17 +21,18 @@
   www.schrammels.at
 
 
-#############
-# Waldviertel
+ === Waldviertel ===
 
 [weitra]
   Weitra Bräu Bierwerkstatt|Brauerei Weitra *, 1321
   3970 Weitra // Sparkasseplatz 160
   www.bierwerkstatt.at
   brands: Weitra, Hadmar
-  zwettler   # Part of Zwettler
   6_500 hl
+  zwettler   # Part of Zwettler
 
+
+ === ??? ===
 
 [korneuburg]
   Biermanufaktur Korneuburg

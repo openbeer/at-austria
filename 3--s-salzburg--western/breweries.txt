@@ -2,8 +2,7 @@
 # Breweries in Salzburg (S) / Western Austria
 
 
-#####################
-# Stadt Salzburg
+ === Stadt Salzburg ===
 
 # NB: augustiner key already in use by Augustiner Bräu in Muenchen / de
 
@@ -13,7 +12,7 @@
   5020 Salzburg // Lindhofstraße 7
   8_500 hl (2001)
 
-#####
+
 # -- Microbreweries
 
 [dieweisse]
@@ -22,6 +21,6 @@
   5020 Salzburg // Bayerhamerstraße 10
   1_800 hl (2001)
 
-###############
-# Land Salzburg
+
+ === Land Salzburg ===
 

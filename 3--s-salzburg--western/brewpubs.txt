@@ -2,8 +2,7 @@
 # Brewpubs / Braugasthaus (Gasthaus mit Hausbrauerei)
 
 
-########
-# Salzburg
+ === Salzburg ===
 
 [isibraeu]
   Isi-Bräu
@@ -14,8 +13,7 @@
   5020 Salzburg // Schallmoser Hauptstraße 27
 
 
-##############
-# Salzburg Umgebung
+ === Salzburg Umgebung ===
 
 [allerbergerbraeu]
   Allerberger Bräu
@@ -29,6 +27,8 @@
   Raggei-Bräu
   5102 Anthering bei Salzburg // Acharting 32
 
+
+ === ?? ===
 
 ##############
 # todo: use regions 

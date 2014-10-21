@@ -1,14 +1,12 @@
 ######################################################################
 # Breweries in Oberösterreich [Upper Austria] (O) / Western Austria
 
-############
+
 #  todo: check production - all greater 20_000 hl ????
 #   add estimate
 
 
-##############################################
-#  Mühlviertel / Mühlkreis
-#   see de.wikipedia.org/wiki/Mühlviertel
+ === Mühlviertel / Mühlkreis ===   #  see de.wikipedia.org/wiki/Mühlviertel
 
 [freistaedter]
   Freistädter Brauhaus|Braucommune in Freistadt *, 1770
@@ -26,9 +24,7 @@
   30_000 hl
 
 
-#####################################################
-# Innviertel / Innkreis
-#   see de.wikipedia.org/wiki/Innviertel
+ === Innviertel / Innkreis ===   #   see de.wikipedia.org/wiki/Innviertel
 
 [ried]
   Brauerei Ried *, 1536
@@ -75,9 +71,7 @@
   20_000 hl  (2001)
 
 
-
-################################
-# Uncategorized
+ === ?? ===  # Uncategorized
 
 [ritterbraeu]
   Ritterbräu Neumarkt, 1609

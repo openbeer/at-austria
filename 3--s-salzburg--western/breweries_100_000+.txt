@@ -2,8 +2,7 @@
 # Breweries in Salzburg (S) / Western Austria
 
 
-#####################
-# Stadt Salzburg
+ === Stadt Salzburg ===
 
 [stiegl]
   Stieglbrauerei|Stieglbrauerei zu Salzburg, 1492
@@ -13,8 +12,7 @@
   775_000 hl
 
 
-###############
-# Land Salzburg
+ === Land Salzburg ===
 
 [trumer]
   Trumer Privatbrauerei, 1601

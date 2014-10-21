@@ -2,10 +2,6 @@
 # Breweries in Oberösterreich (O) / Western Austria
 
 
-
-################################
-# Uncategorized
-
 [zipf]
   Brauerei Zipf (Brau Union)
   4871 Zipf // Zipf 22
@@ -22,8 +18,7 @@
   4_700_000 hl (2001)
 
 
-##############################
-# Salzkammergut (Teil in OÖ)
+ === Salzkammergut (Teil in OÖ) ===
 
 ## NB: eggenberg key used by Pivovar Eggenberg in Český Krumlov
 
@@ -35,8 +30,7 @@
   160_000 hl
 
 
-#####################################################
-# Innviertel / Innkreis
+ === Innviertel / Innkreis ===
 
 [baumgartner]
   Brauerei Jos. Baumgartner, 1609

@@ -1,45 +1,44 @@
 #############################################################################
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
-##########
-# Wien Umbgebung
+
+ === Wien Umbgebung ===
 
 [schwechat]
-  Brauerei Schwechat (Brau Union) **, 1796
+  Brauerei Schwechat (Brau Union), 1796
   2320 Schwechat // Mautner Markhof-Straße 11
   www.schwechater.at
   brands: Schwechater
-  brau_union   # Part of Brau Union
   980_000 hl
+  brau_union   # Part of Brau Union
 
-#############
-# Waldviertel
+
+ === Waldviertel ===
 
 [zwettler]
-  Zwettler Brauerei|Privatbrauerei Zwettl **, 1709
+  Zwettler Brauerei|Privatbrauerei Zwettl, 1709
   3910 Zwettl // Syrnauer Straße 22-25
   www.zwettler.at
-  brands: Zwettler
   200_000 hl
+  brands: Zwettler
 
-#############
-# St. Poelten Umgebung
+
+ === St. Pölten Umgebung ===
 
 [egger]
-  Privatbrauerei Fritz Egger **, 1978
+  Privatbrauerei Fritz Egger, 1978
   3105 Unterradlberg // Tiroler Straße 18
   www.egger-bier.at
   brands: Egger
   360_000 hl
 
 
-#############
-#  Uncategorized
-
+ === ?? ===
+ 
 [wieselburg]
-  Brauerei Wieselburg (Brau Union) **, 1770
+  Brauerei Wieselburg (Brau Union), 1770
   3250 Wieselburg // Dr.-Beuerle-Straße 1
   www.wieselburger.at
   brands: Wieselburger
-  brau_union  # Part of Brau Union
   900_000 hl
+  brau_union  # Part of Brau Union

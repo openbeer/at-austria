@@ -1,6 +1,6 @@
 
-# -- Wien
-_________________________________
+ == Wien ==
+
 - 1516 Brewing Company | Wien
 
 Hop Devil,         india_pale_ale
@@ -8,60 +8,54 @@ Pearl Jade Stout,  foreign_extra_stout
 Wedding Bells,     vienna_lager
 
 
-# -- Niederösterreich
-________________________________________________________
--   Brauerei Schwechat | Schwechat, Niederösterreich
+ == Niederösterreich ==
+
+-  Brauerei Schwechat | Schwechat
 
 Schwechater Zwickl,  pilsener
 
 
-# -- Steiermark
-_________________________________________________
--  Handbrauerei Forstner | Kalsdorf, Steiermark
+ == Steiermark ==
+
+-  Handbrauerei Forstner | Kalsdorf
 
 Slow 2,      ale
 Styrian Ale, bitter_ale
 Wunder Bier, strong_ale
 
-_______________________________________________
--  Gösser Brauerei | Göss (Leoben), Steiermark 
+-  Gösser Brauerei | Göss (Leoben)
 
 Gösser Märzen,             maerzen
 Reininghaus Jahrganspils,  pilsener
 
 
-# -- Oberösterreich
+ == Oberösterreich ==
 
-__________________________________________________________________________
--  Brauerei Schloss Eggenberg | Vorchdorf (Salzkammergut), Oberösterreich
+-  Brauerei Schloss Eggenberg | Vorchdorf (Salzkammergut)
 
 Samichlaus,                     strong_lager
 Urbock 23°,                     eisbock
 Schloss Eggenberg Hopfenkönig,  pilsener
 
-__________________________________________
--  Brauerei Zipf | Zipf, Oberösterreich
+-  Brauerei Zipf | Zipf
 
 Zipfer Urtyp,      pilsener
 Zipfer Pils,       pilsener
 Zipfer Sparkling,  dry_beer
 
+ == Salzburg ==
 
-# -- Salzburg
-____________________________________________________________
--  Hofbräu Kaltenhausen | Kaltenhausen zu Hallein, Salzburg
+-  Hofbräu Kaltenhausen | Kaltenhausen zu Hallein
 
 Edelweiss Hofbräu,  hefeweizen
 Edelweiss Gamsbock, weizenbock
 Bernstein,          lager
 
-____________________________________________
 -  Stieglbrauerei zu Salzburg | Salzburg
 
 Stiegl Goldbräu, maerzen
 
-____________________________________________
--  Trumer Privatbrauerei | Obertrum, Salzburg
+-  Trumer Privatbrauerei | Obertrum
 
 Trumer Pils, pilsener
 

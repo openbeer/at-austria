@@ -2,21 +2,19 @@
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
 
-#############
-# Waldviertel
+ === Waldviertel ===
 
 [schrems]
-  Brauerei Schrems *, 1410
+  Brauerei Schrems, 1410
   www.schremser.at
   3943 Schrems // Niederschremser Straße 1
   brands: Schremser
   24_000 hl
 
-#############
-# Weinviertel
+ === Weinviertel ===
 
 [hubertus]
-  Hubertus Bräu *, 1454
+  Hubertus Bräu, 1454
   www.hubertus.at
   2136 Laa/Thaya // Hubertusgasse 1
   brands: Hubertus
