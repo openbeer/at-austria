@@ -1,0 +1,47 @@
+# DLG Biere 2014
+
+- Brauerei Fohrenburg
+Gold   |  Fohrenburger Weizen
+Gold   |  Fohrenburger Stiftle
+Silber |  Fohrenburger Jubiläum
+
+- Brauerei Grieskirchen
+Silber |  Grieskirchner Pils
+
+- Brauerei Hirt
+Gold   |  Hirter 1270 
+Gold   |  Hirter Privat Pils
+Gold   |  Hirter Morchl
+Gold   |  Hirter Märzen
+
+- Brauerei Murau
+Gold   |  Murauer Märzen
+
+- Brauerei Ried
+Gold   |  Rieder Helle Weisse
+Gold   |  Rieder Märzen
+Silber |  Rieder UrEcht
+
+- Familienbrauerei Huber
+Gold   |  Tiroler Hefeweizen Hell
+Gold   |  St. Johanner - Original
+Gold   |  Tiroler - Spezial
+
+- Privatbrauerei Egger
+Gold   |  Egger Märzenbier
+Silber |  Egger Sprizz
+Gold   |  Sixtusbräu Schankbier
+Gold   |  Pittinger Premium Schankbier
+Gold   |  Berg König Premium
+
+- Rittersbräu
+Gold   | Ritterbräu Edelpils  
+Gold   | Halbstarker Lager
+
+- Stieglbrauerei zu Salzburg
+Gold   |  Stiegl Goldbräu
+Gold   |  Stiegl Pils
+Silber |  Stiegl Weisse Naturtrüb
+
+- Villacher (Vereinigte Kärntner Brauereien)
+Gold |     Villacher Märzen
