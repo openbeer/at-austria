@@ -1,0 +1,43 @@
+
+# DLG Biere 2013
+
+- Brauerei Egg 
+Gold | Egger Spezial Bier
+
+- Brauerei Fohrenburg
+Gold   |  Fohrenburger Stiftle 
+Gold   |  Fohrenburger Jubiläum
+Silber |  Fohrenburger Weizen
+
+- Brauerei Hirt
+Gold   |   Hirter BioBier
+
+- Brauerei Murau
+Gold    |  Murauer Weissbier  
+Gold    |  Murauer Märzen
+
+- Brauerei Ried
+Gold   |   Rieder Märzen  
+Silber |   Rieder UrEcht
+
+- Familienbrauerei Huber
+Gold   |  Tiroler Hefeweizen Hell
+Gold   |  St. Johanner - Original
+Silber |  Tiroler - Spezial
+
+- Privatbrauerei Egger
+Gold |    Sixtusbräu Schankbier  
+Gold |    Pittinger Premium Schankbier
+
+- Ritterbräu
+Gold |  Neumarkter Ritterbräu Märzen
+
+- Stieglbrauerei zu Salzburg
+Gold  |  Stiegl Weisse
+Gold  |  Stiegl Pils
+Gold  |  Stiegl Goldbräu
+Gold  |  Stiegl Paracelsus Zwickl
+
+- Trumer Privatbrauerei Josef Sigl
+Gold   |  Trumer Pils
+Silber |  Trumer Märzen
