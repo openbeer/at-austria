@@ -1,15 +1,16 @@
-########################################################
+##############################################
 # Beers in Kärnten (K) - Southern Austria
 
 _________________
 - Brauerei Hirt
 
 ‹Hirter› Pils|‹Hirter› Privat Pils, 5.2%, 12.3°,  pils
-‹Hirter› Märzen
-‹Hirter› Morchl, 5.0 %, 12.8°, c:80, dunkles
+‹Hirter› Märzen, 5.0%, 11.8°
+‹Hirter› Zwickl, 12.3°, 5.2%
+‹Hirter› Morchl, 5.0%, 12.8°, c:80, dunkles
 ‹Hirter› Biobier, 4.8%, 11.6°
 ‹Hirter› Biohanfbier
-‹Hirter› 1270,    4.9%, 11.9°, vollbier
+‹Hirter› 1270|‹Hirter› 1270er,  4.9%, 11.9°, vollbier|bernstein
 ‹Hirter› Weizen
 ‹Hirter› Festbock
 
