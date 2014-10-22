@@ -13,6 +13,16 @@ Zipfer Doppel Gold,  5.7%, 12.8°
 Zipfer Kellerbier,   5.6%, 12.2°,   ungefiltert|naturtrüb
 Zipfer Sparkling,    5.2%, 11.8°
 
+
+#### todo: how to best add a website/weblink for a beer brand (e.g. edelweissbier.at) ??
+### NOTE: edelweiss now brewed by zipfer (formerly brewed in kaltenhausen
+
+Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, weissbier
+Edelweiss Hofbräu,   4.5%, 11.8°, c:15, hefeweizen|weissbier
+Edelweiss Dunkel,    5.3%, 12.3°, weissbier
+Edelweiss Gamsbock,  7.1%, 16.2°, weissbier
+
+
 _____________________
 - Brau Union, Linz
 
@@ -30,7 +40,10 @@ Schloss Eggenberg Naturtrüb,           5.2%, 11.7°, zwickl
 Schloss Eggenberg Urbock 23°,          9.6%, 23°,   starkbier
 Schloss Eggenberg Festbock,            7.1%, 16.3°, bockbier
 
-Samichlaus,               14%, 28°, c:40,  starkes_lager 
+Samichlaus|Samichlaus Classic,     14%, 28°, c:40,  strong_lager 
+Samichlaus Hell             # for us export only ?
+Samichlaus Holzfass
+
 Nessie,                  whiskey_malt_red_beer
 
 _________________________________________
@@ -40,7 +53,7 @@ Baumgartner Märzen,     5.1%, 12.2°
 Baumgartner Doppelmalz, 5.1%, 13.7°
 Baumgartner Pils,       4.8%, 11.8°
 Baumgartner Export,     5.7%, 13.5°
-Baunti 1609 Lager,      5.0%, 12.0°
+Baunti 1609|Baunti 1609 Lager, 5.0%, 12.0°
 Baumgartner Zwickl,     5.1%, 12.2°,  naturtrueb|unfiltriert
 
 Baumgartner Urbier,      5.4%, 12.7°, altmuenchner_dunkel

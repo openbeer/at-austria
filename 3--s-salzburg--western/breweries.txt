@@ -7,13 +7,10 @@
 # NB: augustiner key already in use by Augustiner Bräu in Muenchen / de
 
 [augustinermuelln]
-  Augustiner Bräu Kloster Mülln *, 1621
+  Augustiner Bräu Kloster Mülln, 1621
   www.augustinerbier.at
   5020 Salzburg // Lindhofstraße 7
   8_500 hl (2001)
-
-
-# -- Microbreweries
 
 [dieweisse]
   Die Weisse Brauerei, 1901

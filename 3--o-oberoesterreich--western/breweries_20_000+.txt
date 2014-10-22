@@ -6,10 +6,10 @@
 #   add estimate
 
 
- === Mühlviertel / Mühlkreis ===   #  see de.wikipedia.org/wiki/Mühlviertel
+ === Mühlviertel ===   #  see de.wikipedia.org/wiki/Mühlviertel
 
 [freistaedter]
-  Freistädter Brauhaus|Braucommune in Freistadt *, 1770
+  Freistädter Brauhaus|Braucommune in Freistadt, 1770
   4240 Freistadt // Brauhausstraße 2 (Mühlviertel)
   www.freistaedter-bier.at
   brands: Freistädter
@@ -17,25 +17,25 @@
 
 
 [schlaegl]
-  Stiftsbrauerei Schlägl *, 1580
+  Stiftsbrauerei Schlägl, 1580
   4160 Schlägl // Schlägl 1 (Mühlviertel)
   www.schlaegl.co.at
   brands: Schlägl
   30_000 hl
 
 
- === Innviertel / Innkreis ===   #   see de.wikipedia.org/wiki/Innviertel
+ === Innviertel ===   #   see de.wikipedia.org/wiki/Innviertel
 
 [ried]
-  Brauerei Ried *, 1536
-  4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)
+  Brauerei Ried, 1536
+  4910 Ried i. Innkreis // Brauhausgasse 24 (Innviertel)
   www.rieder-bier.at
   brands: Rieder, Kellerbräu
   innviertel   # Bierregion Innviertel
   70_000 hl (2001)
 
 [grieskirchen]
-  Brauerei Grieskirchen *, 1708
+  Brauerei Grieskirchen, 1708
   4710 Grieskirchen // Stadtplatz 14
   www.grieskirchner.at
   brands: Grieskirchner
@@ -55,7 +55,7 @@
   30_000 hl
 
 [schnaitl]
-  Brauerei Schnaitl|Privatbrauerei Schnaitl *, 1842
+  Brauerei Schnaitl|Privatbrauerei Schnaitl, 1842
   5142 Eggelsberg // Gundertshausen 9 (Innviertel)
   www.schnaitl.at
   brands: Schnaitl
@@ -63,7 +63,7 @@
   25_000 hl (2001)
 
 [vitzthum]
-  Brauerei Vitzthum *, 1600
+  Brauerei Vitzthum, 1600
   5261 Uttendorf // Uttendorf 25 (Innviertel)
   www.uttendorf-bier.com
   brands: Uttendorf

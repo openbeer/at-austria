@@ -5,12 +5,13 @@ Freistädter Rotschopf    | Braucommune in Freistadt   | Freistadt (Mühlviertel
 Hadmar Bio               | Weitra Bräu Bierwerkstatt  | Weitra (Waldviertel),  Niederösterreich
 Samichlaus               | Brauerei Schloss Eggenberg | Vorchdorf (Salzkammergut), Oberösterreich 
 Schlägl Doppel Bock      | Stiftsbrauerei Schlägl     | Schlägl (Mühlviertel), Oberösterreich
-Forstner Styrian Ale     | Handbrauerei Forstner      | Kalsdorf, Steiermark ## [2]
-Forstner Triple 22       | Handbrauerei Forstner      | Kalsdorf, Steiermark ## [2]
+Forstner Styrian Ale     | Handbrauerei Forstner      | Kalsdorf, Steiermark  ## [1]
+Forstner Triple 22       | Handbrauerei Forstner      | Kalsdorf, Steiermark  ## [1]
+
 
 - 1001 Beers Blond
 
-Edelweiss Gamsbock           | Hofbräu Kaltenhausen | Kaltenhausen (zu Hallein), Salzburg   ## [1]
+Edelweiss Gamsbock           | Hofbräu Kaltenhausen | Kaltenhausen (zu Hallein), Salzburg   ## [2]
 Einhundert 100 Bitterpils    | Brauerei Vitzthum    | Uttendorf (Innviertel), Oberösterreich 
 Schwechater Zwickl           | Brauerei Schwechat   | Schwechat,  Niederösterreich
 Stiegl Goldbräu              | Stieglbrauerei zu Salzburg | Salzburg, Salzburg 
@@ -18,8 +19,8 @@ Trumer Pils                  | Trumer Privatbrauerei      | Obertrum, Salzburg
 Schloss Eggenberg Urbock 23° | Brauerei Schloss Eggenberg | Vorchdorf (Salzkammergut), Oberösterreich
 
 
-## [1] note: no longer brewed in Kaltenhausen
-##     (brewery closed by Heineken/Brau Union; just brewing Kaltenhausen now in small batch)
+## [1] note: brewmaster Gerhard Forstner died (passed away) in 2014
 
-## [2] note: brewmaster Gerhard Forstner died (passed away) in 2014
+## [2] note: no longer brewed in Kaltenhausen
+##     (brewery closed by Heineken/Brau Union; just brewing Kaltenhausen now in small batch)
 

@@ -1,0 +1,157 @@
+
+  == Wien ==
+
+- 1516 Brewing | Wien  (Brewpub)
+
+    Helles
+    Lager
+    Hop Devil,            india_pale_ale
+    Eejit's Oatmeal Stout
+    GrandQ,               witbier
+
+- Ottakringer | Wien
+
+    Ottakringer Rotes Zwickl
+    Ottakringer Goldfassl Spezial
+
+
+  == Niederösterreich ==
+
+- Bierwerkstatt Weitra | Weitra
+
+    Hadmar
+
+- Brauerei Schrems | Schrems
+
+    Schremser Roggen
+
+
+  == Salzburg ==
+
+- Stieglbrauerei zu Salzburg | Salzburg
+
+    Stiegl Goldbräu
+    Stiegl Paracelsus
+    Stiegl Weisse Naturtrüb
+    Double IPA
+
+- Die Weisse Brauerei | Salzburg 
+
+    Die Weisse Hell
+    Die Weisse Dunkel
+
+- Augustiner Bräu Kloster Mülln | Salzburg
+
+    Augustiner Märzen
+
+- Brauhaus Gusswerk | Hof bei Salzburg
+
+    Edelguss
+    Nicobar IPA
+    Cerevinum
+    Dies Irae, barley_wine
+
+- Trumer Privatbrauerei | Obertrum
+
+    Trumer Pils
+
+- Hofbräu Kaltenhausen | Kaltenhausen zu Hallein
+
+    Kaltenhausen Kellerbier
+    Riesling Style
+
+
+ == Oberösterreich ==
+
+- Brauerei Baumgartner | Schärding - Innviertel
+
+    Baumgartner Pils
+    Baunti 1609 Lager
+
+- Trappistenbrauerei Stift Engelszell | Engelhartszell - Innviertel
+
+    Gregorius
+    Benno
+
+- Brauerei Ried | Ried i. Innkreis - Innviertel
+
+    India Pale Ale
+    Rieder XXX Weisse
+
+- Brauerei Vitzthum | Uttendorf - Innviertel
+
+    Uttendorf Pils
+    Uttendorf Fallstaff
+
+- Brauerei Schloss Eggenberg | Vorchdorf - Salzkammergut
+
+    Urbock 23°
+    Samichlaus Classic
+    Samichlaus Hell
+    Samichlaus Holzfass
+
+- Brauerei Hofstetten | St. Martin (Adsdorf) - Mühlviertel
+
+    Hofstettner Kübelbier
+    Granitbock
+
+- Brauerei Zipf | Zipf
+
+    Zipfer Urtyp
+    Zipfer Pils
+    Edelweiss Hofbräu
+
+
+ ==  Kärnten ==
+
+- Privatbrauerei Loncium | Kötschach-Mauthen
+
+    Austrian Amber Lager
+    Schwarze Gams
+
+
+ == Steiermark ==
+  
+- Brauhaus Bevog | Bad Radkersburg
+
+    Tak, pale_ale
+    Ond, smoked_porter
+
+- Forstner Biere | Kalsdorf bei Graz
+
+    Styrian Ale
+    Fünf vor 12
+    Bonifatius Barrique
+
+- Gösser Brauerei | Göss (Leoben)
+
+    Gösser Märzen
+    Gösser Spezial
+    Reininghaus Jahrganspils
+
+
+  == Tirol ==
+
+- Familienbrauerei Huber | St. Johann
+
+    Huber Bräu Meisterpils
+    Huber Bräu Augustinus
+    Huber Bock
+
+- Zillertal Bier | Zell am Ziller
+
+    Zillertal Weissbier Bock
+    Zillertal Gauder Bock
+
+
+  == Vorarlberg ==
+
+- Brauerei Egg | Egg
+
+    Egger Edel Pils
+    Egger Wälder Senn
+
+- Mohrenbrauerei | Dornbirn
+
+    Mohren Spezial
+    Mohren Bockbier

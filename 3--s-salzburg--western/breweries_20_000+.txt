@@ -2,11 +2,26 @@
 # Breweries in Salzburg (S) / Western Austria
 
 
- === Stadt Salzburg ===
+  === Land Salzburg ===
 
 [gusswerk]
-  Brauerei Gusswerk
+  Brauerei Gusswerk|Brauhaus Gusswerk
+  5322 Hof bei Salzburg // Römerstraße 3 
   www.brauhaus-gusswerk.at
-  5020 Salzburg // Söllheimerstraße 16
+
+  ### NOTE: old adress moved to Hof bei Salzburg in 2013
+  #  5020 Salzburg // Söllheimerstraße 16 
+
   ### check - production greater 20_000 hl ???
+
+
+[kaltenhausen]
+  Hofbräu Kaltenhausen (Brau Union), 1475
+  5400 Hallein-Kaltenhausen // Salzburger Straße 67
+  www.kaltenhausen.at
+  brands: Kaltenhauser
+  brauunion
+ 
+  ### NOTE: edelweiss now brewed by zipfer (large brewery closed by heineken; now only small batch brewery)
+  # check for edelweiss - production was greater 100_000 ?? (move to 20_000+)
 

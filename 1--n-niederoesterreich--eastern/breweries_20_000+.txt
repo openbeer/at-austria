@@ -5,7 +5,7 @@
  === Waldviertel ===
 
 [schrems]
-  Brauerei Schrems, 1410
+  Brauerei Schrems|Trojan, 1410      # NOTE: Trojan -> Brewer Familiy Name
   www.schremser.at
   3943 Schrems // Niederschremser Straße 1
   brands: Schremser

@@ -8,10 +8,10 @@ ________________________________
 Stiegl Goldbräu, 4.9%, 12°, c:8, maerzen
 Stiegl Pils,     4.9%, 11.6°
 Stiegl Leicht, lite
-Stiegl Paracelsus Zwickl,   5.0%, 12.0°
+Stiegl Paracelsus|Stiegl Paracelsus Zwickl,   5.0%, 12.0°
 Stiegl Spezial,  5.2%, 12.5°, spezial
 
-Stiegl Weisse, weizen
+Stiegl Weisse|Stiegl Weisse Naturtrüb, weizen
 
 Stiegl Herbst Gold, 5.2%, 12.5°,  spezial
 Original Stieglbock,  7%, 16.5°,  bock
@@ -25,20 +25,3 @@ Trumer Märzen, 4.8%, 11.8°, lager|maerzen
 
 Sigls
 Trumer Herbstbier
-
-______________________________________
-- Hofbräu Kaltenhausen (Brau Union)
-
-#### todo: how to best add a website/weblink for a beer brand (e.g. edelweissbier.at) ??
-### check still brewed in kaltenhausen (edelweiss ??)
-
-Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, weissbier
-Edelweiss Hofbräu,   4.5%, 11.8°, c:15, hefeweizen|weissbier
-Edelweiss Dunkel,    5.3%, 12.3°, weissbier
-Edelweiss Gamsbock,  7.1%, 16.2°, weissbier
-
-Kaltenhauser Kellerbier,  zwickl
-Kaltenhauser Original
-Kaltenhauser Weisse,    weizen
-
-

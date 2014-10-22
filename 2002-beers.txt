@@ -1,61 +1,61 @@
 
  == Wien ==
 
-- 1516 Brewing Company | Wien
+- 1516 Brewing | Wien
 
-Hop Devil,         india_pale_ale
-Pearl Jade Stout,  foreign_extra_stout
-Wedding Bells,     vienna_lager
+    Hop Devil,         india_pale_ale
+    Pearl Jade Stout,  foreign_extra_stout
+    Wedding Bells,     vienna_lager
 
 
  == Niederösterreich ==
 
--  Brauerei Schwechat | Schwechat
+- Brauerei Schwechat | Schwechat
 
-Schwechater Zwickl,  pilsener
+    Schwechater Zwickl,  pilsener
 
 
  == Steiermark ==
 
--  Handbrauerei Forstner | Kalsdorf
+- Handbrauerei Forstner | Kalsdorf
 
-Slow 2,      ale
-Styrian Ale, bitter_ale
-Wunder Bier, strong_ale
+    Slow 2,      ale
+    Styrian Ale, bitter_ale
+    Wunder Bier, strong_ale
 
--  Gösser Brauerei | Göss (Leoben)
+- Gösser Brauerei | Göss (Leoben)
 
-Gösser Märzen,             maerzen
-Reininghaus Jahrganspils,  pilsener
+    Gösser Märzen,             maerzen
+    Reininghaus Jahrganspils,  pilsener
 
 
  == Oberösterreich ==
 
--  Brauerei Schloss Eggenberg | Vorchdorf (Salzkammergut)
+- Brauerei Schloss Eggenberg | Vorchdorf (Salzkammergut)
 
-Samichlaus,                     strong_lager
-Urbock 23°,                     eisbock
-Schloss Eggenberg Hopfenkönig,  pilsener
+    Samichlaus,                     strong_lager
+    Urbock 23°,                     eisbock
+    Schloss Eggenberg Hopfenkönig,  pilsener
 
--  Brauerei Zipf | Zipf
+- Brauerei Zipf | Zipf
 
-Zipfer Urtyp,      pilsener
-Zipfer Pils,       pilsener
-Zipfer Sparkling,  dry_beer
+    Zipfer Urtyp
+    Zipfer Pils
+    Zipfer Sparkling,  dry_beer
 
  == Salzburg ==
 
--  Hofbräu Kaltenhausen | Kaltenhausen zu Hallein
+- Hofbräu Kaltenhausen | Kaltenhausen
 
-Edelweiss Hofbräu,  hefeweizen
-Edelweiss Gamsbock, weizenbock
-Bernstein,          lager
+    Edelweiss Hofbräu,  hefeweizen       # NOTE: Edelweiss now brewed by Zipfer (no longer in Kaltenhausen)
+    Edelweiss Gamsbock, weizenbock
+    Bernstein,          lager
 
--  Stieglbrauerei zu Salzburg | Salzburg
+- Stieglbrauerei zu Salzburg | Salzburg
 
-Stiegl Goldbräu, maerzen
+    Stiegl Goldbräu, maerzen
 
--  Trumer Privatbrauerei | Obertrum
+- Trumer Privatbrauerei | Obertrum
 
-Trumer Pils, pilsener
+    Trumer Pils, pilsener
 

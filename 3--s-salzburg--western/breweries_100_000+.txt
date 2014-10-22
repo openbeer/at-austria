@@ -15,18 +15,10 @@
  === Land Salzburg ===
 
 [trumer]
-  Trumer Privatbrauerei, 1601
+  Trumer Privatbrauerei|Trumer Privatbrauerei Josef Sigl, 1601
   5162 Obertrum // Brauhausgasse 2
   www.trumer.at
   brands: Trumer, Sigls
   100_000 hl
 
-
-[kaltenhausen]
-  Hofbräu Kaltenhausen (Brau Union), 1475
-  5400 Hallein-Kaltenhausen // Salzburger Straße 67
-  www.kaltenhausen.at
-  brands: Edelweiss, Kaltenhauser
-  brauunion
-  ### check for edelweiss - production greater 100_000 ?? (move to 20_000+)
 

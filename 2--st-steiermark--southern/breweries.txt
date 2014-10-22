@@ -10,7 +10,7 @@
   www.flamberger.at
 
 [bevog]
-  Brauhaus Bevog
+  Brauhaus Bevog|Bevog
   8490 Bad Radkersburg // Gewerbepark B Nr. 9
   www.bevog.at
 
@@ -25,12 +25,12 @@
   www.brauereigratzer.at
 
 [forstner]
-  Handbrauerei Forstner|Hof-Bräu Kalsdorf      # note: old name was Hof-Bräu Kalsdorf (still used for braeustueberl/brewery tap) 
+  Handbrauerei Forstner|Forstner Biere|Hof-Bräu Kalsdorf      # note: old name was Hof-Bräu Kalsdorf (still used for braeustueberl/brewery tap) 
   8401 Kalsdorf // Dorfstraße 52
   www.forstner-biere.at
 
 [herzoghofbraeu]
-  Herzog Hofbräu
+  Herzog Hofbräu|Herzog
   8142 Wundschuh // Steindorf 8
   www.herzog-hofbraeu.at
 

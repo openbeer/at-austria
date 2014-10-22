@@ -8,7 +8,7 @@
  === 1. Innere Stadt ===
 
 [fifteensixteen]
-  1516 Brewing Company
+  1516 Brewing Company|1516 Brewing
   1010 Wien // Krugerstraße 18/Schwarzenbergstraße 2
   www.1516brewingcompany.com
 

@@ -3,14 +3,14 @@
 
 
 [hirt]
-  Brauerei Hirt **, 1270
+  Brauerei Hirt, 1270
   9322 Micheldorf // Hirt 9
   www.hirterbier.at
   brands: Hirter
   150_000 hl
 
 [villacher]
-  Villacher Brauerei (Vereinigte Kärntner Brauereien) **
+  Villacher Brauerei (Vereinigte Kärntner Brauereien)
   9500 Villach // Brauhausgasse 6
   www.villacher.com
   brands: Villacher, Piestinger
