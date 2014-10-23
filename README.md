@@ -1,9 +1,9 @@
 # Beers, Breweries n Brewpubs in Austria (Österreich)
 
 - Ostösterreich [Eastern Austria]
-    - (B) - Burgenland
-    - (N) - Niederösterreich [Lower Austria]
-    - (W) - Wien [Vienna]
+    - [(B) - Burgenland](1--b-burgendland--eastern)
+    - [(N) - Niederösterreich](1--n-niederoesterreich--eastern) [Lower Austria]
+    - [(W) - Wien](1--w-wien--eastern) [Vienna]
 - Südösterreich [Southern Austria]
     - (K) - Kärnten [Carinthia]
     - (ST) - Steiermark [Styria]
@@ -18,7 +18,7 @@ Free open public domain beer, brewery n brewpub data for Austria / Europe. Examp
 
 ~~~
 _______________________________
-- Ottakringer Brauerei, Wien
+- Ottakringer Brauerei | Wien
 
 Ottakringer Helles,                  5.2 %, 11.8°
 Ottakringer Gold Fassl Spezial,      5.6 %, 12.7°
@@ -28,6 +28,7 @@ Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°
 Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°
 Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°
 Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°
+Ottakringer Wiener Original
 
 ________________________________
 - Stieglbrauerei zu Salzburg
@@ -35,10 +36,10 @@ ________________________________
 Stiegl Goldbräu,            4.9%, 12°,   maerzen
 Stiegl Pils,                4.9%, 11.6°
 Stiegl Paracelsus Zwickl,   5.0%, 12.0°
-Stiegl Weizengold
+Stiegl Weisse
 
 ___________________________________________
-- Augustiner Bräu Kloster Mülln, Salzburg
+- Augustiner Bräu Kloster Mülln | Salzburg
 
 Augustiner Märzen,  4.6%,  12°
 Augustiner Bock,    6.5%,  16.5°
