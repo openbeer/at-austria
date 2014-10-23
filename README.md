@@ -1,17 +1,17 @@
 # Beers, Breweries n Brewpubs in Austria (Österreich)
 
 - Ostösterreich [Eastern Austria]
-    - [(B) - Burgenland](1--b-burgendland--eastern)
+    - [(B) - Burgenland](1--b-burgenland--eastern)
     - [(N) - Niederösterreich](1--n-niederoesterreich--eastern) [Lower Austria]
     - [(W) - Wien](1--w-wien--eastern) [Vienna]
 - Südösterreich [Southern Austria]
-    - (K) - Kärnten [Carinthia]
-    - (ST) - Steiermark [Styria]
+    - [(K) - Kärnten](2--k-kaernten--southern) [Carinthia]
+    - [(ST) - Steiermark](2--st-steiermark--southern) [Styria]
 - Westösterreich [Western Austria]
-    - (O) - Oberösterreich [Upper Austria]
-    - (S) - Salzburg
-    - (T) - Tirol [Tyrol]
-    - (V) - Vorarlberg
+    - [(O) - Oberösterreich](3--o-oberoesterreich--western) [Upper Austria]
+    - [(S) - Salzburg](3--s-salzburg--western)
+    - [(T) - Tirol](3--t-tirol--western) [Tyrol]
+    - [(V) - Vorarlberg](3--v-vorarlberg--western)
 
 
 Free open public domain beer, brewery n brewpub data for Austria / Europe. Example:
