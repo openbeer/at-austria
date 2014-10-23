@@ -51,6 +51,19 @@ More at the [Open Beer, Brewery n Brewpub Data (`beer.db`) Project Site »](http
 
 
 
+## Build Your Own `austria.db` Copy
+
+Use the `beerdb` command line tool to build your own `austria.db` copy
+from the plain text data sets. [More »](https://github.com/openbeer/build)
+
+### Examples
+
+Build the database for all Austrian beers, breweries n brewpubs:
+
+    $ rake build DATA=at
+
+
+
 ## Real World Usage
 
 - [The Free World Beer Book › Austria](http://openbeer.github.io/book/at.html)
