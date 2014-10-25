@@ -1,17 +1,22 @@
 # Beers, Breweries n Brewpubs in Austria (Österreich)
 
 - Ostösterreich [Eastern Austria]
-    - [(B) - Burgenland](1--b-burgenland--eastern)
-    - [(N) - Niederösterreich](1--n-niederoesterreich--eastern) [Lower Austria]
-    - [(W) - Wien](1--w-wien--eastern) [Vienna]
+    - [(B) - Burgenland](1--b-burgenland--eastern) - Gols, 
+    - [(N) - Niederösterreich [Lower Austria]](1--n-niederoesterreich--eastern)
+        - Waldviertel  - Zwettl, Weitra, Schrems
+        - Weinviertel  - Laa/Thaya
+    - [(W) - Wien [Vienna]](1--w-wien--eastern)
 - Südösterreich [Southern Austria]
-    - [(K) - Kärnten](2--k-kaernten--southern) [Carinthia]
-    - [(ST) - Steiermark](2--st-steiermark--southern) [Styria]
+    - [(K) - Kärnten [Carinthia]](2--k-kaernten--southern)
+    - [(ST) - Steiermark [Styria]](2--st-steiermark--southern)
 - Westösterreich [Western Austria]
-    - [(O) - Oberösterreich](3--o-oberoesterreich--western) [Upper Austria]
-    - [(S) - Salzburg](3--s-salzburg--western)
-    - [(T) - Tirol](3--t-tirol--western) [Tyrol]
-    - [(V) - Vorarlberg](3--v-vorarlberg--western)
+    - [(O) - Oberösterreich [Upper Austria]](3--o-oberoesterreich--western)
+        - Innviertel  - Schärding, Ried i. Innkreis, Grieskirchen, Altheim, Eggelsberg, Uttendorf, Engelhartszell
+        - Mühlviertel  - Freistadt, Schlägl, St. Martin i. Mühlkreis
+        - Salzkammergut
+    - [(S) - Salzburg](3--s-salzburg--western)  - Obertrum
+    - [(T) - Tirol](3--t-tirol--western) [Tyrol] - Zell am Ziller, St. Johann, Lienz
+    - [(V) - Vorarlberg](3--v-vorarlberg--western) -  Bludenz, Dornbirn, Egg
 
 
 Free open public domain beer, brewery n brewpub data for Austria / Europe. Example:
@@ -30,15 +35,15 @@ Ottakringer (Gold Fassl) Dunkles,    5.2 %, 12.2°
 Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°
 Ottakringer Wiener Original
 
-________________________________
-- Stieglbrauerei zu Salzburg
+_________________________________________
+- Stieglbrauerei zu Salzburg | Salzburg
 
 Stiegl Goldbräu,            4.9%, 12°,   maerzen
 Stiegl Pils,                4.9%, 11.6°
 Stiegl Paracelsus Zwickl,   5.0%, 12.0°
 Stiegl Weisse
 
-___________________________________________
+____________________________________________
 - Augustiner Bräu Kloster Mülln | Salzburg
 
 Augustiner Märzen,  4.6%,  12°

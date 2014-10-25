@@ -1,0 +1,28 @@
+########################################
+#  Salzkammergut > Oberösterreich (O)
+
+______________________________________________
+- Brauerei Schloss Eggenberg |  Vorchdorf
+
+Schloss Eggenberg (Classic) Märzen,    4.9%, 11.7°, maerzen
+Schloss Eggenberg Gold Spezial,        5.3%, 12.6°, spezial
+Schloss Eggenberg Hopfenkönig,         5.1%, 11.7°, pils
+Schloss Eggenberg Hopfenkönig Medium,  2.9%,  9.5°, pils|lite
+Schloss Eggenberg Naturtrüb,           5.2%, 11.7°, zwickl
+Schloss Eggenberg Urbock 23°,          9.6%, 23°,   starkbier
+Schloss Eggenberg Festbock,            7.1%, 16.3°, bockbier
+
+Samichlaus|Samichlaus Classic,     14%, 28°, c:40,  strong_lager 
+Samichlaus Hell             # for us export only ?
+Samichlaus Holzfass
+
+Nessie,                  whiskey_malt_red_beer
+
+
+#####################
+#  Brewpubs
+_______________________________
+- Brauerei Attersee  |  Straß
+
+Attersee Bräu Hell
+

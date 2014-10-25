@@ -1,0 +1,14 @@
+##############################
+# Oberösterreich (O)
+
+# - Braucommune in Freistadt | Freistadt   => see muehlviertel
+
+
+# - Privatbrauerei Wurmhöringer | Altheim      => see innviertel
+# - Brauerei Raschhofer         | Altheim         
+# - Brauerei Ried               | Ried i. Innkreis
+# - Brauerei Grieskirchen       | Grieskirchen
+# - Brauerei Vitzthum           | Uttendorf
+# - Stiftsbrauerei Schlägl      | Schlägl
+# - Brauerei Schnaitl           | Gundertshausen   
+

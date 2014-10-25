@@ -1,6 +1,6 @@
 
 [kapsreiter]
-  Kapsreiter Brauerei *
+  Kapsreiter Brauerei
   4780 Schärding // Linzer Straße 1
   brands: Kapsreiter
   ottakringer   # Part of Ottakringer

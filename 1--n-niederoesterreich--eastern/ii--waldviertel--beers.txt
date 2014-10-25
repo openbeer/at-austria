@@ -1,0 +1,35 @@
+#######################################
+# Waldviertel > Niederösterreich (N)
+
+______________________________
+- Zwettler Brauerei | Zwettl
+
+Zwettler Original,     5.1 %,  11.9°
+Zwettler Export Lager, 5.0 %,  11.8°
+Zwettler Pils,         4.9 %,  11.5°
+Zwettler Zwickl,       5.5 %,  12.5°
+Zwettler Dunkles,      3.4 %,  11.5°
+Zwettler Kuenringer Festbock,  6.8 %, 16.2°
+Zwettler Saphir (Premium Pils),  5.3%, 12.3°
+
+__________________________________
+- Bierwerkstatt Weitra | Weitra
+
+Weitra Helles,  5.0 %,   11.8°
+Hadmar Bio,   5.2 %,   12.5°, bio
+
+______________________________
+- Brauerei Schrems | Schrems
+
+Schremser Premium,     5.1%, 11.9°  # Vollbier Lager
+Schremser Edelmärzen,  5.0%, 11.9°
+Schremser Pils,        4.5%, 11.2°
+Schremser Doppelmalz,  4.6%, 11.9°
+Schremser Bio Roggen|Schremser Roggen,  5.2%, 11.9°, c:20, roggenbier
+Schremser Bio Naturpark,  5.1%, 11.9°
+
+Schremser Hanfbier
+Schremser Weihnachtsbräu
+
+
+

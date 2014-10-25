@@ -10,7 +10,7 @@
 
 
 [hofstetten]
-  Brauerei Hofstetten *
+  Brauerei Hofstetten
   4113 St. Martin // Adsdorf 5 (Mühlviertel)
   www.hofstetten.at
   5_700 hl
