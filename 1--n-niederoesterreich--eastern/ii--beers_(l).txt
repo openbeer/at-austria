@@ -32,6 +32,3 @@ Egger Zwickl 1868,  5.1 %, 11.6°
 Egger Permium,      5.2 %, 11.8°   # check is Premium (Pils)??
 Egger Leicht|Egger Sprizz,       3.5 %,  8.8°
 
-
-# - Zwettler Brauerei | Zwettl    => see waldviertel
-
