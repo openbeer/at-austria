@@ -1,8 +1,14 @@
 #############################################################################
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
-
  === Waldviertel ===
+
+[zwettler]
+  Zwettler Brauerei|Privatbrauerei Zwettl, 1709
+  3910 Zwettl // Syrnauer Straße 22-25
+  www.zwettler.at
+  200_000 hl
+  brands: Zwettler
 
 [schrems]
   Brauerei Schrems|Trojan, 1410      # NOTE: Trojan -> Brewer Familiy Name
