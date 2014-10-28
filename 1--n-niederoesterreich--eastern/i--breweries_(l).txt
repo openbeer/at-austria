@@ -13,16 +13,6 @@
   brau_union   # Part of Brau Union
 
 
- === Waldviertel ===
-
-[zwettler]
-  Zwettler Brauerei|Privatbrauerei Zwettl, 1709
-  3910 Zwettl // Syrnauer Straße 22-25
-  www.zwettler.at
-  200_000 hl
-  brands: Zwettler
-
-
  === St. Pölten Umgebung ===
 
 [egger]
