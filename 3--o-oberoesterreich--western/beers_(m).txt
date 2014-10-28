@@ -11,4 +11,8 @@
 # - Brauerei Vitzthum           | Uttendorf
 # - Stiftsbrauerei Schlägl      | Schlägl
 # - Brauerei Schnaitl           | Gundertshausen   
+# - Brauerei Jos. Baumgartner   | Schärding  
+
+
+# - Brauerei Schloss Eggenberg | Vorchdorf   => see salzkammergut
 

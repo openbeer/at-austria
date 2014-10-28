@@ -1,11 +1,13 @@
 #####################################################
 # Breweries in Vorarlberg (V) / Western Austria
 
+
+### move greater 10_000 hl to mid-size/medium (m) - why? why not ???
+
 [egg]
-  Brauerei Egg *, 1894
+  Brauerei Egg, 1894
   www.brauerei-egg.at
   6863 Egg // Gerbe 500
   16_000 hl (2001)
-
 
 

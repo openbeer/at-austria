@@ -1,6 +1,7 @@
 #############################################################################
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
+# NOTE: large breweries  500_000+ hl / year
 
  === Wien Umbgebung ===
 
@@ -20,7 +21,7 @@
   3105 Unterradlberg // Tiroler Straße 18
   www.egger-bier.at
   brands: Egger
-  360_000 hl
+  360_000 hl (??)    # NOTE: assume 500_000+ in 2014?
 
 
  === ?? ===

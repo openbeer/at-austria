@@ -1,8 +1,10 @@
 ###############################################################
 # Breweries in Steiermark [Styria] (ST) / Southern Austria
 
+# NOTE: large breweries  500_000+ hl / year
+
 [goesser]
-  Gösser Brauerei (Brau Union)|Brauerei Göss **
+  Gösser Brauerei (Brau Union)|Brauerei Göss
   8700 Göss/Leoben // Brauhausgasse 1
   www.goesser.at
   brands: Gösser
@@ -11,17 +13,9 @@
 
 
 [puntigam]
-  Brauerei Puntigam (Brau Union) **
+  Brauerei Puntigam (Brau Union)
   8055 Graz // Triester Straße 359
   www.puntigamer.at
   brands: Puntigamer, Reininghaus
   brauunion
   1_000_000 hl (2001)
-
-[murau]
-  Brauerei Murau|Obermurtaler Brauerei *    ## todo: check if name Obermurtaler Brauerei is still in use?
-  8850 Murau // Raffaltplatz 19-23
-  www.murauerbier.at
-  brands: Murauer
-  160_000 hl
-

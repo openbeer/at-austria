@@ -26,6 +26,14 @@
 
  === Innviertel ===   #   see de.wikipedia.org/wiki/Innviertel
 
+
+[baumgartner]
+  Brauerei Jos. Baumgartner|Brauerei Baumgartner, 1609
+  4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)
+  www.brauerei-baumgartner.at
+  innviertel   # Bierregion Innviertel
+  100_000 hl
+
 [ried]
   Brauerei Ried, 1536
   4910 Ried i. Innkreis // Brauhausgasse 24 (Innviertel)
@@ -69,6 +77,20 @@
   brands: Uttendorf
   innviertel   # Bierregion Innviertel
   20_000 hl  (2001)
+
+
+
+ === Salzkammergut ===  ## Teil in O
+
+## NB: eggenberg key used by Pivovar Eggenberg in Český Krumlov
+
+[schlosseggenberg]
+  Brauerei Schloss Eggenberg|Schloss Eggenberg, 1681
+  4655 Vorchdorf // Eggenberg 1
+  www.schloss-eggenberg.at
+  brands: Schloss Eggenberg, Samichlaus
+  160_000 hl
+
 
 
  === ?? ===  # Uncategorized

@@ -1,0 +1,22 @@
+######################################################################
+# Breweries in Oberösterreich (O) / Western Austria
+
+
+# NOTE: large breweries  500_000+ hl / year
+
+[zipf]
+  Brauerei Zipf (Brau Union)
+  4871 Zipf // Zipf 22
+  www.zipfer.at
+  brands: Zipfer
+  brau_union  # Part of Brau Union
+
+
+## todo: make into/mark as holding company ??
+[brauunion]
+  Brau Union Österreich
+  4020 Linz // Poschacherstrasse 35
+  www.brauunion.at
+  brands: Edelweiss
+  4_700_000 hl (2001)
+

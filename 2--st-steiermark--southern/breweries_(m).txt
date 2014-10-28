@@ -2,11 +2,19 @@
 # Breweries in Steiermark [Styria] (ST) / Southern Austria
 
 
+[murau]
+  Brauerei Murau|Obermurtaler Brauerei   ## todo: check if name Obermurtaler Brauerei is still in use?
+  8850 Murau // Raffaltplatz 19-23
+  www.murauerbier.at
+  brands: Murauer
+  160_000 hl
+
 [schladminger]
-  Schladminger Brau (Brau Union) *, 1909
+  Schladminger Brau (Brau Union), 1909
   8970 Schladming // Hammerfeldweg 163
   www.schladmingerbier.at
   brands: Schladminger
   brauunion
   35_000 hl (2001)
+
 

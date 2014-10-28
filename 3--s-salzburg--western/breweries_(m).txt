@@ -4,6 +4,16 @@
 
   === Land Salzburg ===
 
+
+[trumer]
+  Trumer Privatbrauerei|Trumer Privatbrauerei Josef Sigl, 1601
+  5162 Obertrum // Brauhausgasse 2
+  www.trumer.at
+  brands: Trumer, Sigls
+  100_000 hl
+
+
+
 [gusswerk]
   Brauerei Gusswerk|Brauhaus Gusswerk
   5322 Hof bei Salzburg // Römerstraße 3 

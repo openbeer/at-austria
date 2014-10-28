@@ -1,0 +1,24 @@
+###############################################################
+# Breweries in Kärnten (K) - Southern Austria
+
+[villacher]
+  Villacher Brauerei (Vereinigte Kärntner Brauereien)
+  9500 Villach // Brauhausgasse 6
+  www.villacher.com
+  brands: Villacher, Piestinger
+  380_000 hl
+
+[hirt]
+  Brauerei Hirt, 1270
+  9322 Micheldorf // Hirt 9
+  www.hirterbier.at
+  brands: Hirter
+  150_000 hl
+
+[schleppe]
+  Schleppe Brauerei (Vereinigte Kärntner Brauereien), 1607
+  www.schleppe.at
+  9020 Klagenfurt // Schleppeplatz 1
+  brands: Schleppe
+  60_000 hl
+
