@@ -58,6 +58,15 @@ More at the [Open Beer, Brewery n Brewpub Data (`beer.db`) Project Site »](http
 
 
 
+## Mid-size (m), Large (l) Brewery Definitions
+
+NOTE:
+
+- Large     => 500_000+ hl
+- Mid-size  => < 500_000 hl
+
+
+
 ## Build Your Own `austria.db` Copy
 
 Use the `beerdb` command line tool to build your own `austria.db` copy

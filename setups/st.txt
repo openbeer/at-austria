@@ -1,8 +1,9 @@
 
 at-austria!/2--st-steiermark--southern/breweries
-at-austria!/2--st-steiermark--southern/breweries_20_000+
-at-austria!/2--st-steiermark--southern/breweries_100_000+
+at-austria!/2--st-steiermark--southern/breweries_(m)
+at-austria!/2--st-steiermark--southern/breweries_(l)
+
 at-austria!/2--st-steiermark--southern/beers
-at-austria!/2--st-steiermark--southern/beers_20_000+
-at-austria!/2--st-steiermark--southern/beers_100_000+
+at-austria!/2--st-steiermark--southern/beers_(m)
+at-austria!/2--st-steiermark--southern/beers_(l)
 

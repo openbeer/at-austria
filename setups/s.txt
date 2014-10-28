@@ -1,8 +1,9 @@
 
 at-austria!/3--s-salzburg--western/breweries
-at-austria!/3--s-salzburg--western/breweries_20_000+
-at-austria!/3--s-salzburg--western/breweries_100_000+
+at-austria!/3--s-salzburg--western/breweries_(m)
+at-austria!/3--s-salzburg--western/breweries_(l)
+
 at-austria!/3--s-salzburg--western/beers
-at-austria!/3--s-salzburg--western/beers_20_000+
-at-austria!/3--s-salzburg--western/beers_100_000+
+at-austria!/3--s-salzburg--western/beers_(m)
+at-austria!/3--s-salzburg--western/beers_(l)
 

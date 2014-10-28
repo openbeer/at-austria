@@ -1,8 +1,11 @@
 
 at-austria!/1--n-niederoesterreich--eastern/breweries
-at-austria!/1--n-niederoesterreich--eastern/breweries_20_000+
-at-austria!/1--n-niederoesterreich--eastern/breweries_100_000+
+at-austria!/1--n-niederoesterreich--eastern/breweries_(m)
+at-austria!/1--n-niederoesterreich--eastern/breweries_(l)
+
+at-austria!/1--n-niederoesterreich--eastern/beers--waldviertel
+at-austria!/1--n-niederoesterreich--eastern/beers--weinviertel
 at-austria!/1--n-niederoesterreich--eastern/beers
-at-austria!/1--n-niederoesterreich--eastern/beers_20_000+
-at-austria!/1--n-niederoesterreich--eastern/beers_100_000+
+at-austria!/1--n-niederoesterreich--eastern/beers_(m)
+at-austria!/1--n-niederoesterreich--eastern/beers_(l)
 

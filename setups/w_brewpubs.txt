@@ -1,4 +1,4 @@
 
 at-austria!/1--w-wien--eastern/brewpubs
-at-austria!/1--w-wien--eastern/beers_brewpubs
+at-austria!/1--w-wien--eastern/beers_(brewpubs)
 

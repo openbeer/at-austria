@@ -1,6 +1,7 @@
 
 at-austria!/3--t-tirol--western/breweries
-at-austria!/3--t-tirol--western/breweries_20_000+
+at-austria!/3--t-tirol--western/breweries_(m)
+
 at-austria!/3--t-tirol--western/beers
-at-austria!/3--t-tirol--western/beers_20_000+
+at-austria!/3--t-tirol--western/beers_(m)
 

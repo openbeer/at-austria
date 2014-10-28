@@ -1,8 +1,7 @@
 
 at-austria!/3--v-vorarlberg--western/breweries
-at-austria!/3--v-vorarlberg--western/breweries_20_000+
-at-austria!/3--v-vorarlberg--western/breweries_100_000+
+at-austria!/3--v-vorarlberg--western/breweries_(m)
+
 at-austria!/3--v-vorarlberg--western/beers
-at-austria!/3--v-vorarlberg--western/beers_20_000+
-at-austria!/3--v-vorarlberg--western/beers_100_000+
+at-austria!/3--v-vorarlberg--western/beers_(m)
 

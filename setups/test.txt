@@ -2,11 +2,11 @@
 #  -- breweries
 at-austria!/1--b-burgenland--eastern/breweries
 at-austria!/1--n-niederoesterreich--eastern/breweries
-at-austria!/1--w-wien--eastern/breweries_100_000+
+at-austria!/1--w-wien--eastern/breweries_(l)
 
 
 # -- beers
 at-austria!/1--b-burgenland--eastern/beers
 at-austria!/1--n-niederoesterreich--eastern/beers
-at-austria!/1--w-wien--eastern/beers_100_000+
+at-austria!/1--w-wien--eastern/beers_(l)
 
