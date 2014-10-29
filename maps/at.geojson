@@ -12,10 +12,13 @@
       },
       "properties": {
         "title": "Kobersdorfer Schlossbräu",
+        "description": "7332 Kobersdorf // Hauptstraße 43",
         "city": "Kobersdorf",
-        "address": "7332 Kobersdorf // Hauptstraße 43",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Burgenland",
+        "web": "www.kobersdorfer.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -29,10 +32,13 @@
       },
       "properties": {
         "title": "Brauerei Scharrer",
+        "description": "7453 Steinberg-Dörfl // Obere Hauptstraße 129",
         "city": "Steinberg-Dörfl",
-        "address": "7453 Steinberg-Dörfl // Obere Hauptstraße 129",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Burgenland",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -46,10 +52,13 @@
       },
       "properties": {
         "title": "Pannonia Brauerei Gols",
+        "description": "7122 Gols // Sandgrube 1a",
         "city": "Gols",
-        "address": "7122 Gols // Sandgrube 1a",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Burgenland",
+        "web": "www.golserbier.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
       }
     },
     {
@@ -63,10 +72,13 @@
       },
       "properties": {
         "title": "Allander Stierkogl Bräu",
+        "description": "2534 Alland // Wagenhofstraße 538",
         "city": "Alland",
-        "address": "2534 Alland // Wagenhofstraße 538",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -80,10 +92,13 @@
       },
       "properties": {
         "title": "Geroldinger Brauhaus",
+        "description": "3392 Gerolding // Graf Geroldstraße 43",
         "city": "Gerolding",
-        "address": "3392 Gerolding // Graf Geroldstraße 43",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -97,10 +112,13 @@
       },
       "properties": {
         "title": "Schrammelsbräu",
+        "description": "2822 Bad Erlach // Harrathof 39",
         "city": "Bad Erlach",
-        "address": "2822 Bad Erlach // Harrathof 39",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.schrammels.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -114,10 +132,13 @@
       },
       "properties": {
         "title": "Weitra Bräu Bierwerkstatt",
+        "description": "3970 Weitra // Sparkasseplatz 160",
         "city": "Weitra",
-        "address": "3970 Weitra // Sparkasseplatz 160",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.bierwerkstatt.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -131,10 +152,13 @@
       },
       "properties": {
         "title": "Biermanufaktur Korneuburg",
+        "description": "2100 Korneuburg // Brückenstraße 8",
         "city": "Korneuburg",
-        "address": "2100 Korneuburg // Brückenstraße 8",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.biermanufaktur.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -148,10 +172,13 @@
       },
       "properties": {
         "title": "Brauerei Hainfeld",
+        "description": "3170 Hainfeld // Wienerstraße 10",
         "city": "Hainfeld",
-        "address": "3170 Hainfeld // Wienerstraße 10",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.brauerei-hainfeld.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -165,10 +192,13 @@
       },
       "properties": {
         "title": "Bruckners Brauwelt",
+        "description": "3292 Gaming // Grubberg 4a",
         "city": "Gaming",
-        "address": "3292 Gaming // Grubberg 4a",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.erzbräu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -182,10 +212,13 @@
       },
       "properties": {
         "title": "Die Bierzauberei",
+        "description": "2345 Brunn am Gebirge // Leopold Gattringer-Straße 39",
         "city": "Brunn am Gebirge",
-        "address": "2345 Brunn am Gebirge // Leopold Gattringer-Straße 39",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.bierzauberer.info",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -199,10 +232,13 @@
       },
       "properties": {
         "title": "Emmerberg-Bräu / Erste Österreichische Ökobrauerei",
+        "description": "2722 Winzendorf // Hauptstraße 137",
         "city": "Winzendorf",
-        "address": "2722 Winzendorf // Hauptstraße 137",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -216,10 +252,13 @@
       },
       "properties": {
         "title": "Holzb(r)auer / Natürliche Handwerksbrauerei",
+        "description": "2831 Warth // Wiesengasse 9",
         "city": "Warth",
-        "address": "2831 Warth // Wiesengasse 9",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -233,10 +272,13 @@
       },
       "properties": {
         "title": "Marchfelder Storchenbräu",
+        "description": "2284 Untersiebenbrunn // Brückengasse 5",
         "city": "Untersiebenbrunn",
-        "address": "2284 Untersiebenbrunn // Brückengasse 5",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.bauersbier.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -250,10 +292,13 @@
       },
       "properties": {
         "title": "Privatbrauerei Gerald Schwarz",
+        "description": "2851 Krumbach // Bundesstraße 19",
         "city": "Krumbach",
-        "address": "2851 Krumbach // Bundesstraße 19",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.schwarzbraeu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -267,10 +312,13 @@
       },
       "properties": {
         "title": "Wolfsbräu",
+        "description": "2832 Thernberg // Blumengasse 7",
         "city": "Thernberg",
-        "address": "2832 Thernberg // Blumengasse 7",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.wolfsbrau.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -284,61 +332,13 @@
       },
       "properties": {
         "title": "Gablitzer Privatbrauerei",
+        "description": "3003 Gablitz // Spitzersteig 10",
         "city": "Gablitz",
-        "address": "3003 Gablitz // Spitzersteig 10",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.0722362,
-          48.7934868
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Schrems",
-        "city": "Schrems",
-        "address": "3943 Schrems // Niederschremser Straße 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.3916766,
-          48.7218933
-        ]
-      },
-      "properties": {
-        "title": "Hubertus Bräu",
-        "city": "Laa/Thaya",
-        "address": "2136 Laa/Thaya // Hubertusgasse 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.4780312,
-          48.1397436
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Schwechat (Brau Union)",
-        "city": "Schwechat",
-        "address": "2320 Schwechat // Mautner Markhof-Straße 11",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.gablitzer.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -352,10 +352,73 @@
       },
       "properties": {
         "title": "Zwettler Brauerei",
+        "description": "3910 Zwettl // Syrnauer Straße 22-25",
         "city": "Zwettl",
-        "address": "3910 Zwettl // Syrnauer Straße 22-25",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.zwettler.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0722362,
+          48.7934868
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schrems",
+        "description": "3943 Schrems // Niederschremser Straße 1",
+        "city": "Schrems",
+        "state": "Niederösterreich",
+        "web": "www.schremser.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3916766,
+          48.7218933
+        ]
+      },
+      "properties": {
+        "title": "Hubertus Bräu",
+        "description": "2136 Laa/Thaya // Hubertusgasse 1",
+        "city": "Laa/Thaya",
+        "state": "Niederösterreich",
+        "web": "www.hubertus.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4780312,
+          48.1397436
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schwechat (Brau Union)",
+        "description": "2320 Schwechat // Mautner Markhof-Straße 11",
+        "city": "Schwechat",
+        "state": "Niederösterreich",
+        "web": "www.schwechater.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
       }
     },
     {
@@ -369,10 +432,13 @@
       },
       "properties": {
         "title": "Privatbrauerei Fritz Egger",
+        "description": "3105 Unterradlberg // Tiroler Straße 18",
         "city": "Unterradlberg",
-        "address": "3105 Unterradlberg // Tiroler Straße 18",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.egger-bier.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
       }
     },
     {
@@ -386,10 +452,13 @@
       },
       "properties": {
         "title": "Brauerei Wieselburg (Brau Union)",
+        "description": "3250 Wieselburg // Dr.-Beuerle-Straße 1",
         "city": "Wieselburg",
-        "address": "3250 Wieselburg // Dr.-Beuerle-Straße 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.wieselburger.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
       }
     },
     {
@@ -403,10 +472,13 @@
       },
       "properties": {
         "title": "Ottakringer Brauerei",
+        "description": "1160 Wien // Ottakringer Platz 1",
         "city": "Wien",
-        "address": "1160 Wien // Ottakringer Platz 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.ottakringer.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
       }
     },
     {
@@ -420,44 +492,13 @@
       },
       "properties": {
         "title": "Wimitzbräu",
+        "description": "9311 Kraig // Wimitz 7",
         "city": "Kraig",
-        "address": "9311 Kraig // Wimitz 7",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.3079604,
-          46.6228162
-        ]
-      },
-      "properties": {
-        "title": "Schleppe Brauerei (Vereinigte Kärntner Brauereien)",
-        "city": "Klagenfurt",
-        "address": "9020 Klagenfurt // Schleppeplatz 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4266404,
-          46.914433
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Hirt",
-        "city": "Micheldorf",
-        "address": "9322 Micheldorf // Hirt 9",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Kärnten",
+        "web": "www.wimitzbraeu.com",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -471,10 +512,53 @@
       },
       "properties": {
         "title": "Villacher Brauerei (Vereinigte Kärntner Brauereien)",
+        "description": "9500 Villach // Brauhausgasse 6",
         "city": "Villach",
-        "address": "9500 Villach // Brauhausgasse 6",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Kärnten",
+        "web": "www.villacher.com",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4266404,
+          46.914433
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Hirt",
+        "description": "9322 Micheldorf // Hirt 9",
+        "city": "Micheldorf",
+        "state": "Kärnten",
+        "web": "www.hirterbier.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3079604,
+          46.6228162
+        ]
+      },
+      "properties": {
+        "title": "Schleppe Brauerei (Vereinigte Kärntner Brauereien)",
+        "description": "9020 Klagenfurt // Schleppeplatz 1",
+        "city": "Klagenfurt",
+        "state": "Kärnten",
+        "web": "www.schleppe.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
       }
     },
     {
@@ -488,10 +572,13 @@
       },
       "properties": {
         "title": "Brauhaus Bevog",
+        "description": "8490 Bad Radkersburg // Gewerbepark B Nr. 9",
         "city": "Bad Radkersburg",
-        "address": "8490 Bad Radkersburg // Gewerbepark B Nr. 9",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.bevog.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -505,10 +592,13 @@
       },
       "properties": {
         "title": "Brauerei Leutschach",
+        "description": "8463 Leutschach // Schillerplatz 3",
         "city": "Leutschach",
-        "address": "8463 Leutschach // Schillerplatz 3",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.diebrauerei.com",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -522,10 +612,13 @@
       },
       "properties": {
         "title": "Brauerei Gratzer",
+        "description": "8224 Kaindorf // Obertiefenbach 26",
         "city": "Kaindorf",
-        "address": "8224 Kaindorf // Obertiefenbach 26",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.brauereigratzer.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -539,10 +632,13 @@
       },
       "properties": {
         "title": "Herzog Hofbräu",
+        "description": "8142 Wundschuh // Steindorf 8",
         "city": "Wundschuh",
-        "address": "8142 Wundschuh // Steindorf 8",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.herzog-hofbraeu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -556,10 +652,13 @@
       },
       "properties": {
         "title": "Landwerkstatt & Genusslabor",
+        "description": "8481 Weinburg // Pichla/M. 31",
         "city": "Weinburg",
-        "address": "8481 Weinburg // Pichla/M. 31",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.pockbier.com",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -573,10 +672,13 @@
       },
       "properties": {
         "title": "Nibelungengold Brauerei",
+        "description": "8280 Fürstenfeld // Franz-Bauer-Weg 4",
         "city": "Fürstenfeld",
-        "address": "8280 Fürstenfeld // Franz-Bauer-Weg 4",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.nibelungengold.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -590,10 +692,13 @@
       },
       "properties": {
         "title": "Privatbrauerei Erzbergbräu",
+        "description": "8790 Eisenerz // Trofengbachgasse 2",
         "city": "Eisenerz",
-        "address": "8790 Eisenerz // Trofengbachgasse 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.erzbergbraeu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -607,44 +712,13 @@
       },
       "properties": {
         "title": "Toni Bräu",
+        "description": "8273 Ebersdorf // Wagenbach 61",
         "city": "Ebersdorf",
-        "address": "8273 Ebersdorf // Wagenbach 61",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.6867878,
-          47.3940415
-        ]
-      },
-      "properties": {
-        "title": "Schladminger Brau (Brau Union)",
-        "city": "Schladming",
-        "address": "8970 Schladming // Hammerfeldweg 163",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4382918,
-          47.0708101
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Puntigam (Brau Union)",
-        "city": "Graz",
-        "address": "8055 Graz // Triester Straße 359",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.tonibraeu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -658,10 +732,53 @@
       },
       "properties": {
         "title": "Brauerei Murau",
+        "description": "8850 Murau // Raffaltplatz 19-23",
         "city": "Murau",
-        "address": "8850 Murau // Raffaltplatz 19-23",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": "www.murauerbier.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6867878,
+          47.3940415
+        ]
+      },
+      "properties": {
+        "title": "Schladminger Brau (Brau Union)",
+        "description": "8970 Schladming // Hammerfeldweg 163",
+        "city": "Schladming",
+        "state": "Steiermark",
+        "web": "www.schladmingerbier.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4382918,
+          47.0708101
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Puntigam (Brau Union)",
+        "description": "8055 Graz // Triester Straße 359",
+        "city": "Graz",
+        "state": "Steiermark",
+        "web": "www.puntigamer.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
       }
     },
     {
@@ -675,10 +792,13 @@
       },
       "properties": {
         "title": "Brauerei Hofstetten",
+        "description": "4113 St. Martin // Adsdorf 5 (Mühlviertel)",
         "city": "St. Martin",
-        "address": "4113 St. Martin // Adsdorf 5 (Mühlviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.hofstetten.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -692,10 +812,13 @@
       },
       "properties": {
         "title": "Trappistenbrauerei Stift Engelszell",
+        "description": "4090 Engelhartszell // Stiftstraße 6  (Innviertel)",
         "city": "Engelhartszell",
-        "address": "4090 Engelhartszell // Stiftstraße 6  (Innviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.stift-engelszell.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -709,10 +832,13 @@
       },
       "properties": {
         "title": "Argus-Bräu",
+        "description": "4861 Schörfling (am Attersee) // Oberachmanstraße 21",
         "city": "Schörfling (am Attersee)",
-        "address": "4861 Schörfling (am Attersee) // Oberachmanstraße 21",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.argus-braeu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -726,10 +852,13 @@
       },
       "properties": {
         "title": "Brauerei Aspach (Starzinger)",
+        "description": "4890 Frankenmarkt // Hauptstraße 23",
         "city": "Frankenmarkt",
-        "address": "4890 Frankenmarkt // Hauptstraße 23",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -743,10 +872,13 @@
       },
       "properties": {
         "title": "Brauerei Bräu am Berg (Starzinger)",
+        "description": "4890 Frankenmarkt // Bahnhofstraße 1",
         "city": "Frankenmarkt",
-        "address": "4890 Frankenmarkt // Bahnhofstraße 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -760,10 +892,13 @@
       },
       "properties": {
         "title": "Brauerei Attersee",
+        "description": "4881 Straß (i. Attergau) // Straß 8",
         "city": "Straß (i. Attergau)",
-        "address": "4881 Straß (i. Attergau) // Straß 8",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.brauerei-attersee.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -777,10 +912,13 @@
       },
       "properties": {
         "title": "Brauerei Bachner",
+        "description": "4170 St. Stefan am Walde // Unterriedl 4",
         "city": "St. Stefan am Walde",
-        "address": "4170 St. Stefan am Walde // Unterriedl 4",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -794,10 +932,13 @@
       },
       "properties": {
         "title": "Brauerei Pachinger",
+        "description": "4843 Ampflwang // Vorderschlagen 19",
         "city": "Ampflwang",
-        "address": "4843 Ampflwang // Vorderschlagen 19",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.pfeiffis-braeu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -811,10 +952,13 @@
       },
       "properties": {
         "title": "Dörnbacher Floriani-Bräu",
+        "description": "4061 Wilhering // Dörnbacherstraße 132",
         "city": "Wilhering",
-        "address": "4061 Wilhering // Dörnbacherstraße 132",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.florianibraeu.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -828,10 +972,13 @@
       },
       "properties": {
         "title": "Neufeldner Biobrauerei",
+        "description": "4120 Neufelden // Bräuhausgasse 3",
         "city": "Neufelden",
-        "address": "4120 Neufelden // Bräuhausgasse 3",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.biobrauerei.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -845,10 +992,13 @@
       },
       "properties": {
         "title": "Schwertberger Bräu",
+        "description": "4311 Schwertberg // Ing. Schmiedl-Straße 7",
         "city": "Schwertberg",
-        "address": "4311 Schwertberg // Ing. Schmiedl-Straße 7",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -862,10 +1012,13 @@
       },
       "properties": {
         "title": "Steffinger Brauerei",
+        "description": "4170 St. Stefan am Walde // Unterriedl 4",
         "city": "St. Stefan am Walde",
-        "address": "4170 St. Stefan am Walde // Unterriedl 4",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -879,10 +1032,13 @@
       },
       "properties": {
         "title": "Trauner Bier",
+        "description": "4050 Traun // Madlschenterweg 7",
         "city": "Traun",
-        "address": "4050 Traun // Madlschenterweg 7",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.traunerbier.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -896,10 +1052,13 @@
       },
       "properties": {
         "title": "Freistädter Brauhaus",
+        "description": "4240 Freistadt // Brauhausstraße 2 (Mühlviertel)",
         "city": "Freistadt",
-        "address": "4240 Freistadt // Brauhausstraße 2 (Mühlviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.freistaedter-bier.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
       }
     },
     {
@@ -913,163 +1072,13 @@
       },
       "properties": {
         "title": "Stiftsbrauerei Schlägl",
+        "description": "4160 Schlägl // Schlägl 1 (Mühlviertel)",
         "city": "Schlägl",
-        "address": "4160 Schlägl // Schlägl 1 (Mühlviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.48839,
-          48.2085868
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Ried",
-        "city": "Ried/Innkreis",
-        "address": "4910 Ried/Innkreis // Brauhausgasse 24 (Innviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.826192,
-          48.235011
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Grieskirchen",
-        "city": "Grieskirchen",
-        "address": "4710 Grieskirchen // Stadtplatz 14",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.2320404,
-          48.250022
-        ]
-      },
-      "properties": {
-        "title": "Privatbrauerei Wurmhöringer",
-        "city": "Altheim",
-        "address": "4950 Altheim // Stadtplatz 10/11  (Innviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.2320404,
-          48.250022
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Raschhofer",
-        "city": "Altheim",
-        "address": "4950 Altheim // Braunauer Straße 12",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.9910444,
-          48.0765942
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Schnaitl",
-        "city": "Eggelsberg",
-        "address": "5142 Eggelsberg // Gundertshausen 9 (Innviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.1228453,
-          48.4594449
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Vitzthum",
-        "city": "Uttendorf",
-        "address": "5261 Uttendorf // Uttendorf 25 (Innviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.5031657,
-          48.0363053
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Zipf (Brau Union)",
-        "city": "Zipf",
-        "address": "4871 Zipf // Zipf 22",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.2865628,
-          48.3058789
-        ]
-      },
-      "properties": {
-        "title": "Brau Union Österreich",
-        "city": "Linz",
-        "address": "4020 Linz // Poschacherstrasse 35",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.922837,
-          48.0035141
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Schloss Eggenberg",
-        "city": "Vorchdorf",
-        "address": "4655 Vorchdorf // Eggenberg 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.schlaegl.co.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
       }
     },
     {
@@ -1083,10 +1092,173 @@
       },
       "properties": {
         "title": "Brauerei Jos. Baumgartner",
+        "description": "4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)",
         "city": "Schärding",
-        "address": "4780 Schärding // Franz-Xaver-Brunner-Straße 1 (Innviertel)",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.brauerei-baumgartner.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.826192,
+          48.235011
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Grieskirchen",
+        "description": "4710 Grieskirchen // Stadtplatz 14",
+        "city": "Grieskirchen",
+        "state": "Oberösterreich",
+        "web": "www.grieskirchner.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2320404,
+          48.250022
+        ]
+      },
+      "properties": {
+        "title": "Privatbrauerei Wurmhöringer",
+        "description": "4950 Altheim // Stadtplatz 10/11  (Innviertel)",
+        "city": "Altheim",
+        "state": "Oberösterreich",
+        "web": "www.wurmhoeringer.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2320404,
+          48.250022
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Raschhofer",
+        "description": "4950 Altheim // Braunauer Straße 12",
+        "city": "Altheim",
+        "state": "Oberösterreich",
+        "web": "www.raschhoferbier.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9910444,
+          48.0765942
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schnaitl",
+        "description": "5142 Eggelsberg // Gundertshausen 9 (Innviertel)",
+        "city": "Eggelsberg",
+        "state": "Oberösterreich",
+        "web": "www.schnaitl.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1228453,
+          48.4594449
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Vitzthum",
+        "description": "5261 Uttendorf // Uttendorf 25 (Innviertel)",
+        "city": "Uttendorf",
+        "state": "Oberösterreich",
+        "web": "www.uttendorf-bier.com",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.922837,
+          48.0035141
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Schloss Eggenberg",
+        "description": "4655 Vorchdorf // Eggenberg 1",
+        "city": "Vorchdorf",
+        "state": "Oberösterreich",
+        "web": "www.schloss-eggenberg.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5031657,
+          48.0363053
+        ]
+      },
+      "properties": {
+        "title": "Brauerei Zipf (Brau Union)",
+        "description": "4871 Zipf // Zipf 22",
+        "city": "Zipf",
+        "state": "Oberösterreich",
+        "web": "www.zipfer.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2865628,
+          48.3058789
+        ]
+      },
+      "properties": {
+        "title": "Brau Union Österreich",
+        "description": "4020 Linz // Poschacherstrasse 35",
+        "city": "Linz",
+        "state": "Oberösterreich",
+        "web": "www.brauunion.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
       }
     },
     {
@@ -1100,10 +1272,13 @@
       },
       "properties": {
         "title": "Augustiner Bräu Kloster Mülln",
+        "description": "5020 Salzburg // Lindhofstraße 7",
         "city": "Salzburg",
-        "address": "5020 Salzburg // Lindhofstraße 7",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": "www.augustinerbier.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1117,44 +1292,13 @@
       },
       "properties": {
         "title": "Die Weisse Brauerei",
+        "description": "5020 Salzburg // Bayerhamerstraße 10",
         "city": "Salzburg",
-        "address": "5020 Salzburg // Bayerhamerstraße 10",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0410592,
-          47.8001977
-        ]
-      },
-      "properties": {
-        "title": "Brauerei Gusswerk",
-        "city": "Salzburg",
-        "address": "5020 Salzburg // Söllheimerstraße 16",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.0410592,
-          47.8001977
-        ]
-      },
-      "properties": {
-        "title": "Stieglbrauerei",
-        "city": "Salzburg",
-        "address": "5017 Salzburg // Kendlerstraße 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": "www.salzburgerweissbier.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1168,10 +1312,33 @@
       },
       "properties": {
         "title": "Trumer Privatbrauerei",
+        "description": "5162 Obertrum // Brauhausgasse 2",
         "city": "Obertrum",
-        "address": "5162 Obertrum // Brauhausgasse 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": "www.trumer.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0410592,
+          47.8001977
+        ]
+      },
+      "properties": {
+        "title": "Stieglbrauerei",
+        "description": "5017 Salzburg // Kendlerstraße 1",
+        "city": "Salzburg",
+        "state": "Salzburg",
+        "web": "www.stiegl.at",
+        "type": "berwery (l)",
+        "marker-color": "#ff0000",
+        "marker-size": "large"
       }
     },
     {
@@ -1185,10 +1352,13 @@
       },
       "properties": {
         "title": "Branger Bräu",
+        "description": "6175 Unterperfuß/Innsbruck // Unterperfuß 32",
         "city": "Unterperfuß/Innsbruck",
-        "address": "6175 Unterperfuß/Innsbruck // Unterperfuß 32",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": "www.brangeralm.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1202,10 +1372,13 @@
       },
       "properties": {
         "title": "Brauerei Harald Franz Baumgartner",
+        "description": "6020 Innsbruck // Feldstraße 11a",
         "city": "Innsbruck",
-        "address": "6020 Innsbruck // Feldstraße 11a",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1219,10 +1392,13 @@
       },
       "properties": {
         "title": "Brauerei Schloß Starkenberg",
+        "description": "6464 Tarrenz // Griesegg 1",
         "city": "Tarrenz",
-        "address": "6464 Tarrenz // Griesegg 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": "www.starkenberg.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1236,10 +1412,13 @@
       },
       "properties": {
         "title": "Kristall Brauerei",
+        "description": "6236 Alpbach // Inneralpbach 431",
         "city": "Alpbach",
-        "address": "6236 Alpbach // Inneralpbach 431",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1253,10 +1432,13 @@
       },
       "properties": {
         "title": "Vilser Privatbrauerei",
+        "description": "6682 Vils // Stadtgasse 2",
         "city": "Vils",
-        "address": "6682 Vils // Stadtgasse 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": "www.vilserprivatbrauerei.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1270,10 +1452,13 @@
       },
       "properties": {
         "title": "Brauerei Falkenstein (Brau Union)",
+        "description": "9900 Lienz // Pußtertaler Straße 40",
         "city": "Lienz",
-        "address": "9900 Lienz // Pußtertaler Straße 40",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
       }
     },
     {
@@ -1287,10 +1472,13 @@
       },
       "properties": {
         "title": "Brauhaus Simon Strasser",
+        "description": "6280 Zell am Ziller // Bräuweg 1",
         "city": "Zell am Ziller",
-        "address": "6280 Zell am Ziller // Bräuweg 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": "www.zillertal-bier.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
       }
     },
     {
@@ -1304,44 +1492,13 @@
       },
       "properties": {
         "title": "Brauerei Egg",
+        "description": "6863 Egg // Gerbe 500",
         "city": "Egg",
-        "address": "6863 Egg // Gerbe 500",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.6330556,
-          47.2166667
-        ]
-      },
-      "properties": {
-        "title": "Vorarlberger Brauereigenossenschaft Frastanz",
-        "city": "Frastanz",
-        "address": "6820 Frastanz //",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.7423955,
-          47.4135969
-        ]
-      },
-      "properties": {
-        "title": "Mohrenbrauerei",
-        "city": "Dornbirn",
-        "address": "6850 Dornbirn // Dr.-Waibel-Straße 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Vorarlberg",
+        "web": "www.brauerei-egg.at",
+        "type": "brewery",
+        "marker-color": "#ffd700",
+        "marker-size": "small"
       }
     },
     {
@@ -1355,10 +1512,53 @@
       },
       "properties": {
         "title": "Brauerei Fohrenburg",
+        "description": "6700 Bludenz // Fohrenburgstraße 5",
         "city": "Bludenz",
-        "address": "6700 Bludenz // Fohrenburgstraße 5",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Vorarlberg",
+        "web": "www.fohrenburg.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7423955,
+          47.4135969
+        ]
+      },
+      "properties": {
+        "title": "Mohrenbrauerei",
+        "description": "6850 Dornbirn // Dr.-Waibel-Straße 2",
+        "city": "Dornbirn",
+        "state": "Vorarlberg",
+        "web": "www.mohrenbrauerei.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6330556,
+          47.2166667
+        ]
+      },
+      "properties": {
+        "title": "Vorarlberger Brauereigenossenschaft Frastanz",
+        "description": "6820 Frastanz //",
+        "city": "Frastanz",
+        "state": "Vorarlberg",
+        "web": "www.frastanzer.at",
+        "type": "brewery (m)",
+        "marker-color": "#0000ff",
+        "marker-size": "medium"
       }
     },
     {
@@ -1372,10 +1572,13 @@
       },
       "properties": {
         "title": "Braugasthof Schmidt",
+        "description": "7423 Neustift a.d. Lafnitz // Nr. 64",
         "city": "Neustift a.d. Lafnitz",
-        "address": "7423 Neustift a.d. Lafnitz // Nr. 64",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Burgenland",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1389,10 +1592,13 @@
       },
       "properties": {
         "title": "Bierwerkstatt Thomas Fritsche",
+        "description": "2486 Siegersdorf // Pottendorfer Straße 106",
         "city": "Siegersdorf",
-        "address": "2486 Siegersdorf // Pottendorfer Straße 106",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1406,10 +1612,13 @@
       },
       "properties": {
         "title": "Brauerei Dangl",
+        "description": "3763 Japons // Zettenreith 7",
         "city": "Japons",
-        "address": "3763 Japons // Zettenreith 7",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1423,10 +1632,13 @@
       },
       "properties": {
         "title": "Brettner Brauerei (\"Altes Doktorhaus\")",
+        "description": "2641 Schottwien // Hauptstraße 49",
         "city": "Schottwien",
-        "address": "2641 Schottwien // Hauptstraße 49",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.brettner.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1440,10 +1652,13 @@
       },
       "properties": {
         "title": "Brauerei Brauhotel Weitra",
+        "description": "3970 Weitra // Rathausplatz 6",
         "city": "Weitra",
-        "address": "3970 Weitra // Rathausplatz 6",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1457,10 +1672,13 @@
       },
       "properties": {
         "title": "Dunkelsteiner Bräu",
+        "description": "3121 Karlstetten // Schaubing 2",
         "city": "Karlstetten",
-        "address": "3121 Karlstetten // Schaubing 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1474,10 +1692,13 @@
       },
       "properties": {
         "title": "Erlauftaler Bräu",
+        "description": "3250 Wieselburg // Teichweg 6",
         "city": "Wieselburg",
-        "address": "3250 Wieselburg // Teichweg 6",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1491,10 +1712,13 @@
       },
       "properties": {
         "title": "Fiaker Bräu",
+        "description": "3550 Langenlois // Holzplatz 7",
         "city": "Langenlois",
-        "address": "3550 Langenlois // Holzplatz 7",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": "www.fiakerwirt.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1508,10 +1732,13 @@
       },
       "properties": {
         "title": "Gasthof Diewald",
+        "description": "2640 Gloggnitz // Raach am Hochgebirge 38",
         "city": "Gloggnitz",
-        "address": "2640 Gloggnitz // Raach am Hochgebirge 38",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1525,10 +1752,13 @@
       },
       "properties": {
         "title": "Haßbacher Braueck",
+        "description": "2831 Haßbach // Berggasse 6",
         "city": "Haßbach",
-        "address": "2831 Haßbach // Berggasse 6",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1542,10 +1772,13 @@
       },
       "properties": {
         "title": "Langenrohrer Erlebnisbrauerei",
+        "description": "3442 Langenrohr // Josef-Reither-Straße 18",
         "city": "Langenrohr",
-        "address": "3442 Langenrohr // Josef-Reither-Straße 18",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1559,10 +1792,13 @@
       },
       "properties": {
         "title": "Linko Bräu",
+        "description": "3160 Traisen // Gartengasse 9",
         "city": "Traisen",
-        "address": "3160 Traisen // Gartengasse 9",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1576,10 +1812,13 @@
       },
       "properties": {
         "title": "Petri-Bräu",
+        "description": "3161 St. Veit an der Gölsen // Brillergraben 8",
         "city": "St. Veit an der Gölsen",
-        "address": "3161 St. Veit an der Gölsen // Brillergraben 8",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1593,10 +1832,13 @@
       },
       "properties": {
         "title": "Poidl Bräu",
+        "description": "2563 Pottenstein // Wehrgasse 6",
         "city": "Pottenstein",
-        "address": "2563 Pottenstein // Wehrgasse 6",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1610,10 +1852,13 @@
       },
       "properties": {
         "title": "Privatbrauerei Gaming",
+        "description": "3293 Gaming // Kartause 1",
         "city": "Gaming",
-        "address": "3293 Gaming // Kartause 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1627,10 +1872,13 @@
       },
       "properties": {
         "title": "Privatbrauerei Maria Pichler",
+        "description": "3633 Schönbach // Schönbach 1",
         "city": "Schönbach",
-        "address": "3633 Schönbach // Schönbach 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1644,10 +1892,13 @@
       },
       "properties": {
         "title": "Rax Bräu",
+        "description": "2650 Payerbach // Hauptstraße 40",
         "city": "Payerbach",
-        "address": "2650 Payerbach // Hauptstraße 40",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1661,10 +1912,13 @@
       },
       "properties": {
         "title": "Wirtshausbrauerei Haselböck",
+        "description": "3662 Münichreith am Ostrong // Hausbrauerstraße 3",
         "city": "Münichreith am Ostrong",
-        "address": "3662 Münichreith am Ostrong // Hausbrauerstraße 3",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1678,10 +1932,13 @@
       },
       "properties": {
         "title": "Ybbstal Bräu Gasthaus Hehenberger",
+        "description": "3340 Waidhofen/Ybbs // Wienerstraße 28",
         "city": "Waidhofen/Ybbs",
-        "address": "3340 Waidhofen/Ybbs // Wienerstraße 28",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1695,10 +1952,13 @@
       },
       "properties": {
         "title": "Zecherbräu",
+        "description": "2640 Enzenreith // Siedlaustraße 129",
         "city": "Enzenreith",
-        "address": "2640 Enzenreith // Siedlaustraße 129",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Niederösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1712,10 +1972,13 @@
       },
       "properties": {
         "title": "1516 Brewing Company",
+        "description": "1010 Wien // Krugerstraße 18/Schwarzenbergstraße 2",
         "city": "Wien",
-        "address": "1010 Wien // Krugerstraße 18/Schwarzenbergstraße 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.1516brewingcompany.com",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1729,10 +1992,13 @@
       },
       "properties": {
         "title": "Stadtbrauerei Schwarzenberg",
+        "description": "1010 Wien // Schellinggasse 14",
         "city": "Wien",
-        "address": "1010 Wien // Schellinggasse 14",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.stadtbrauerei.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1746,10 +2012,13 @@
       },
       "properties": {
         "title": "Salm Bräu",
+        "description": "1030 Wien // Rennweg 8",
         "city": "Wien",
-        "address": "1030 Wien // Rennweg 8",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.salmbraeu.com",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1763,10 +2032,13 @@
       },
       "properties": {
         "title": "Wieden-Bräu",
+        "description": "1040 Wien // Waaggasse 5",
         "city": "Wien",
-        "address": "1040 Wien // Waaggasse 5",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.wieden-braeu.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1780,10 +2052,13 @@
       },
       "properties": {
         "title": "Zum Schwarzen Adler",
+        "description": "1050 Wien // Schönbrunner Strasse 40",
         "city": "Wien",
-        "address": "1050 Wien // Schönbrunner Strasse 40",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.schwarzer-adler.co.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1797,10 +2072,13 @@
       },
       "properties": {
         "title": "7 Stern Bräu",
+        "description": "1070 Wien // Siebensterngasse 19",
         "city": "Wien",
-        "address": "1070 Wien // Siebensterngasse 19",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.7stern.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1814,10 +2092,13 @@
       },
       "properties": {
         "title": "Lichtenthaler Bräu",
+        "description": "1090 Wien // Lichtensteinstrasse 108",
         "city": "Wien",
-        "address": "1090 Wien // Lichtensteinstrasse 108",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.lichtenthalerbraeu.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1831,10 +2112,13 @@
       },
       "properties": {
         "title": "The Highlander",
+        "description": "1090 Wien // Sobieskiplatz 4",
         "city": "Wien",
-        "address": "1090 Wien // Sobieskiplatz 4",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.the-highlander.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1848,10 +2132,13 @@
       },
       "properties": {
         "title": "Medl Bräu",
+        "description": "1140 Wien // Linzer Straße 275",
         "city": "Wien",
-        "address": "1140 Wien // Linzer Straße 275",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.medl-braeu.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1865,10 +2152,13 @@
       },
       "properties": {
         "title": "Schwarzer Rabe",
+        "description": "1160 Wien // Ottakringer Straße 180",
         "city": "Wien",
-        "address": "1160 Wien // Ottakringer Straße 180",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.rabenbraeu.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1882,10 +2172,13 @@
       },
       "properties": {
         "title": "Fischerbräu",
+        "description": "1190 Wien // Billrothstraße 17",
         "city": "Wien",
-        "address": "1190 Wien // Billrothstraße 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.fischerbraeu.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1899,10 +2192,13 @@
       },
       "properties": {
         "title": "Kadlez Bräu",
+        "description": "1210 Wien // Hopfengasse 8-11",
         "city": "Wien",
-        "address": "1210 Wien // Hopfengasse 8-11",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": "www.kadlez.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1916,10 +2212,13 @@
       },
       "properties": {
         "title": "Hiaslbräu",
+        "description": "1220 Wien // Biberhaufenweg 228",
         "city": "Wien",
-        "address": "1220 Wien // Biberhaufenweg 228",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Wien",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1933,10 +2232,13 @@
       },
       "properties": {
         "title": "Altes Brauhaus",
+        "description": "9150 Bleiburg // Hauptplatz 9",
         "city": "Bleiburg",
-        "address": "9150 Bleiburg // Hauptplatz 9",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Kärnten",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1950,10 +2252,13 @@
       },
       "properties": {
         "title": "Drucker-Bräu",
+        "description": "9556 Liebenfels // Zweikirchen 9",
         "city": "Liebenfels",
-        "address": "9556 Liebenfels // Zweikirchen 9",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Kärnten",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1967,10 +2272,13 @@
       },
       "properties": {
         "title": "Hirter Botschaft",
+        "description": "9020 Klagenfurt // Bahnhofstraße 44",
         "city": "Klagenfurt",
-        "address": "9020 Klagenfurt // Bahnhofstraße 44",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Kärnten",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -1984,10 +2292,13 @@
       },
       "properties": {
         "title": "Jauntaler Bauernbier",
+        "description": "9132 Gallizien // Pirk 1",
         "city": "Gallizien",
-        "address": "9132 Gallizien // Pirk 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Kärnten",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2001,10 +2312,13 @@
       },
       "properties": {
         "title": "Stoana Bräu",
+        "description": "9546 Bad Kleinkirchheim // Zirkitzer Weg 17",
         "city": "Bad Kleinkirchheim",
-        "address": "9546 Bad Kleinkirchheim // Zirkitzer Weg 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Kärnten",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2018,10 +2332,13 @@
       },
       "properties": {
         "title": "3BB-Farm",
+        "description": "8181 St. Ruprecht a.d. Raab // Dietmannsdorf 17",
         "city": "St. Ruprecht a.d. Raab",
-        "address": "8181 St. Ruprecht a.d. Raab // Dietmannsdorf 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2035,10 +2352,13 @@
       },
       "properties": {
         "title": "Bauernhof Neuwirth",
+        "description": "8200 Gleisdorf // Brodersdorf 21",
         "city": "Gleisdorf",
-        "address": "8200 Gleisdorf // Brodersdorf 21",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2052,10 +2372,13 @@
       },
       "properties": {
         "title": "Bauernhofbrauerei Johann Schmallegger",
+        "description": "8183 Floing // Haring 17",
         "city": "Floing",
-        "address": "8183 Floing // Haring 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2069,10 +2392,13 @@
       },
       "properties": {
         "title": "Fürstenbräu",
+        "description": "8280 Fürstenfeld // Hauptstraße 31",
         "city": "Fürstenfeld",
-        "address": "8280 Fürstenfeld // Hauptstraße 31",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2086,10 +2412,13 @@
       },
       "properties": {
         "title": "Großstübinger Leitn Bräu",
+        "description": "8114 Großstübing // Nr. 34",
         "city": "Großstübing",
-        "address": "8114 Großstübing // Nr. 34",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2103,10 +2432,13 @@
       },
       "properties": {
         "title": "Hermax-Bräu",
+        "description": "8311 Markt Hartmannsdorf // Reith 72",
         "city": "Markt Hartmannsdorf",
-        "address": "8311 Markt Hartmannsdorf // Reith 72",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2120,10 +2452,13 @@
       },
       "properties": {
         "title": "Kandlbauer's Hausbräu",
+        "description": "8190 Birkfeld // Aschau 21",
         "city": "Birkfeld",
-        "address": "8190 Birkfeld // Aschau 21",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2137,10 +2472,13 @@
       },
       "properties": {
         "title": "Kofler Bräu",
+        "description": "8786 Rottenmann // Hauptstraße 4",
         "city": "Rottenmann",
-        "address": "8786 Rottenmann // Hauptstraße 4",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2154,10 +2492,13 @@
       },
       "properties": {
         "title": "Kulturbrauerei Hengist",
+        "description": "8411 Hengsberg // Schönberg 24",
         "city": "Hengsberg",
-        "address": "8411 Hengsberg // Schönberg 24",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2171,10 +2512,13 @@
       },
       "properties": {
         "title": "Laurenzi Bräu",
+        "description": "8200 Gleisdorf // Hauptplatz 3",
         "city": "Gleisdorf",
-        "address": "8200 Gleisdorf // Hauptplatz 3",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2188,10 +2532,13 @@
       },
       "properties": {
         "title": "Lava Bräu",
+        "description": "8330 Feldbach // Auersbach 130",
         "city": "Feldbach",
-        "address": "8330 Feldbach // Auersbach 130",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2205,10 +2552,13 @@
       },
       "properties": {
         "title": "Marienbräu Edwin Strobl",
+        "description": "8075 Hart bei Graz // Rupertistraße 80",
         "city": "Hart bei Graz",
-        "address": "8075 Hart bei Graz // Rupertistraße 80",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2222,10 +2572,13 @@
       },
       "properties": {
         "title": "Nassauer City Bier",
+        "description": "8522 Unterbergla // Nassau 48",
         "city": "Unterbergla",
-        "address": "8522 Unterbergla // Nassau 48",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2239,10 +2592,13 @@
       },
       "properties": {
         "title": "Peterwirtsbräu",
+        "description": "8983 Bad Mitterndorf // Nr. 68",
         "city": "Bad Mitterndorf",
-        "address": "8983 Bad Mitterndorf // Nr. 68",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2256,10 +2612,13 @@
       },
       "properties": {
         "title": "Putz'n Bräu",
+        "description": "8243 Pinggau // Wiesenhöf 17",
         "city": "Pinggau",
-        "address": "8243 Pinggau // Wiesenhöf 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2273,10 +2632,13 @@
       },
       "properties": {
         "title": "s'kloane Sudhaus",
+        "description": "8130 Frohnleiten // Mauritzener Hauptstraße 1",
         "city": "Frohnleiten",
-        "address": "8130 Frohnleiten // Mauritzener Hauptstraße 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2290,10 +2652,13 @@
       },
       "properties": {
         "title": "Sajacher Schlößl Bräu",
+        "description": "8424 Gabersdorf // Sajach 23",
         "city": "Gabersdorf",
-        "address": "8424 Gabersdorf // Sajach 23",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2307,10 +2672,13 @@
       },
       "properties": {
         "title": "Schwalben-Bräu",
+        "description": "8970 Schladming // Siedergasse 89",
         "city": "Schladming",
-        "address": "8970 Schladming // Siedergasse 89",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2324,10 +2692,13 @@
       },
       "properties": {
         "title": "Wirtshausbrauerei Mariazell",
+        "description": "8630 Mariazell // Wiener Straße 5",
         "city": "Mariazell",
-        "address": "8630 Mariazell // Wiener Straße 5",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Steiermark",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2341,10 +2712,13 @@
       },
       "properties": {
         "title": "Bio-Hofbrauerei Fürst",
+        "description": "4212 Neumarkt im Mühlkreis // Möhringdorf 8",
         "city": "Neumarkt im Mühlkreis",
-        "address": "4212 Neumarkt im Mühlkreis // Möhringdorf 8",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2358,10 +2732,13 @@
       },
       "properties": {
         "title": "Bratl Bräu",
+        "description": "4372 St. Georgen am Walde // Markt 13",
         "city": "St. Georgen am Walde",
-        "address": "4372 St. Georgen am Walde // Markt 13",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2375,10 +2752,13 @@
       },
       "properties": {
         "title": "Brauhof Goldberg",
+        "description": "4521 Schiedlberg // Weichstettenstraße 119",
         "city": "Schiedlberg",
-        "address": "4521 Schiedlberg // Weichstettenstraße 119",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2392,10 +2772,13 @@
       },
       "properties": {
         "title": "Brauerei Kaltenböck",
+        "description": "4864 Attersee // Palmsdorf 17",
         "city": "Attersee",
-        "address": "4864 Attersee // Palmsdorf 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2409,10 +2792,13 @@
       },
       "properties": {
         "title": "Eder-Bräu Bierbuschenschank",
+        "description": "4292 Kefermarkt // Netzberg 32",
         "city": "Kefermarkt",
-        "address": "4292 Kefermarkt // Netzberg 32",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2426,10 +2812,13 @@
       },
       "properties": {
         "title": "Ernstinger Wirt's Bräu",
+        "description": "5121 Ostermiething // Ernsting 6",
         "city": "Ostermiething",
-        "address": "5121 Ostermiething // Ernsting 6",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2443,10 +2832,13 @@
       },
       "properties": {
         "title": "Gasthausbrauerei Zum Alfons",
+        "description": "4690 Schwanenstadt // Bergern 2",
         "city": "Schwanenstadt",
-        "address": "4690 Schwanenstadt // Bergern 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2460,10 +2852,13 @@
       },
       "properties": {
         "title": "Gerstl Bräu",
+        "description": "4600 Wels // Freiung 9-11",
         "city": "Wels",
-        "address": "4600 Wels // Freiung 9-11",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2477,10 +2872,13 @@
       },
       "properties": {
         "title": "Hausbrauerei Bogner",
+        "description": "5280 Braunau am Inn // Haselbach 26",
         "city": "Braunau am Inn",
-        "address": "5280 Braunau am Inn // Haselbach 26",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": "www.hausbrauerei-bogner.at",
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2494,10 +2892,13 @@
       },
       "properties": {
         "title": "Hofrauerei Preuner",
+        "description": "4873 Frankenburg // Vordersteining 5",
         "city": "Frankenburg",
-        "address": "4873 Frankenburg // Vordersteining 5",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2511,10 +2912,13 @@
       },
       "properties": {
         "title": "Kemmet Bräu",
+        "description": "4580 Windischgarsten // Hauptstraße 22",
         "city": "Windischgarsten",
-        "address": "4580 Windischgarsten // Hauptstraße 22",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2528,10 +2932,13 @@
       },
       "properties": {
         "title": "Braugasthof Leimer",
+        "description": "4860 Lenzing // Atterseestraße 34",
         "city": "Lenzing",
-        "address": "4860 Lenzing // Atterseestraße 34",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2545,10 +2952,13 @@
       },
       "properties": {
         "title": "Sandberg Bräu",
+        "description": "4550 Kremsmünster // Sandberg 1",
         "city": "Kremsmünster",
-        "address": "4550 Kremsmünster // Sandberg 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2562,10 +2972,13 @@
       },
       "properties": {
         "title": "Schloßbrauerei Weinberg",
+        "description": "4292 Kefermarkt // Weinberg 2",
         "city": "Kefermarkt",
-        "address": "4292 Kefermarkt // Weinberg 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2579,10 +2992,13 @@
       },
       "properties": {
         "title": "Staffelmayr Gutshofbräu",
+        "description": "4400 Steyr // Kegelprielstraße 17",
         "city": "Steyr",
-        "address": "4400 Steyr // Kegelprielstraße 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2596,10 +3012,13 @@
       },
       "properties": {
         "title": "Thor-Bräu",
+        "description": "4100 Ottensheim // Hostauerstraße 2",
         "city": "Ottensheim",
-        "address": "4100 Ottensheim // Hostauerstraße 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2613,10 +3032,13 @@
       },
       "properties": {
         "title": "Voralpenbräu",
+        "description": "4642 Sattledt // Hauptstraße 13",
         "city": "Sattledt",
-        "address": "4642 Sattledt // Hauptstraße 13",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Oberösterreich",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2630,10 +3052,13 @@
       },
       "properties": {
         "title": "Isi-Bräu",
+        "description": "5020 Salzburg // Bäckerstraße 3",
         "city": "Salzburg",
-        "address": "5020 Salzburg // Bäckerstraße 3",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2647,10 +3072,13 @@
       },
       "properties": {
         "title": "s'Kloane Brauhaus",
+        "description": "5020 Salzburg // Schallmoser Hauptstraße 27",
         "city": "Salzburg",
-        "address": "5020 Salzburg // Schallmoser Hauptstraße 27",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2664,10 +3092,13 @@
       },
       "properties": {
         "title": "Allerberger Bräu",
+        "description": "5072 Siezenheim // Doktorstraße 49",
         "city": "Siezenheim",
-        "address": "5072 Siezenheim // Doktorstraße 49",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2681,10 +3112,13 @@
       },
       "properties": {
         "title": "Gasthausbrauerei Zum Faßl",
+        "description": "5082 Grödig // Haupstraße 36",
         "city": "Grödig",
-        "address": "5082 Grödig // Haupstraße 36",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2698,10 +3132,13 @@
       },
       "properties": {
         "title": "Bramsau-Bräu",
+        "description": "5324 Faistenau // Bramsaustraße 1",
         "city": "Faistenau",
-        "address": "5324 Faistenau // Bramsaustraße 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2715,10 +3152,13 @@
       },
       "properties": {
         "title": "Bräurup",
+        "description": "5730 Mittersill // Kirchgasse 9",
         "city": "Mittersill",
-        "address": "5730 Mittersill // Kirchgasse 9",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2732,10 +3172,13 @@
       },
       "properties": {
         "title": "Kiesbye's Bierkulturhaus",
+        "description": "5162 Obertrum // Dorfplatz 1",
         "city": "Obertrum",
-        "address": "5162 Obertrum // Dorfplatz 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2749,10 +3192,13 @@
       },
       "properties": {
         "title": "Kohlschnait Bräu",
+        "description": "5662 Bruck an der Glocknerstraße // Niederhof 3",
         "city": "Bruck an der Glocknerstraße",
-        "address": "5662 Bruck an der Glocknerstraße // Niederhof 3",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2766,10 +3212,13 @@
       },
       "properties": {
         "title": "Landgasthaus Weixen",
+        "description": "5661 Rauris // Seidlwinkelstraße 114",
         "city": "Rauris",
-        "address": "5661 Rauris // Seidlwinkelstraße 114",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2783,10 +3232,13 @@
       },
       "properties": {
         "title": "Schmaranz Bräu",
+        "description": "5630 Bad Hofgastein // Wieden 52",
         "city": "Bad Hofgastein",
-        "address": "5630 Bad Hofgastein // Wieden 52",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2800,10 +3252,13 @@
       },
       "properties": {
         "title": "Simal-Bräu",
+        "description": "5700 Zell am See // Bruckberg 1",
         "city": "Zell am See",
-        "address": "5700 Zell am See // Bruckberg 1",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Salzburg",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2817,10 +3272,13 @@
       },
       "properties": {
         "title": "Achenseebier Schau- und Hausbrauerei",
+        "description": "6213 Pertisau //",
         "city": "Pertisau",
-        "address": "6213 Pertisau //",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2834,10 +3292,13 @@
       },
       "properties": {
         "title": "Gasthof Ebner Brauerei",
+        "description": "6067 Absam // Karl Zanger Straße 17",
         "city": "Absam",
-        "address": "6067 Absam // Karl Zanger Straße 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2851,10 +3312,13 @@
       },
       "properties": {
         "title": "Brauhaus Rattenberg",
+        "description": "6240 Rattenberg // Bienerstraße 84",
         "city": "Rattenberg",
-        "address": "6240 Rattenberg // Bienerstraße 84",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2868,10 +3332,13 @@
       },
       "properties": {
         "title": "Dorf Bräu",
+        "description": "6167 Neustift i. Stubaital // Dorf 15",
         "city": "Neustift i. Stubaital",
-        "address": "6167 Neustift i. Stubaital // Dorf 15",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2885,10 +3352,13 @@
       },
       "properties": {
         "title": "Gasthofbrauerei Heustadl",
+        "description": "6622 Rinnen/Berwang // Nr. 38",
         "city": "Rinnen/Berwang",
-        "address": "6622 Rinnen/Berwang // Nr. 38",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2902,10 +3372,13 @@
       },
       "properties": {
         "title": "Haidenhof Wirtshausbrauerei",
+        "description": "9900 Lienz // Grafendorferstraße 2",
         "city": "Lienz",
-        "address": "9900 Lienz // Grafendorferstraße 2",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2919,10 +3392,13 @@
       },
       "properties": {
         "title": "Gasthof Mairwirt",
+        "description": "6385 Schwendt // Dorfstrasse 17",
         "city": "Schwendt",
-        "address": "6385 Schwendt // Dorfstrasse 17",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2936,10 +3412,13 @@
       },
       "properties": {
         "title": "Metzger Bräu",
+        "description": "6293 Tux // Lanersbach",
         "city": "Tux",
-        "address": "6293 Tux // Lanersbach",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2953,10 +3432,13 @@
       },
       "properties": {
         "title": "Oldy Bräu",
+        "description": "6460 Imst // Josef-Kochstraße 3",
         "city": "Imst",
-        "address": "6460 Imst // Josef-Kochstraße 3",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2970,10 +3452,13 @@
       },
       "properties": {
         "title": "s'Höf Bräuhaus",
+        "description": "6675 Tannheim // Unterhöfen 28",
         "city": "Tannheim",
-        "address": "6675 Tannheim // Unterhöfen 28",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -2987,10 +3472,13 @@
       },
       "properties": {
         "title": "Strickers Dorf-Alm",
+        "description": "6654 Holzgau // Nr. 71",
         "city": "Holzgau",
-        "address": "6654 Holzgau // Nr. 71",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     },
     {
@@ -3004,10 +3492,13 @@
       },
       "properties": {
         "title": "Theresienbräu",
+        "description": "6020 Innsbruck // Maria-Theresien-Straße 51-53",
         "city": "Innsbruck",
-        "address": "6020 Innsbruck // Maria-Theresien-Straße 51-53",
-        "type": "Brewery",
-        "marker-color": "#ff0000"
+        "state": "Tirol",
+        "web": null,
+        "type": "brewpub",
+        "marker-color": "#ffa500",
+        "marker-size": "small"
       }
     }
   ]
