@@ -1,9 +1,17 @@
 ###########################
 # Niederösterreich (N)
 
+_____________________________________________
+- Privatbrauerei Fritz Egger | Unterradlberg
 
-_____________________________
-- Biermanufaktur Korneuburg
+Egger Märzen,       5.2 %, 11.8°
+Egger Zwickl 1868,  5.1 %, 11.6°
+Egger Permium,      5.2 %, 11.8°   # check is Premium (Pils)??
+Egger Leicht|Egger Sprizz,       3.5 %,  8.8°
+
+
+__________________________________________
+- Biermanufaktur Korneuburg | Korneuburg
 
 Korneuburger Original, 5.2%, 12.6°
 Korneuburger Privat,   5.0%, 12.5°
