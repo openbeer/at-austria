@@ -1,6 +1,13 @@
 ########################
 # Steiermark (ST)
 
+__________________________________________
+- Obermurtaler Brauerei|Brauerei Murau
+
+Murauer Märzen,   5.2%, 12.5°
+Murauer Pils,     5.1%, 12.2°
+Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
+
 _______________________
 - Brauerei Leutschach
 
