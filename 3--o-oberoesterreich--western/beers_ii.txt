@@ -1,14 +1,16 @@
+########################
+# Beers Brewpubs
 
 
 # - Hausbrauerei Bogner, Braunau am Inn    => see innviertel
 
 ________________________________
-- Braugasthof Leimer, Lenzing
+- Braugasthof Leimer | Lenzing
 
 Leimer Bräu Hell, 5.0%
 
 ____________________________________
-- Brauerei Kaltenböck, Palmsdorf
+- Brauerei Kaltenböck | Palmsdorf
 
 Hoangarten, 5.2%, 11.8°
 
