@@ -22,6 +22,62 @@ Kaiser Premium,      5.4%, 12.2°
 Kaiser Doppelmalz,   4.7%, 12.8°
 
 
+==  Oberösterreich (O) ==
+_____________________________________
+- Brauerei Zipf (Brau Union) | Zipf
+
+Zipfer Urtyp,        5.4%, 12.2°    # main/bestseller brand
+Zipfer Urtyp Medium, 3.0%,  9.5°, c:5.5, schankbier|leichtbier   # NB: c:5.5  - color in ebc
+Zipfer Märzen,       5.0%, 11.8°
+Zipfer Pils,         5.2%, 11.8°
+Zipfer Josefi Bock,  7.1%, 16.2°
+Zipfer Doppel Gold,  5.7%, 12.8°
+Zipfer Kellerbier,   5.6%, 12.2°,   ungefiltert|naturtrüb
+Zipfer Sparkling,    5.2%, 11.8°
+
+
+#### todo: how to best add a website/weblink for a beer brand (e.g. edelweissbier.at) ??
+### NOTE: edelweiss now brewed by zipfer (formerly brewed in kaltenhausen
+
+Edelweiss Hefetrüb,  5.3%, 12.3°, www.edelweissbier.at, weissbier
+Edelweiss Hofbräu,   4.5%, 11.8°, c:15, hefeweizen|weissbier
+Edelweiss Dunkel,    5.3%, 12.3°, weissbier
+Edelweiss Gamsbock,  7.1%, 16.2°, weissbier
+
+______________________
+- Brau Union |  Linz
+
+Schützen Bräu, 4.2%,  schankbier
+
+
+== Steiermark (ST) ==
+____________________________________________
+- Gösser Brauerei (Brau Union) |  Göss
+
+Gösser Märzen,  5.2%, 11.8°     # main/bestseller brand (70%)
+Gösser Gold,    5.3%, 12.2°, c:7, b:25  # premium   # NB:b:25 = 25 IBU = bitterness 
+Gösser Spezial, 5.7%, 13.2°
+Gösser Zwickl|Gösser Zwickl Naturtrüb,  5.2%, 11.8°
+Gösser Dunkles Zwickl,  5.7%, 13.2°
+Gösser Bock,    7.1%, 16.2°, seasonal|weihnacht   # ausschließlich für die Weihnachtszeit gebraut
+Gösser Stiftsbräu, 4.2%, 11.8°
+
+_________________________________________
+- Brauerei Puntigam (Brau Union) |  Graz
+
+Puntigamer Panther,               5.2%, 12.1°   # main/bestseller brand 
+Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, maerzen
+Puntigamer Winterbier,            6.0%, 13.8°
+
+#  etc. origin: Reininghaus Familie/Adel/Graf aus Graz?
+#   reininghaus uebernahme durch puntigamer in ???
+
+Reininghaus Märzen,              5.0%, 11.8°
+Reininghaus Pils,                4.8%, 11.4°
+Reininghaus Malz,                4.5%, 11.8°
+Reininghaus Jahrgangspils       #  2011,2012,2013,2014,2015
+
+
 
 == Salzburg (S) ==
 __________________________________________________________________
