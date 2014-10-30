@@ -51,7 +51,7 @@ Schützen Bräu, 4.2%,  schankbier
 
 
 == Steiermark (ST) ==
-____________________________________________
+________________________________________
 - Gösser Brauerei (Brau Union) |  Göss
 
 Gösser Märzen,  5.2%, 11.8°     # main/bestseller brand (70%)
@@ -89,7 +89,7 @@ Schladminger Sepp,               5.1%, 11.7°
 
 
 == Salzburg (S) ==
-__________________________________________________________________
+______________________________________________________________
 - Hofbräu Kaltenhausen (Brau Union) | Kaltenhausen (Hallein)
 
 Kaltenhauser Kellerbier,  zwickl
@@ -99,7 +99,7 @@ Kaltenhauser Weisse,    weizen
 
 == Tirol (T) ==
 ____________________________________________
-- Brauerei Falkenstein (Brau Union), Lienz
+- Brauerei Falkenstein (Brau Union) | Lienz
 
 # note: brews Goesser beer (see Goesser brewery in ST)
 
