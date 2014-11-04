@@ -34,38 +34,26 @@ at-austria!/3--s-salzburg--western/brewpubs
 at-austria!/3--t-tirol--western/brewpubs
 
 # -- beers
+at-austria!/beers_brau-union
 at-austria!/1--b-burgenland--eastern/beers
-at-austria!/1--b-burgenland--eastern/beers_(m)
 at-austria!/1--n-niederoesterreich--eastern/beers--waldviertel
 at-austria!/1--n-niederoesterreich--eastern/beers--weinviertel
 at-austria!/1--n-niederoesterreich--eastern/beers
-at-austria!/1--n-niederoesterreich--eastern/beers_(m)
-at-austria!/1--n-niederoesterreich--eastern/beers_(l)
-at-austria!/1--w-wien--eastern/beers_(l)
+at-austria!/1--n-niederoesterreich--eastern/beers_ii
+at-austria!/1--w-wien--eastern/beers
+at-austria!/1--w-wien--eastern/beers_ottakringer
 at-austria!/2--k-kaernten--southern/beers
-at-austria!/2--k-kaernten--southern/beers_(m)
 at-austria!/2--st-steiermark--southern/beers
-at-austria!/2--st-steiermark--southern/beers_(m)
-at-austria!/2--st-steiermark--southern/beers_(l)
 at-austria!/3--o-oberoesterreich--western/beers--innviertel
 at-austria!/3--o-oberoesterreich--western/beers--muehlviertel
 at-austria!/3--o-oberoesterreich--western/beers--salzkammergut
 at-austria!/3--o-oberoesterreich--western/beers
-at-austria!/3--o-oberoesterreich--western/beers_(m)
-at-austria!/3--o-oberoesterreich--western/beers_(l)
+at-austria!/3--o-oberoesterreich--western/beers_ii
 at-austria!/3--s-salzburg--western/beers
-at-austria!/3--s-salzburg--western/beers_(m)
-at-austria!/3--s-salzburg--western/beers_(l)
+at-austria!/3--s-salzburg--western/beers_ii
+at-austria!/3--s-salzburg--western/beers_stiegl
 at-austria!/3--t-tirol--western/beers
-at-austria!/3--t-tirol--western/beers_(m)
 at-austria!/3--v-vorarlberg--western/beers
-at-austria!/3--v-vorarlberg--western/beers_(m)
-
-
-# -- beersbrewpubs
-at-austria!/1--n-niederoesterreich--eastern/beers_(brewpubs)
-at-austria!/1--w-wien--eastern/beers_(brewpubs)
-at-austria!/3--o-oberoesterreich--western/beers_(brewpubs)
 
 
 ## skip non-alcoholic beers
