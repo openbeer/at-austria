@@ -1,6 +1,6 @@
 # Beers, Breweries n Brewpubs in Austria (Österreich)
 
-![](/github.com/openbeer/images/raw/master/maps/at.png)
+![](https://github.com/openbeer/images/raw/master/maps/at.png)
 
 - Ostösterreich [Eastern Austria]
     - [(B) - Burgenland](1--b-burgenland--eastern) - Gols, 
