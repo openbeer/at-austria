@@ -2,9 +2,12 @@
 
 ## Linz
 
-**Biertempel Linz**, Graben 15 // 4020 Linz - <biertempel.at>
+**Biertempel Linz**, Graben 15 // 4020 Linz - 
+(web: [biertempel.at](https://www.biertempel.at), facebook: [Biertempel.Linz](https://www.facebook.com/Biertempel.Linz)) -- 
+Mo.-Fr. 10:00-19:00, Sa. 10:00-18:00
 
-**Biertempel Dornach**, Freistädter Str. 287 // 4040 Linz  - <biertempel.at>
+**Biertempel Dornach**, Freistädter Str. 287 // 4040 Linz -- 
+Mo.-Fr. 10:00-19:00, Sa. 10:00-18:00
 
 
 
@@ -22,7 +25,7 @@
 
 ## Online (Made in A)
 
-- <mybier.at>
-- <bierfracht.at>
-- <beerbottle.eu>   (5072 Wals-Siezenheim bei Salzburg)
+- [mybier.at](http://mybier.at)
+- [bierfracht.at](http://bierfracht.at)
+- [beerbottle.eu](http://beerbottle.eu)   (5072 Wals-Siezenheim bei Salzburg)
 
