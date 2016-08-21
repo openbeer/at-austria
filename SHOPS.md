@@ -23,7 +23,9 @@ _10., Favoriten_
 
 
 
-## Linz, Oberösterreich
+## Oberösterreich
+
+_Linz_
 
 **Biertempel Linz**, Graben 15 // 4020 Linz - 
 (web: [biertempel.at](https://www.biertempel.at), facebook: [Biertempel.Linz](https://www.facebook.com/Biertempel.Linz)) -- 
@@ -35,6 +37,8 @@ Mo-Fr 10.00-19.00, Sa 10.00-18.00
 
 
 ## Salzburg
+
+_Salzburg_
 
 **Bottle Shop Salzburg**; Mirabellplatz 7  // 5020 Salzburg -
 (web: [beerbottle.eu](http://beerbottle.eu)) --
