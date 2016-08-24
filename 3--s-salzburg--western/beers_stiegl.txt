@@ -25,6 +25,6 @@ Original Stieglbock,  7%, 16.5°,  bock
 ### max glaner's 
 
 Max Glaner's IPA|Max Glaner's India Pale Ale, 5.8%, 13.8°,  ale|ipa
-Max Glaner's Wit, 5%, 12°  weizen|belgian   # belgian-style
+Max Glaner's Wit, 5%, 12°, weizen|belgian   # belgian-style
 
 
