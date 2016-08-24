@@ -6,13 +6,25 @@ ________________________________
 - Stieglbrauerei zu Salzburg
 
 Stiegl Goldbräu, 4.9%, 12°, c:8, maerzen
-Stiegl Pils,     4.9%, 11.6°
-Stiegl Leicht, lite
+Stiegl Pils,     4.9%, 11.4°
+Stiegl Leicht,   3.3%, 7°, lite
 Stiegl Paracelsus|Stiegl Paracelsus Zwickl,   5.0%, 12.0°
 Stiegl Spezial,  5.2%, 12.5°, spezial
 
-Stiegl Weisse|Stiegl Weisse Naturtrüb, weizen
+Stiegl Weisse|Stiegl Weisse Naturtrüb, 5.1%, 12°,  weizen
+
+### new beers
+
+Stiegl Columbus 1492|Stiegl Columbus 1492 Pale Ale|Stiegl Columbus Pale Ale, 4.7%, 11.3°  ale|pale_ale   # since 2016
+
+### seasonal beers
 
 Stiegl Herbst Gold, 5.2%, 12.5°,  spezial
 Original Stieglbock,  7%, 16.5°,  bock
+
+### max glaner's 
+
+Max Glaner's IPA|Max Glaner's India Pale Ale, 5.8%, 13.8°,  ale|ipa
+Max Glaner's Wit, 5%, 12°  weizen|belgian   # belgian-style
+
 
