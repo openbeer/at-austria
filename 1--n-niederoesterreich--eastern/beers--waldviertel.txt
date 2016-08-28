@@ -27,8 +27,11 @@ Schremser Pils,        4.5%, 11.2°
 Schremser Doppelmalz,  4.6%, 11.9°
 Schremser Bio Roggen|Schremser Roggen,  5.2%, 11.9°, c:20, roggenbier
 Schremser Bio Naturpark,  5.1%, 11.9°
-
+Schremser Zwickl,         5.1%, 11.9°     ## only available in draft/barrels (not bottles) 
 Schremser Hanfbier
+
+Schremser Vienna I.P.,    4.8%, 11.3°     ## mix of  ipa and wiener/vienna lager?
+
 Schremser Weihnachtsbräu
 
 
