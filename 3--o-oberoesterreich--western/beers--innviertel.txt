@@ -24,7 +24,7 @@ Rieder Weißbierbock|Weißbier Bock,    6.5%, 16.5°, c:8,  weizenbock
 Rieder 1908 Naturtrüb|Rieder Naturtrüb,  5.2%, 12.9°
 
 Rieder Dunkle Weisse
-Rieder Helle Weisse
+Rieder Helle Weisse, 5.0%
 Rieder Leichte Weisse
 
 Rieder Märzen
