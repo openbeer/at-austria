@@ -2,6 +2,9 @@
 # Wien (W)
 
 
+###########
+## 3., Landstraße 
+
 ______________
 - Salm Bräu
 
@@ -12,7 +15,8 @@ Salm Bräu Böhmisch Dunkles, 5.0%, 12.5°
 Salm Bräu Weizen,   4,6%, 12°
 
 
-
+##############
+# 7., Neubau
 
 # Note: can NOT use autokey starts with number e.g. 7stern -> allow? in future - why? why not?
 ________________________________
@@ -21,9 +25,26 @@ ________________________________
 siebensternbraeuwienerhelles, 7 Stern Bräu Wiener Helles, 4.7%, 11.8°
 siebensternbraeumaerzen,      7 Stern Bräu Märzen,        5.1%, 13.5°
 
+###########
+## 9., Alsergrund
+__________________________
+- Lichtenthaler Bräu
+
+Lichtenthaler Helles, ~12°
+
+Lichtenthaler West Coast Pale Ale|Lichtenthaler West Coast P.A.
+Lichtenthaler Dark U.S. Lager,  12.2°
+Lichtenthaler Porter,           13.2°
+Lichtenthaler Dinkel Leicht
+
+
+La Viennette     ## sour (lambic-style??) beer 
+
+#################
+## 14., Penzing
+
 ______________
 - Medl Bräu
 
 Medl Bräu Märzen,   4.9%, 12.2°
-
 
