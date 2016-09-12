@@ -40,6 +40,26 @@ Lichtenthaler Dinkel Leicht
 
 La Viennette     ## sour (lambic-style??) beer 
 
+____________________________________
+- Beaver Brewing Co.
+
+Beaver Blue Ribbon (BBR)|BBR: Beaver Blue Ribbon, 4.9%, organic_lager|zwickl
+
+Wry P.A.|Wry Pale Ale, 5.7%, rye_pale_ale
+Late Summer IPA, 6.4%, american_ipa
+State of Nature|State of Nature American Wheat, 5.3%, american_wheat
+Sunday Morning|Sunday Morning Golden Ale, 5.5%,  golden_ale
+Witty Bastard|Witty Bastard Witbier, 4.1%, witbier
+
+______________________
+- The Highlander
+
+Highlander Stout
+Highlander Märzen Zwickl
+Highlander Lager Zwickl
+
+
+
 #################
 ## 14., Penzing
 
