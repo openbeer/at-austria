@@ -57,20 +57,20 @@
  === 9. Alsergrund ===
 
 [lichtenthalerbraeu]
-  Lichtenthaler Bräu, 2012
+  Lichtenthaler Bräu, 2012         # opened in 2012
   1090 Wien // Lichtensteinstraße 108
   www.lichtenthalerbraeu.at
   open: Mo–Sa: 16:00-00:30, So+Feiertags closed      ## todo: what to use for (e.g. how to translate) feiertags??
   schanigarten: 40  seats / sitplätze
 
 [beaverbrewingat]
-  Beaver Brewing Co.|B.B.C., 2015 
+  Beaver Brewing Co.|B.B.C., 2015       # opened in 2015 by David Beaver (thus, the name ;-))
   1090 // Liechtensteinstraße 69       
   www.beaverbrewing.at
   open: Mo-Th 11:30-24:00, Fr 11:30-1:00, Sa 9:00-1:00, Su 9:00-24:00
 
 [highlander]
-  The Highlander
+  The Highlander, 2000       # brewing beer since 2000 (before just "regular" pub)
   1090 Wien // Sobieskiplatz 4
   www.the-highlander.at
   open: So-Th 11:00-24:00, Fr-Sa 11:00-1:00
