@@ -63,7 +63,7 @@
   open: Mo–Sa: 16:00-00:30, So+Feiertags closed      ## todo: what to use for (e.g. how to translate) feiertags??
   schanigarten: 40  seats / sitplätze
 
-[beaverbrewingat]
+[beaverbrewingvienna]
   Beaver Brewing Co.|B.B.C., 2015       # opened in 2015 by David Beaver (thus, the name ;-))
   1090 // Liechtensteinstraße 69       
   www.beaverbrewing.at
