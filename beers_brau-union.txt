@@ -35,6 +35,12 @@ Zipfer Doppel Gold,  5.7%, 12.8°
 Zipfer Kellerbier,   5.6%, 12.2°,   ungefiltert|naturtrüb
 Zipfer Sparkling,    5.2%, 11.8°
 
+## Zipfer Meisterwerke Limited Edition 2016
+
+Zipfer Meisterwerke Pils,     5.2%, 11.8°, 2016
+Zipfer Meisterwerke Pale Ale, 5.4%, 12.8°, 2016
+
+
 
 #### todo: how to best add a website/weblink for a beer brand (e.g. edelweissbier.at) ??
 ### NOTE: edelweiss now brewed by zipfer (formerly brewed in kaltenhausen
