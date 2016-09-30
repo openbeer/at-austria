@@ -1,9 +1,38 @@
 ##############################
 # Wien (W)
 
+=== 1. Innere Stadt ===
 
-###########
-## 3., Landstraße 
+_______________________________
+- 1516 Brewing Company
+
+## regular beers (all-year/all-season)
+
+1516 Lager, blond_lager            # €2.80 (0.25l) €3.40 (0.4l)
+1516 Weisse, weissbier|wheat ale   # €3.40 (0.25l) €4.20 (0.4l)
+
+Victory Hop Devil IPA    # €3.50 (0.25l) €4.50 (0.4l)
+
+1516 Black & Tan | 1516 Schnitt  # mix of dark and blond beer  	€2.80 (0.25l) €3.40 (0.4l)
+
+
+## special beers
+
+Slipper Pale Ale, 2016                 # session ale
+Kimber - Kiril's Amber Ale, 2016
+Jet Lag Ace - Extra Special Bitter Ale, 2016
+MBA - Mild Brown Ale, 2016
+Wit Series 16/V3: Kalamansi, 2016     # spiced wih cilantro and kalamansi
+No Nonsense 16. V02 - Pale Ale, 2016   # dry hopped pale ale
+Slovenian John Doe Red Ale, 2016
+Eejit's Stout     # irish style dry stout
+Rogg Bock         # rauch bock rye malt
+Bourgeois Bohemian Pilsener    # bohemian-style pilsener
+Bavarian Dunkles (100 % Dark Malt) V2    # dark lager
+
+
+
+=== 3., Landstraße ===
 
 ______________
 - Salm Bräu
@@ -15,8 +44,7 @@ Salm Bräu Böhmisch Dunkles, 5.0%, 12.5°
 Salm Bräu Weizen,   4,6%, 12°
 
 
-##############
-# 7., Neubau
+=== 7., Neubau ===
 
 # Note: can NOT use autokey starts with number e.g. 7stern -> allow? in future - why? why not?
 ________________________________
@@ -25,8 +53,8 @@ ________________________________
 siebensternbraeuwienerhelles, 7 Stern Bräu Wiener Helles, 4.7%, 11.8°
 siebensternbraeumaerzen,      7 Stern Bräu Märzen,        5.1%, 13.5°
 
-###########
-## 9., Alsergrund
+
+=== 9., Alsergrund ===
 __________________________
 - Lichtenthaler Bräu
 
@@ -64,8 +92,7 @@ Highlander Lager Zwickl
 
 
 
-#################
-## 14., Penzing
+=== 14., Penzing ===
 
 ______________
 - Medl Bräu
