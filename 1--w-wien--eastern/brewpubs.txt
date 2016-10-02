@@ -9,13 +9,15 @@
 
 [fifteensixteen]
   1516 Brewing Company|1516 Brewing
-  1010 Wien // Krugerstraße 18/Schwarzenbergstraße 2
+  1010 Wien // Schwarzenbergstraße 2    ## Ecke/Corner: Krugerstraße 18
   www.1516brewingcompany.com
+  open: Mo–So 10.00–2.00
 
 [schwarzenberg]
   Stadtbrauerei Schwarzenberg
   1010 Wien // Schellinggasse 14
   www.stadtbrauerei.at
+  open: Mo-So 17.00-24.00
 
  === 3. Landstraße ===
 
@@ -24,15 +26,16 @@
   1030 Wien // Rennweg 8
   www.salmbraeu.com
   3_000 hl   # annual production
-
+  open: Mo-So 11.00-24.00
 
  === 4. Wieden ===
 
 [wiedenbraeu]
-  Wieden-Bräu, 1991
+  Wieden Bräu, 1991
   1040 Wien // Waaggasse 5
   www.wieden-braeu.at
   1_600 hl   #  annual production
+  open: Mo-So 11:30-24:00    ## Juli und August: Sa., So. und Feiertag 16:00-24:00
 
  === 5. Margareten ===
 
@@ -40,7 +43,7 @@
   Zum Schwarzen Adler|Hackl Bräu
   1050 Wien // Schönbrunner Strasse 40
   www.schwarzer-adler.co.at
-  
+  open: Mo-So 11.00-24.00
 
  === 7. Neubau ===
 
@@ -49,7 +52,8 @@
   1070 Wien // Siebensterngasse 19
   www.7stern.at
   1_400 hl  # annual production
-
+  open: Mo-So 11:00-24:00   # closed 24, 25 und 26 Dezember Ruhetag
+  
 #  fix: will not work w/ 7sternbraeu auto generated key; allow or use siebensternbraeu?
 #  brands: 7 Stern Bräu     # todo/check: auto-key works with leading number? (possible/allowed?)
 
@@ -60,7 +64,7 @@
   Lichtenthaler Bräu, 2012         # opened in 2012
   1090 Wien // Lichtensteinstraße 108
   www.lichtenthalerbraeu.at
-  open: Mo–Sa: 16:00-00:30, So+Feiertags closed      ## todo: what to use for (e.g. how to translate) feiertags??
+  open: Mo–Sa 16:00-00:30, So+Feiertags closed      ## todo: what to use for (e.g. how to translate) feiertags??
   schanigarten: 40  seats / sitplätze
 
 [beaverbrewingvienna]
@@ -84,6 +88,8 @@
   www.medl-braeu.at
   brands: Medl Bräu
   600 hl  # annual production 
+  open: Mo-Sa 10:00-24:00  # closed Sonntag und Feiertag geschlossen
+
 
  === 16. Ottakring ===
 
