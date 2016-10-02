@@ -31,6 +31,15 @@ Bourgeois Bohemian Pilsener    # bohemian-style pilsener
 Bavarian Dunkles (100 % Dark Malt) V2    # dark lager
 
 
+____________________________________
+- Stadtbrauerei Schwarzenberg
+
+Schwarzenberg Helles,  11.9°, 5.0%       # €3.30 (0.3) €4.20 (0.5l)   
+Schwarzenberg Dunkles, 11.7°, 4.8%       # €3.30 (0.3) €4.20 (0.5l)
+Schwarzenberg G'mischtes, 11.8°, 5.0%   # mix of helles and dunkles -- €3.30 (0.3) €4.20 (0.5l)
+Schwarzenberg Weizen, 11.9°, 5.1%        # €3.40 (0.3) €4.50 (0.5l)
+Schwarzenberg Honey Ale, 12.9°, 5.4%. amber_ale  #  brewed with original Nottingham Ale yeast and forest honey  -- €3.40 (0.3) €4.50 (0.5l)
+
 
 === 3., Landstraße ===
 
@@ -43,11 +52,11 @@ Salm 1842 Pils|Pils,     5.0%, 12.5°   # €3.30 (0.3l)  €4.10 (0.5l)
 Salm Helles|Helles,   4.8%, 12°        # €3.30 (0.3l)  €4.10 (0.5l)
 Salm (Wiener) Märzen|Märzen,   5.0%, 12.5°    # €3.30 (0.3l)  €4.10 (0.5l)
 Salm Böhmisch (Dunkles) G'mischtes|G'mischtes, 5.0%, 12.5°   # €3.40 (0.3l)  €4.20 (0.5l)
-Salm Weizen|Weizen,   4.6%, 12°             # €3.40 (0.3l)  €4.20 (0.5l)
+Salm Weizen|Weizen,   4.6%, 12°, weissbier          # €3.40 (0.3l)  €4.20 (0.5l)
 
 ## special / limited beers
 
-Salm Burning Hell, 4.9%, 12.2°, 2016   ## helles chilli bier 
+Salm Burning Hell, 4.9%, 12.2°, 2016, chilli   ## helles chilli bier 
 
 
 
