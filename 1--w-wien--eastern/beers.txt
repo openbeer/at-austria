@@ -37,11 +37,18 @@ Bavarian Dunkles (100 % Dark Malt) V2    # dark lager
 ______________
 - Salm Bräu
 
-Salm Bräu Pils,     5.0%, 12.5°
-Salm Bräu Helles,   4.8%, 12°
-Salm Bräu Märzen,   5.0%, 12.5°
-Salm Bräu Böhmisch Dunkles, 5.0%, 12.5°
-Salm Bräu Weizen,   4,6%, 12°
+## five regular beers
+
+Salm 1842 Pils|Pils,     5.0%, 12.5°   # €3.30 (0.3l)  €4.10 (0.5l)
+Salm Helles|Helles,   4.8%, 12°        # €3.30 (0.3l)  €4.10 (0.5l)
+Salm (Wiener) Märzen|Märzen,   5.0%, 12.5°    # €3.30 (0.3l)  €4.10 (0.5l)
+Salm Böhmisch (Dunkles) G'mischtes|G'mischtes, 5.0%, 12.5°   # €3.40 (0.3l)  €4.20 (0.5l)
+Salm Weizen|Weizen,   4.6%, 12°             # €3.40 (0.3l)  €4.20 (0.5l)
+
+## special / limited beers
+
+Salm Burning Hell, 4.9%, 12.2°, 2016   ## helles chilli bier 
+
 
 
 === 7., Neubau ===
