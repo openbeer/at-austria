@@ -101,8 +101,6 @@ siebensternmaerzen,      7 Stern Märzen,        5.1%, 13.5°  # €3.40 (0.3l) 
 7 Stern Hanf,             11.8°, 4.7%                    # €3.40 (0.3l) €4.00 (0.5l)
 7 Stern Chilli,           11.8°, 4.7%,  chilli           # €3.40 (0.3l) €4.00 (0.5l)
 
-
-
 ## special / limited beers
 
 7 Stern Bamberger Rauchbier
@@ -154,5 +152,10 @@ Highlander Lager Zwickl
 ______________
 - Medl Bräu
 
+Medl Bräu Helles
 Medl Bräu Märzen,   4.9%, 12.2°
+Medl Bräu Dunkles
+Medl Bräu Gemischtes
+Medl Bräu Weizen     # nur im Sommer -- summer only
+
 
