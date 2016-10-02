@@ -103,10 +103,15 @@ siebensternmaerzen,      7 Stern Märzen,        5.1%, 13.5°  # €3.40 (0.3l) 
 
 ## special / limited beers
 
-7 Stern Bamberger Rauchbier
 7 Stern Smoked Porter, 13.8°, 5.3%, 2016      #   €3.40 (0.3l) €4.00 (0.5l)
-7 Stern Herbstbock,    16.5°, 6.3%, 2016      # 	€3.60 (0.3l) €4.20 (0.5l)
+7 Stern Bamberger Rauchbier,  13.2°, 5.1%
+7 Stern India Pale Ale,       13°, 5%
 
+## seasonal beers
+
+7 Stern Osterbock,  16.5°, 6.3%
+7 Stern Herbstbock,    16.5°, 6.3%, 2016      # 	€3.60 (0.3l) €4.20 (0.5l)
+7 Stern Winterrauchbock,  16.5°, 6.3%
 
 
 === 9., Alsergrund ===
