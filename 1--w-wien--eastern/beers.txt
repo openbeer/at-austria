@@ -66,8 +66,23 @@ Salm Burning Hell, 4.9%, 12.2°, 2016, chilli   ## helles chilli bier
 ________________________________
 - 7 Stern Bräu|Siebensternbräu
 
-siebensternbraeuwienerhelles, 7 Stern Bräu Wiener Helles, 4.7%, 11.8°
-siebensternbraeumaerzen,      7 Stern Bräu Märzen,        5.1%, 13.5°
+## regular beers
+
+siebensternwienerhelles, 7 Stern Wiener Helles, 4.7%, 11.8°  # €3.20 (0.3l) €3.80 (0.5l)
+siebensternmaerzen,      7 Stern Märzen,        5.1%, 13.5°  # €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Weizen Classic,   12.7°, 5.2%,   weissbier       # €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Prager Dunkles,   12.1°, 4.5%                    # €3.20 (0.3l) €3.80 (0.5l)
+7 Stern Hanf,             11.8°, 4.7%                    # €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Chilli,           11.8°, 4.7%,  chilli           # €3.40 (0.3l) €4.00 (0.5l)
+
+
+
+## special / limited beers
+
+7 Stern Bamberger Rauchbier
+7 Stern Smoked Porter, 13.8°, 5.3%, 2016      #   €3.40 (0.3l) €4.00 (0.5l)
+7 Stern Herbstbock,    16.5°, 6.3%, 2016      # 	€3.60 (0.3l) €4.20 (0.5l)
+
 
 
 === 9., Alsergrund ===
