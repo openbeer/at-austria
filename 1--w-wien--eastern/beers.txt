@@ -59,6 +59,32 @@ Salm Weizen|Weizen,   4.6%, 12°, weissbier          # €3.40 (0.3l)  €4.20 (
 Salm Burning Hell, 4.9%, 12.2°, 2016, chilli   ## helles chilli bier 
 
 
+=== 4. Wieden ===
+
+________________
+- Wieden Bräu
+
+## regular beers
+
+Wieden Bräu Helles,  	11.3°, 4.3%    #  €3.30 (0.3l)	€4.00 (0.5l)
+Wieden Bräu Märzen,   12.5°, 5.1%    #  €3.30 (0.3l)	€4.00 (0.5l)
+Wieden Bräu Dunkles,	11.3°, 4.5%    #  €3.30 (0.3l)	€4.00 (0.5l)
+Wieden Bräu Gemischtes      # mix helles and dunkles --	Schnitt aus Hellem und Dunklem --  €3.30 (0.3l)	€4.00 (0.5l)
+
+
+=== 5. Margareten ===
+
+____________________________________
+- Hackl Bräu (Zum Schwarzen Adler)
+
+# regular beers
+
+Hackl Bräu Helles  
+Hackl Bräu Dunkles
+Hackl Bräu Märzen
+Hackl Bräu Schnitt
+Hackl Bräu Weisse
+
 
 === 7., Neubau ===
 
