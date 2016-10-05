@@ -142,6 +142,9 @@ Witty Bastard|Witty Bastard Witbier, 4.1%, witbier
 Charlie|Charlie Brown Ale, 5.4%                            # €3.20 (0.3l), €4.20 (0.4l)
 Brave Lion|Brave Lion Golden Strong Ale, 8.4%  # belgian-style golden strong ale   # €3.50 (0.3l), €4.50 (0.4l)
 ESP|ESP - English Special Bitter (ESB), 5.2%               # €3.20 (0.3l), €4.20 (0.4l) 
+Modern Lager,   5%, american_lager
+Cobretti,     8.5%, double_ipa
+
 
 ______________________
 - The Highlander
