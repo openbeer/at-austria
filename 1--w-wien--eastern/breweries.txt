@@ -2,9 +2,12 @@
 # micro / virtual / gypsy breweries
 #
 
+=== 12., Meidling ===
+
 [nextlevelbrewing]
-  Next Level Brewing|Next Level, 2015
+  Next Level Brewing|Next Level, 2015    ## virtual / gypsy brewery by Johannes Grohs n Alexander Beinhauer
   1120 Wien // Wilhelmstraße 23
-  http://www.nextlevelbrewing.at
+  www.nextlevelbrewing.at
+ 
   
 
