@@ -48,10 +48,18 @@ Hainfelder Spezial Hell, 6.0%, 13.5°
 ______________________________________________
 - Marchfelder Storchenbräu | Untersiebenbrunn
 
-Marchfelder Störchle, 5.5%, 12.5°
-Marchfelder Märzen,   5.5%, 12.5°
-Marchfelder Pils,     5.5%, 12.5°
-Marchfelder Adebar,   5.5%, 12.5°   # Vollbier Zwickl
+Marchfelder Märzen,   5.4%, 12.5°
+Marchfelder Zwickl,   5.4%
+Marchfelder Adebar|Adebar Märzen,   5.4%, 12.5°      # Vollbier Bio Märzen
+Marchfelder Störchle, 5.4%, 12.5°         ## vollbier mit dinkel
+Marchfelder Pils,     5.4%, 12.5°
+Marchfelder Weizen,   5.6%, 13.2°
+Marchfelder Braunes,  6.8%, 16.5°             # dunkels starkbier
+
+## seasonals
+
+Marchfelder Osterbock
+
 
 ____________________________________________
 - Privatbrauerei Gerald Schwarz | Krumbach
