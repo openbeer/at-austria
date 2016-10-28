@@ -65,7 +65,7 @@
 [storchenbraeu]
   Marchfelder Storchenbräu|Bauer's Marchfelder Storchenbräu|Storchenbräu, 2004
   2284 Untersiebenbrunn // Erste Strasse 7
-  www.bauersbier.at   ## www.storchenbraeu.at
+  www.bauersbier.at    ## -or- www.storchenbraeu.at
   ## shop open: tue+fri 13.00-19.00, sat 9.00-14.00
   ## owners: Manfred Bauer
 
