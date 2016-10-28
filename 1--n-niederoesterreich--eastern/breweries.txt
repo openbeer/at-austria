@@ -24,7 +24,7 @@
  === Waldviertel ===
 
 [weitra]
-  Weitra Bräu Bierwerkstatt|Brauerei Weitra *, 1321
+  Weitra Bräu Bierwerkstatt|Brauerei Weitra, 1321
   3970 Weitra // Sparkasseplatz 160
   www.bierwerkstatt.at
   brands: Weitra, Hadmar
@@ -62,13 +62,6 @@
   Holzb(r)auer / Natürliche Handwerksbrauerei
   2831 Warth // Wiesengasse 9
 
-[storchenbraeu]
-  Marchfelder Storchenbräu|Bauer's Marchfelder Storchenbräu|Storchenbräu, 2004
-  2284 Untersiebenbrunn // Erste Strasse 7
-  www.bauersbier.at    ## -or- www.storchenbraeu.at
-  ## shop open: tue+fri 13.00-19.00, sat 9.00-14.00
-  ## owners: Manfred Bauer
-
 
 [schwarzbraeu]
   Privatbrauerei Gerald Schwarz|Schwarzbräu
@@ -84,3 +77,14 @@
   Gablitzer Privatbrauerei, 2009
   3003 Gablitz // Spitzersteig 10
   www.gablitzer.at
+
+
+== Marchfeld ==   
+
+[storchenbraeu]
+  Marchfelder Storchenbräu|Bauer's Marchfelder Storchenbräu|Storchenbräu, 2004
+  2284 Untersiebenbrunn // Erste Strasse 7
+  www.bauersbier.at    ## -or- www.storchenbraeu.at
+  ## shop open: tue+fri 13.00-19.00, sat 9.00-14.00
+  ## owners: Manfred Bauer
+
