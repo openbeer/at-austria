@@ -32,4 +32,4 @@
   2136 Laa/Thaya // Hubertusgasse 1
   brands: Hubertus
   60_000 hl
-  de.wikipedia: Hubertus_Br%C3%A4u  
+  de.wikipedia: Hubertus_Bräu  
