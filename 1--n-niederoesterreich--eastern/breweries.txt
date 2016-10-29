@@ -1,27 +1,40 @@
 #############################################################################
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
+==== Baden › Alland ==== 
 
 [allander]
-  Allander Stierkogl Bräu
+  Allander Stierkogl Bräu, 2008
   2534 Alland // Wagenhofstraße 538
 
+
+
+==== Melk › Dunkelsteinerwald ====
+
 [geroldinger]
-  Geroldinger Brauhaus
+  Geroldinger Brauhaus, 2013
   3392 Gerolding // Graf Geroldstraße 43
 
+
+==== Sankt Pölten (Land) › Kasten bei Böheimkirchen ====
+
 [kastnerbier]
-  Kastner Bier
+  Kastner Bier, 2008
   3072 Kasten // Steinabruck 35
   www.kastnerbier.at
 
-[schrammelsbraeu]
-  Schrammelsbräu
-  2822 Bad Erlach // Harrathof 39 
-  www.schrammels.at
 
 
- === Waldviertel ===
+## [schrammelsbraeu]
+##  Schrammelsbräu, 2011-2014
+##  2822 Bad Erlach // Harrathof 39 
+##  www.schrammels.at
+###  note: closed in 2014
+
+
+=== Waldviertel ===
+
+==== Gmünd › Weitra ==== 
 
 [weitra]
   Weitra Bräu Bierwerkstatt|Brauerei Weitra, 1321
@@ -29,58 +42,85 @@
   www.bierwerkstatt.at
   brands: Weitra, Hadmar
   6_500 hl
+  de.wikipedia: Bierwerkstatt_Weitra
   zwettler   # Part of Zwettler
+
+
 
 
  === ??? ===
 
-[korneuburg]
-  Biermanufaktur Korneuburg
-  2100 Korneuburg // Brückenstraße 8
-  www.biermanufaktur.at
+
+# [korneuburg]
+#  Biermanufaktur Korneuburg, 2010-2014
+#  2100 Korneuburg // Brückenstraße 8
+#  www.biermanufaktur.at
+#  NOTE: closed in 2014!
+
+# [bierzauberei]
+#  Die Bierzauberei
+#  2345 Brunn am Gebirge // Leopold Gattringer-Straße 39
+#  www.bierzauberer.info
+# NOTE: closed in 2013!
+
+
+
+==== Lilienfeld › Hainfeld ====
 
 [hainfeld]
-  Brauerei Hainfeld
+  Brauerei Hainfeld, 1757
   3170 Hainfeld // Wienerstraße 10
   www.brauerei-hainfeld.at
 
+
+==== Scheibbs › Gaming ====
+
 [bruckners]
-  Bruckners Brauwelt|Erzbräu
+  Bruckners Brauwelt|Bruckners Erzbräu|Erzbräu, 2012
   3292 Gaming // Grubberg 4a
-  www.erzbräu.at   ##  www.bruckners-brauwelt.at
+  www.erzbräu.at   ##  -or- www.bruckners-brauwelt.at
 
-[bierzauberei]
-  Die Bierzauberei
-  2345 Brunn am Gebirge // Leopold Gattringer-Straße 39
-  www.bierzauberer.info
 
-[emmerberg]
-  Emmerberg-Bräu / Erste Österreichische Ökobrauerei, 1991
-  2722 Winzendorf // Hauptstraße 137
-
-[holzbrauer]
-  Holzb(r)auer / Natürliche Handwerksbrauerei
-  2831 Warth // Wiesengasse 9
-
+==== Wiener Neustadt (Land) › Krumbach ====
 
 [schwarzbraeu]
-  Privatbrauerei Gerald Schwarz|Schwarzbräu
+  Privatbrauerei Gerald Schwarz|Schwarzbräu, 2010
   2851 Krumbach // Bundesstraße 19
   www.schwarzbraeu.at
 
+==== Wiener Neustadt (Land) › Winzendorf-Muthmannsdorf ====
+
+[emmerberg]
+  Emmerberg-Bräu / Erste Österreichische Ökobrauerei, 1991      ## um 1987 ???
+  2722 Winzendorf // Hauptstraße 137
+
+
+==== Neunkirchen › Warth ====
+
+[holzbrauer]
+  Holzb(r)auer / Natürliche Handwerksbrauerei, 2003   ## use - vor 2003 ???
+  2831 Warth // Wiesengasse 9
+
+==== Neunkirchen › Scheiblingkirchen-Thernberg ====
+
 [wolfsbrau]
-  Wolfsbräu
+  Wolfsbräu, 2012
   2832 Thernberg // Blumengasse 7
   www.wolfsbrau.at
 
+
+==== Wien Umgebung › Gablitz ====
+
 [gablitzer]
   Gablitzer Privatbrauerei, 2009
-  3003 Gablitz // Spitzersteig 10
+  3003 Gablitz // Hauptstraße 14
   www.gablitzer.at
+  ## owners: Markus Führer 
 
 
 ## use leval 4 inside viertel ??? - why? why not?
 === Marchfeld ===   
+==== Gänserndorf › Untersiebenbrunn ====
 
 [storchenbraeu]
   Marchfelder Storchenbräu|Bauer's Marchfelder Storchenbräu|Storchenbräu, 2004
