@@ -3,9 +3,10 @@
 _______________________________________________
 - Brauerei Schwechat (Brau Union) | Schwechat
 
-Schwechater,             5.0%, 11.5°, 41.0 kcal/100ml
-Schwechater Zwickl,      5.4%, 12.5°, 45.0 kcal/100ml
-Schwechater Hopfenperle, 5.1%, 11.8°   # fass only
+Schwechater,               5.0%, 11.5°   # 41.0 kcal/100ml
+Schwechater Zwickl,        5.4%, 12.5°   # 45.0 kcal/100ml
+Schwechater Wiener Lager,  5.5%, 12.8°   # new in 2015(?); celectrating 175 years of wiener lager (by Anton Dreher)
+Schwechater Hopfenperle,   5.1%, 11.8°   # note: fass only (not available in bottles or cans only draft)
 
 _________________________________________________
 - Brauerei Wieselburg (Brau Union) | Wieselburg
