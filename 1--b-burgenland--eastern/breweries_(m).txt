@@ -1,11 +1,25 @@
 #####################################################
 # Breweries in Burgenland (B) / Eastern Austria
 
-[gols]
-  Pannonia Brauerei Gols
-  www.golserbier.at
-  7122 Gols // Sandgrube 1a
-  brands: Golser
-  ## check if production greater 20_000 hl ???
 
+==== Neusiedl am See › Gols ====
+
+[gols]
+  Pannonia Brauerei Gols, 2008
+  7122 Gols // Sandgrube 1a       ##  im burgenländischen Seewinkel 
+  www.golserbier.at
+  brands: Golser
+   
+  ## Rampenverkauf Öffnungszeiten
+  ##  Sommer: April bis August
+  ##  Montag bis Freitag von 07.30 bis 12.00 und von 13.00 bis 16.30 Uhr
+  ## Samstag von 09.00 Uhr bis 12.00 Uhr
+  ## Sonn- & Feiertags geschlossen 
+  ##
+  ## Winter: September bis März
+  ##  Montag bis Freitag von 08.00 bis 12.00 und von 13.00 bis 16.00 Uhr
+  ##  Sams-, Sonn- & Feiertags geschlossen 
+ 
+  ## check if production greater 20_000 hl ???
+  
 
