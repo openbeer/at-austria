@@ -1,14 +1,19 @@
 #############################################################################
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
- === Waldviertel ===
+=== Waldviertel ===
+==== Zwettl › Zwettl ====
 
 [zwettler]
-  Zwettler Brauerei|Privatbrauerei Zwettl, 1709
+  Zwettler Brauerei|Privatbrauerei Zwettl, 1709  
   3910 Zwettl // Syrnauer Straße 22-25
   www.zwettler.at
   200_000 hl
   brands: Zwettler
+  de.wikipedia: Privatbrauerei_Zwettl  
+
+
+==== Gmünd › Schrems ==== 
 
 [schrems]
   Brauerei Schrems|Trojan, 1410      # NOTE: Trojan -> Brewer Familiy Name
@@ -17,12 +22,14 @@
   brands: Schremser
   24_000 hl
 
- === Weinviertel ===
+
+=== Weinviertel ===
+==== Mistelbach › Laa an der Thaya ====
 
 [hubertus]
-  Hubertus Bräu, 1454
+  Hubertus Bräu|Hubertusbräu, 1454
   www.hubertus.at
   2136 Laa/Thaya // Hubertusgasse 1
   brands: Hubertus
   60_000 hl
-
+  de.wikipedia: Hubertus_Br%C3%A4u  
