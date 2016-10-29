@@ -3,7 +3,8 @@
 
 # NOTE: large breweries  500_000+ hl / year
 
- === Wien Umbgebung ===
+=== Wien Umgebung ===
+==== Wien Umbgebung › Schwechat ====
 
 [schwechat]
   Brauerei Schwechat (Brau Union), 1796
@@ -11,32 +12,38 @@
   www.schwechater.at
   brands: Schwechater
   980_000 hl
+  de.wikipedia: Brauerei_Schwechat
   brau_union   # Part of Brau Union
 
 [schwechatii]  # note: add on-location "braustüberl" - how-to link with brewery record??
   Brauhaus Schwechat      
   2320 Schwechat // Mautner-Markhof-Straße 13 
   www.brauhaus-schwechat.at
-  open: Mo-Sa: 11.00-23.00, Sonn- und Feiertag: 11.00-16.00
+  open: Mo-Sa 11.00-23.00, Sonn- und Feiertag 11.00-16.00
 
 
- === St. Pölten Umgebung ===
+=== St. Pölten & Umgebung ===
+==== St. Pölten (Stadt) ====
 
 [egger]
   Privatbrauerei Fritz Egger, 1978
-  3105 Unterradlberg // Tiroler Straße 18
+  3105 Unterradlberg // Tiroler Straße 18       ## Radlberg - Stadtteil von St. Pölten
   www.egger-bier.at
   brands: Egger
-  360_000 hl (??)    # NOTE: assume 500_000+ in 2014?
+  870_000 hl (2015)   
+  de.wikipedia: Privatbrauerei_Egger
 
 
- === Mostviertel === 
+
+=== Mostviertel === 
+==== Scheibbs › Wieselburg ====
  
 [wieselburg]
   Brauerei Wieselburg (Brau Union), 1770
   3250 Wieselburg // Dr.-Beuerle-Straße 1
   www.wieselburger.at
-  brands: Wieselburger
+  brands: Wieselburger, Kaiser
   900_000 hl
   brau_union  # Part of Brau Union
+  de.wikipedia: Brauerei_Wieselburg
 
