@@ -15,7 +15,9 @@
 
 - [Der Bierführer](http://www.brauereifuehrer.com) - von Michael Kranewitter aus Wien
 
-- [Österreichische historische Brauereitopographie](http://brautopo.webnode.at) by Christian Michael Springer; Aktueller Stand (Okt/2016): 2129 Braustätten in 9 Bundesländern, 114 Bezirken und 963 Orten
+- [Österreichische historische Brauereitopographie](http://brautopo.webnode.at) von Christian Michael Springer; Aktueller Stand (Okt/2016): 2129 Braustätten in 9 Bundesländern, 114 Bezirken und 963 Orten
+
+- [Bierseite Högliner](http://bierseite.at) - von Herbert Höglinger, Linz Urfahr West.
 
 
 ## Wikipedia
