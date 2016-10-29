@@ -15,7 +15,7 @@
   zwettler   # Part of Zwettler
 
 
-=== Wachau ===         ## waldviertel
+=== Wachau ===         ## Waldviertel
 ==== Krems (Land) › Weißenkirchen in der Wachau ====
 
 [woesendorf]
@@ -63,13 +63,16 @@
 
 
 
+## use leval 4 inside viertel ??? - why? why not?
+=== Marchfeld ===    ## weinviertel
+==== Gänserndorf › Untersiebenbrunn ====
 
-
-## [schrammelsbraeu]
-##  Schrammelsbräu, 2011-2014
-##  2822 Bad Erlach // Harrathof 39 
-##  www.schrammels.at
-###  note: closed in 2014
+[storchenbraeu]
+  Marchfelder Storchenbräu|Bauer's Marchfelder Storchenbräu|Storchenbräu, 2004
+  2284 Untersiebenbrunn // Erste Strasse 7
+  www.bauersbier.at    ## -or- www.storchenbraeu.at
+  ## shop open: tue+fri 13.00-19.00, sat 9.00-14.00
+  ## owners: Manfred Bauer
 
 
 === Industrieviertel ===    ### use Wien Süd etc. -- why? why not???
@@ -82,12 +85,6 @@
   www.gablitzer.at
   ## owners: Markus Führer 
 
-==== Baden › Alland ==== 
-
-[allander]
-  Allander Stierkogl Bräu, 2008
-  2534 Alland // Wagenhofstraße 538
-
 
 ==== Mödling › Mödling ====
 
@@ -97,6 +94,11 @@
    www.beerstarter.at
    ## brauerei in Nebengebäude des Missionshauses St. Gabriel in Maria Enzersdorf/Mödling
 
+==== Baden › Alland ==== 
+
+[allander]
+  Allander Stierkogl Bräu, 2008
+  2534 Alland // Wagenhofstraße 538
 
 
 ==== Wiener Neustadt (Land) › Krumbach ====
@@ -126,16 +128,3 @@
   2832 Thernberg // Blumengasse 7      
   www.wolfsbrau.at
   ##  Das Bucklige Weltbier Privatbrauerei Familie Wagner
-
-
-## use leval 4 inside viertel ??? - why? why not?
-=== Marchfeld ===    ## weinviertel
-==== Gänserndorf › Untersiebenbrunn ====
-
-[storchenbraeu]
-  Marchfelder Storchenbräu|Bauer's Marchfelder Storchenbräu|Storchenbräu, 2004
-  2284 Untersiebenbrunn // Erste Strasse 7
-  www.bauersbier.at    ## -or- www.storchenbraeu.at
-  ## shop open: tue+fri 13.00-19.00, sat 9.00-14.00
-  ## owners: Manfred Bauer
-
