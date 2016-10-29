@@ -39,11 +39,15 @@
 
  === 5. Margareten ===
 
-[zumschwarzenadler]
-  Zum Schwarzen Adler|Hackl Bräu
-  1050 Wien // Schönbrunner Strasse 40
-  www.schwarzer-adler.co.at
-  open: Mo-So 11.00-24.00
+# Update: 2016
+# Hackl Bräu im Schwarzen Adler in Wien hat den Braubetrieb eingestellt, die Brauanlage wird abgebaut.
+#
+# [zumschwarzenadler]
+#  Zum Schwarzen Adler|Hackl Bräu, -2016    # stopped brewing in 2016 (continues with restaurant)
+#  1050 Wien // Schönbrunner Strasse 40
+#  www.schwarzer-adler.co.at
+#  open: Mo-So 11.00-24.00
+
 
  === 7. Neubau ===
 
