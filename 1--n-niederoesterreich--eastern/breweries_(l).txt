@@ -13,6 +13,12 @@
   980_000 hl
   brau_union   # Part of Brau Union
 
+[schwechatii]  # note: add on-location "braustüberl" - how-to link with brewery record??
+  Brauhaus Schwechat      
+  2320 Schwechat // Mautner-Markhof-Straße 13 
+  www.brauhaus-schwechat.at
+  open: Mo-Sa: 11.00-23.00, Sonn- und Feiertag: 11.00-16.00
+
 
  === St. Pölten Umgebung ===
 
@@ -24,7 +30,7 @@
   360_000 hl (??)    # NOTE: assume 500_000+ in 2014?
 
 
- === ?? ===
+ === Mostviertel === 
  
 [wieselburg]
   Brauerei Wieselburg (Brau Union), 1770
@@ -33,3 +39,4 @@
   brands: Wieselburger
   900_000 hl
   brau_union  # Part of Brau Union
+
