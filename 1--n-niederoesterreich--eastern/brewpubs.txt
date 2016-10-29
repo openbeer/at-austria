@@ -8,19 +8,30 @@
 #    - Weinviertel, Waldviertel, etc.
 
 
+##
+# add 
+##  in construction 
+##
+## BrauSchneider
+## Frauenbergplatz 6, Krems a. d. Donau, 3500   -- old address
+## www.brauschneider.com
+
+
 ==== Tulln › Tulln an der Donau ====
 
 [adlerbraeu]
   Adlerbräu, 2004
   3430 Tulln // Rathausplatz 7
   www.adlerbraeu.at
+  
+==== Tulln › Sankt Anrdä-Wördern ====
 
-==== Baden › Alland ====
-
-[allander]
-  Allander Stierkogl Bräu, 2008 
-  2534 Alland // Wagenhofstraße 538
-
+[marchart]
+  Brauhaus Marchart, 2014 
+  3423 Wördern // Greifensteinerstraße 92 
+  www.hagenthaler-bier.at   ## www.facebook.com/brauhaus.marchart
+  
+  
 ==== Baden › Leobersdorf ====
 
 [antonius]
@@ -37,45 +48,80 @@
   www.bahnhofsbräu.com
 
 
-
+==== Baden › Pottendorf ====
 
 [fritsche]
-  Bierwerkstatt Thomas Fritsche
+  Siegersdorfer Bierwerkstatt Fritsche|Bierwerkstatt Thomas Fritsche, 2011
   2486 Siegersdorf // Pottendorfer Straße 106
+  www.siegersdorfer.at
+
+
+==== Gmünd › Weitra ====
+
+[brauhotelweitra]
+  Brauerei Brauhotel Weitra    
+  3970 Weitra // Rathausplatz 6
+  www.brauhotel.at
+  ## ehemaligen Hofbräuhaus aus dem 16. Jahrhundert
+
+# Montag - Samstag:	7.00-24.00 
+# Sonntag:	7.00-22.00 
+# Ruhetage im November - 7., 21. und 28. November 2016
+# Ruhetage im Dezember - 5., 12., 19. und 24. Dezember 2016
+
+
+==== Horn › Japons ====
 
 [dangl]
-  Brauerei Dangl
+  Brauerei Dangl, 1996
   3763 Japons // Zettenreith 7
+  www.danglbier.at
+
+
+==== Neunkirchen › Schottwien ====
 
 [brettner]
-  Brettner Brauerei ("Altes Doktorhaus")
+  Brettner Brauerei ("Altes Doktorhaus")|Brauerei Erich Brettner, 1993
   www.brettner.at
   2641 Schottwien // Hauptstraße 49
 
-[brauhotelweitra]
-  Brauerei Brauhotel Weitra 
-  3970 Weitra // Rathausplatz 6
+
+
+==== Sankt Pölten (Land) › Karlstetten ====
 
 [dunkelsteiner]
-  Dunkelsteiner Bräu
+  Dunkelsteiner Bräu|Kürbishof Diesmayr, 2008
   3121 Karlstetten // Schaubing 2
+  www.schaubing.at
+  ## owners: Familie Diesmayr
+
+==== Scheibbs › Wieselburg =====
 
 [erlauftaler]
-  Erlauftaler Bräu
+  Hölzl Bräu|Erlauftaler Bräu, 2006
   3250 Wieselburg // Teichweg 6
+
+
+==== Neunkirchen › Raach am Hochgebirge ====
+
+[diewald]
+  Gasthof Diewald, 1998
+  2640 Gloggnitz // Raach am Hochgebirge 38
+  www.gasthof-diewald.at
+
+==== Neunkirchen › Warth ====
+
+[hassbacher]
+  Haßbacher Braueck|Privatbrauerei Martin Gruber, 2012
+  2831 Haßbach // Berggasse 6
+  www.braueck.at
+
+
 
 [fiakerbraeu]
   Fiaker Bräu
   www.fiakerwirt.at
   3550 Langenlois // Holzplatz 7
-
-[diewald]
-  Gasthof Diewald
-  2640 Gloggnitz // Raach am Hochgebirge 38
-
-[hassbacher]
-  Haßbacher Braueck|Privatbrauerei Martin Gruber
-  2831 Haßbach // Berggasse 6
 
 [langenrohrer]
   Langenrohrer Erlebnisbrauerei
