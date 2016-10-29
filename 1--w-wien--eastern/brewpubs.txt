@@ -40,7 +40,7 @@
  === 5. Margareten ===
 
 # Update: 2016
-# Hackl Bräu im Schwarzen Adler in Wien hat den Braubetrieb eingestellt, die Brauanlage wird abgebaut.
+# Hackl Bräu im Schwarzen Adler in Wien hat den Braubetrieb 2016 aufgegeben und Anlage verkauft.
 #
 # [zumschwarzenadler]
 #  Zum Schwarzen Adler|Hackl Bräu, -2016    # stopped brewing in 2016 (continues with restaurant)
