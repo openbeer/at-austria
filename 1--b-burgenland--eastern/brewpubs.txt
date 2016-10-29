@@ -1,8 +1,25 @@
 
-[braugasthofschmidt]
-  Braugasthof Schmidt
-  7423 Neustift a.d. Lafnitz // Nr. 64    ## use // Nr. 64  was 7423 Neustift a.d. Lafnitz 64 -- why? why not?
+==== Oberwart › Neustift an der Lafnitz ====
+
+[rabenbraeu]
+  Braugasthof Schmidt|Rabenbräu, 1999
+  7423 Neustift a.d. Lafnitz // Nr. 64     ## use // Nr. 64  was 7423 Neustift a.d. Lafnitz 64 -- why? why not?
+  www.rabenbraeu.com
+  open: Mo Ruhetag, Di 6.00-22.00 Mi 6.00-22.00 Do 6.00-22.00 Fr 6.00-24.00 Sa 6.00-24.00 So 6.00-22.00
 
 ### fix/todo:
 #  allow trailing numbers in austrian city (is street number if there are no street names in village)
 
+
+==== Mattersburg › Mattersburg ==== 
+
+[pappelbraeu]
+  Pappel Bräu|Pappelbräu|Cafe - Bar - Restaurant Beetlejuice, 2013
+  7210 Mattersburg // Arenaplatz 1 Top 5      ## use Walbersdorf - why? why not??
+  www.pappelbraeu.at
+  brands: Mattersdorfer
+  open: Mo-Do 9.00-24.00 Fr+Sa 9.00-1.00 So+Feiertag 11.00-23.00
+
+## note: brewery in Walbersdorf
+  ## beer served at Restaurant Beetlejuice, Kegelbahn & Bierheuriger Steirerbluat und in der J.J. Lounge
+  ## address in berserver.at listet as: 7210 Mattersburg // Hauptsraße 111
