@@ -1,12 +1,28 @@
 #############################################################################
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
+==== Krems (Land) › Weißenkirchen in der Wachau ====
+
+[woesendorf]
+  Brauhaus Wösendorf, 2016
+  3610 Wösendorf // Kellergasse 101
+  www.brauhaus-woesendorf.at
+
+
 ==== Baden › Alland ==== 
 
 [allander]
   Allander Stierkogl Bräu, 2008
   2534 Alland // Wagenhofstraße 538
 
+
+==== Mödling › Mödling ====
+
+[beerstarter]
+   Beerstarter|Hopfenartisten, 2016
+   2340 Maria Enzersdorf // Grenzgasse 111/7/EG/2      ## -or- 2340 Mödling
+   www.beerstarter.at
+   ## brauerei in Nebengebäude des Missionshauses St. Gabriel in Maria Enzersdorf/Mödling
 
 
 ==== Melk › Dunkelsteinerwald ====
@@ -23,7 +39,13 @@
   3072 Kasten // Steinabruck 35
   www.kastnerbier.at
 
+==== Sankt Pölten (Land) › Inzersdorf-Getzersdorf ====
 
+[walpersdorf]
+  Schlossbrauerei Walpersdorf, 2014
+  3131 Walpersdorf // Schlossstraße 2
+  www.schlossbier.at
+  
 
 ## [schrammelsbraeu]
 ##  Schrammelsbräu, 2011-2014
@@ -105,8 +127,9 @@
 
 [wolfsbrau]
   Wolfsbräu, 2012
-  2832 Thernberg // Blumengasse 7
+  2832 Thernberg // Blumengasse 7      
   www.wolfsbrau.at
+  ##  Das Bucklige Weltbier Privatbrauerei Familie Wagner
 
 
 ==== Wien Umgebung › Gablitz ====
