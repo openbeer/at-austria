@@ -1,0 +1,17 @@
+###########
+# closed breweries (no longer in operation)
+
+
+# [korneuburg]
+#  Biermanufaktur Korneuburg, 2010-2014
+#  2100 Korneuburg // Brückenstraße 8
+#  www.biermanufaktur.at
+#  NOTE: closed in 2014!
+
+# [bierzauberei]
+#  Die Bierzauberei
+#  2345 Brunn am Gebirge // Leopold Gattringer-Straße 39
+#  www.bierzauberer.info
+# NOTE: closed in 2013!
+
+
