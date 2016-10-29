@@ -15,6 +15,8 @@
 
 - [Der Bierführer](http://www.brauereifuehrer.com) - von Michael Kranewitter aus Wien
 
+- [Österreichische historische Brauereitopographie](http://brautopo.webnode.at) by Christian Michael Springer; Aktueller Stand (Okt/2016): 2129 Braustätten in 9 Bundesländern, 114 Bezirken und 963 Orten
+
 
 ## Wikipedia
 
