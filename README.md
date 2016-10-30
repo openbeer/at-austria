@@ -11,23 +11,24 @@
 
 _Breweries_
 
-- Leitha Bräu -- Burgenland › Eisenstadt Umgebung › Leithaprodersdorf
+(B)
 
-<!-- divider -->
+- Leitha Bräu -- Eisenstadt Umgebung › Leithaprodersdorf
 
-- Villa Vinum -- Niederösterreich › Bruck an der Leitha  
-- Brauküche 35 -- Niederösterreich › Hollabrunn › Wullersdorf › Schalladorf
-- Brauhaus Wösendorf -- Niederösterreich › Krems (Land) › Weißenkirchen in der Wachau › Wösendorf
+(N)
 
-<!-- divider -->
+- Villa Vinum --  Bruck an der Leitha  
+- Brauküche 35 --  Hollabrunn › Wullersdorf › Schalladorf
+- Brauhaus Wösendorf --  Krems (Land) › Weißenkirchen in der Wachau › Wösendorf
 
-- Kanonenbräu -- Oberösterreich › Schärding
-- Brau Boutique / Alm Bräu -- Oberösterreich › Rohrbach › Sankt Stefan im Walde
+(O)
 
-<!-- divider -->
+- Kanonenbräu -- Schärding
+- Brau Boutique / Alm Bräu --  Rohrbach › Sankt Stefan im Walde
 
-- Bierwerkstatt -- Steiermark › Hartberg-Fürstenfeld › Ilz › Nestelberg
+(ST)
 
+- Bierwerkstatt -- Hartberg-Fürstenfeld › Ilz › Nestelberg
 
 _Brewpubs_
 
