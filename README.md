@@ -9,7 +9,7 @@
 
 ### 2016
 
-**Breweries**
+_Breweries_
 
 - Leitha Bräu -- Burgenland › Eisenstadt Umgebung › Leithaprodersdorf
 
@@ -29,11 +29,11 @@
 - Bierwerkstatt -- Steiermark › Hartberg-Fürstenfeld › Ilz › Nestelberg
 
 
-**Brewpubs**
+_Brewpubs_
 
 ### 2015
 
-**Breweries**
+_Breweries_
 
 - Antonius Bräu -- Niederösterreich › Baden › Leobersdorf
 - Kirchberger Bier -- Niederösterreich › Gmünd › Kirchberg am Walde
@@ -72,7 +72,7 @@
 - Braukunst Neidhartinger  -- Tirol › Innsbruck Land › Kolsass
 
 
-**Brewpubs**
+_Brewpubs_
 
 - Beaver Brewing Company  -- Wien › 9., Alsergrund
 
@@ -80,7 +80,7 @@
 
 ### 2014
 
-**Breweries**
+_Breweries_
 
 - Gegenbauer Wiener Bier -- Wien › 10., Favoriten
 - Ottakringer Brauwerk -- Wien › 16., Ottakring
@@ -122,8 +122,7 @@
 - Wildschönau Brauerei -- Tirol › Kufstein › Wildschönau
 - Freundsberg 66 -- Tirol › Schwaz
 
-
-**Brewpubs**
+_Brewpubs_
 
 - Schlossbrauerei Walpersdorf -- Niederösterreich › Sankt Pölten (Land) › Inzersdorf-Getzersdorf
 - Bahnhofsbräu -- Niederösterreich › Sankt Pölten (Land) › Ober-Grafendorf
@@ -132,6 +131,8 @@
 
 
 ## The Biggies
+
+_Number of Breweries by Output in hl (100l)_
 
 | Year | > 500 000 | 100 000 - 500 000 | 50 000 - 100 000 | 20 000 - 50 000 | < 20 000 | Total  |
 | ---- |---------: | ----------------: | ---------------: | --------------: | -------: | -----: |
