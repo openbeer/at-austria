@@ -159,7 +159,9 @@
 
 [allander]
   Allander Stierkogl Bräu, 2008
-  2534 Alland // Wagenhofstraße 538        ## check if brewpub / gasthausbrauerei ???
+  2534 Alland // Wagenhofstraße 538       
+  ## microbrewery / nanobrewery / hausbrauerei
+  ## owners/brewers: Ulrike + Christian Kurz
 
 ==== Baden › Pottendorf ====
 
