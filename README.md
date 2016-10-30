@@ -26,7 +26,7 @@ _Breweries_
 - Kanonenbräu -- Schärding
 - Brau Boutique / Alm Bräu --  Rohrbach › Sankt Stefan im Walde
 
-(ST)
+(St)
 
 - Bierwerkstatt -- Hartberg-Fürstenfeld › Ilz › Nestelberg
 
@@ -36,44 +36,48 @@ _Brewpubs_
 
 _Breweries_
 
-- Antonius Bräu -- Niederösterreich › Baden › Leobersdorf
-- Kirchberger Bier -- Niederösterreich › Gmünd › Kirchberg am Walde
-- Holy Bräu -- Niederösterreich › Hollabrunn › Haugsdorf
-- WieNeuBräu -- Niederösterreich › Mödling › Wiener Neudorf
-- Braugut Klosterneuburg -- Niederösterreich › Wien Umgebung › Klosterneuburg
-- Bauerei Zusag -- Niederösterreich › Wiener Neustadt (Land) › Lichtenwörth
+(N)
 
-<!-- divider -->
+- Antonius Bräu -- Baden › Leobersdorf
+- Kirchberger Bier -- Gmünd › Kirchberg am Walde
+- Holy Bräu -- Hollabrunn › Haugsdorf
+- WieNeuBräu -- Mödling › Wiener Neudorf
+- Braugut Klosterneuburg -- Wien Umgebung › Klosterneuburg
+- Bauerei Zusag -- Wiener Neustadt (Land) › Lichtenwörth
 
-- Stiegl-Gut Wildshut -- Oberösterreich › Braunau › Sankt Pantaleon › Wildshut
-- The Beer Buddies -- Oberösterreich › Freistadt › Tragwein
-- Wenzl Privatbräu -- Oberösterreich › Schärding › Wernstein am Inn › Wimberg
-- Steyrer Hofbräu -- Oberösterreich › Steyr (Stadt)
-- Leonfeldnerbier -- Oberösterreich › Urfahr Umgebung › Bad Leonfelden
-- Bierschmiede -- Oberösterreich › Vöcklabruck › Steinbach am Attersee › Seefeld
+(O)
 
-<!-- divider -->
+- Stiegl-Gut Wildshut -- Braunau › Sankt Pantaleon › Wildshut
+- The Beer Buddies -- Freistadt › Tragwein
+- Wenzl Privatbräu -- Schärding › Wernstein am Inn › Wimberg
+- Steyrer Hofbräu --  Steyr (Stadt)
+- Leonfeldnerbier -- Urfahr Umgebung › Bad Leonfelden
+- Bierschmiede -- Vöcklabruck › Steinbach am Attersee › Seefeld
 
-- Eders Hofbräu -- Steiermark › Hartberg-Fürstenfeld › Fürstenfeld
-- Joglland Hoamat Bräu -- Steiermark › Weiz › Birkfeld › Waisenegg
+(St)
 
-<!-- divider -->
+- Eders Hofbräu -- Hartberg-Fürstenfeld › Fürstenfeld
+- Joglland Hoamat Bräu --  Weiz › Birkfeld › Waisenegg
 
-- Mühlenbräu -- Kärnten › Völkermarkt › Oschenitzen
-- Gelter Bräu -- Kärnten › Sankt Veit an der Glan › Goggerwenig
-- Katsch Beer -- Kärnten › Spittal an der Drau › Rennweg am Katschberg
+(K)
 
-<!-- divider -->
+- Mühlenbräu -- Völkermarkt › Oschenitzen
+- Gelter Bräu -- Sankt Veit an der Glan › Goggerwenig
+- Katsch Beer -- Spittal an der Drau › Rennweg am Katschberg
 
-- Hubertus Hausbrauerei -- Salzburg › Zell am See › Saalfelden am Steinernen Meer
+(S)
 
-<!-- divider -->
+- Hubertus Hausbrauerei -- Zell am See › Saalfelden am Steinernen Meer
 
-- CraftCountry Brewery  -- Tirol › Innsbruck Land › Hall in Tirol
-- Braukunst Neidhartinger  -- Tirol › Innsbruck Land › Kolsass
+(T)
+
+- CraftCountry Brewery  -- Innsbruck Land › Hall in Tirol
+- Braukunst Neidhartinger  -- Innsbruck Land › Kolsass
 
 
 _Brewpubs_
+
+(W)
 
 - Beaver Brewing Company  -- Wien › 9., Alsergrund
 
@@ -83,51 +87,55 @@ _Brewpubs_
 
 _Breweries_
 
-- Gegenbauer Wiener Bier -- Wien › 10., Favoriten
-- Ottakringer Brauwerk -- Wien › 16., Ottakring
+(W)
 
-<!-- divider -->
+- Gegenbauer Wiener Bier -- 10., Favoriten
+- Ottakringer Brauwerk -- 16., Ottakring
 
-- Brauerei Scharrer -- Burgenland › Oberpullendorf › Steinberg-Dörfl
+(B)
 
-<!-- divider -->
+- Brauerei Scharrer -- Oberpullendorf › Steinberg-Dörfl
 
-- Kurv'n Bräu Nestler -- Niederösterreich › Mistelbach › Staatz › Enzersdorf
-- Xandl Bräu -- Niederösterreich › Waidhofen an der Thaya › Vitis
+(N)
 
-<!-- divider -->
+- Kurv'n Bräu Nestler -- Mistelbach › Staatz › Enzersdorf
+- Xandl Bräu --  Waidhofen an der Thaya › Vitis
 
-- Hofbrauerei Pfesch -- Oberösterreich › Braunau › Treubach
-- Brauerei Hellwagner -- Oberösterreich › Grieskichen › Kallham › Kimpling
-- Kreativbrauerei -- Oberösterreich › Rohrbach › Schlägl
-- Römerbräu -- Oberösterreich › Vöcklabruck › Oberhofen am Irrsee
+(O)
 
-<!-- divider -->
+- Hofbrauerei Pfesch --  Braunau › Treubach
+- Brauerei Hellwagner --  Grieskichen › Kallham › Kimpling
+- Kreativbrauerei --  Rohrbach › Schlägl
+- Römerbräu --  Vöcklabruck › Oberhofen am Irrsee
 
-- Flecks SteirerBier -- Steiermark › Graz Umgebung › Frohnleiten › Laufnitzdorf
-- Herzog's Bierbotschaft -- Steiermark › Graz Umgebung › Wundschuh
-- Stubalm Brauerei -- Steiermark › Voitsberg › Köflach › Pichling
+(St)
 
-<!-- divider -->
+- Flecks SteirerBier -- Graz Umgebung › Frohnleiten › Laufnitzdorf
+- Herzog's Bierbotschaft --  Graz Umgebung › Wundschuh
+- Stubalm Brauerei -- Voitsberg › Köflach › Pichling
 
-- malle biermanufaktur -- Kärnten › Villach (Stadt)
+(K)
 
-<!-- divider -->
+- malle biermanufaktur --  Villach (Stadt)
 
-- Mandlbräu -- Salzburg › Tamsweg › Sankt Michael im Lungau
+(S)
 
-<!-- divider -->
+- Mandlbräu -- Tamsweg › Sankt Michael im Lungau
 
-- Ötztaler Bier Manufaktur Umhausen -- Tirol › Imst › Umhausen
-- Klosterbräu  -- Tirol › Innsbruck Land › Seefeld in Tirol
-- Wildschönau Brauerei -- Tirol › Kufstein › Wildschönau
-- Freundsberg 66 -- Tirol › Schwaz
+(T)
+
+- Ötztaler Bier Manufaktur Umhausen -- Imst › Umhausen
+- Klosterbräu  -- Innsbruck Land › Seefeld in Tirol
+- Wildschönau Brauerei -- Kufstein › Wildschönau
+- Freundsberg 66 -- Schwaz
 
 _Brewpubs_
 
-- Schlossbrauerei Walpersdorf -- Niederösterreich › Sankt Pölten (Land) › Inzersdorf-Getzersdorf
-- Bahnhofsbräu -- Niederösterreich › Sankt Pölten (Land) › Ober-Grafendorf
-- Brauhaus Marchart -- Niederösterreich › Tulln › Sankt Anrdä-Wördern
+(N)
+
+- Schlossbrauerei Walpersdorf -- Sankt Pölten (Land) › Inzersdorf-Getzersdorf
+- Bahnhofsbräu --  Sankt Pölten (Land) › Ober-Grafendorf
+- Brauhaus Marchart -- Tulln › Sankt Anrdä-Wördern
 
 
 
