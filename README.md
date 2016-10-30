@@ -13,22 +13,22 @@ _Breweries_
 
 (B)
 
-- Leitha Bräu -- Eisenstadt Umgebung › Leithaprodersdorf
+- **Leitha Bräu** -- Eisenstadt Umgebung › Leithaprodersdorf
 
 (N)
 
-- Villa Vinum --  Bruck an der Leitha  
-- Brauküche 35 --  Hollabrunn › Wullersdorf › Schalladorf
-- Brauhaus Wösendorf --  Krems (Land) › Weißenkirchen in der Wachau › Wösendorf
+- **Villa Vinum** --  Bruck an der Leitha  
+- **Brauküche 35** --  Hollabrunn › Wullersdorf › Schalladorf
+- **Brauhaus Wösendorf** --  Krems (Land) › Weißenkirchen in der Wachau › Wösendorf
 
 (O)
 
-- Kanonenbräu -- Schärding
-- Brau Boutique / Alm Bräu --  Rohrbach › Sankt Stefan im Walde
+- **Kanonenbräu** -- Schärding
+- **Brau Boutique / Alm Bräu** --  Rohrbach › Sankt Stefan im Walde
 
 (St)
 
-- Bierwerkstatt -- Hartberg-Fürstenfeld › Ilz › Nestelberg
+- **Bierwerkstatt** -- Hartberg-Fürstenfeld › Ilz › Nestelberg
 
 _Brewpubs_
 
@@ -38,48 +38,48 @@ _Breweries_
 
 (N)
 
-- Antonius Bräu -- Baden › Leobersdorf
-- Kirchberger Bier -- Gmünd › Kirchberg am Walde
-- Holy Bräu -- Hollabrunn › Haugsdorf
-- WieNeuBräu -- Mödling › Wiener Neudorf
-- Braugut Klosterneuburg -- Wien Umgebung › Klosterneuburg
-- Bauerei Zusag -- Wiener Neustadt (Land) › Lichtenwörth
+- **Antonius Bräu** -- Baden › Leobersdorf
+- **Kirchberger Bier** -- Gmünd › Kirchberg am Walde
+- **Holy Bräu** -- Hollabrunn › Haugsdorf
+- **WieNeuBräu** -- Mödling › Wiener Neudorf
+- **Braugut Klosterneuburg** -- Wien Umgebung › Klosterneuburg
+- **Bauerei Zusag** -- Wiener Neustadt (Land) › Lichtenwörth
 
 (O)
 
-- Stiegl-Gut Wildshut -- Braunau › Sankt Pantaleon › Wildshut
-- The Beer Buddies -- Freistadt › Tragwein
-- Wenzl Privatbräu -- Schärding › Wernstein am Inn › Wimberg
-- Steyrer Hofbräu --  Steyr (Stadt)
-- Leonfeldnerbier -- Urfahr Umgebung › Bad Leonfelden
-- Bierschmiede -- Vöcklabruck › Steinbach am Attersee › Seefeld
+- **Stiegl-Gut Wildshut** -- Braunau › Sankt Pantaleon › Wildshut
+- **The Beer Buddies** -- Freistadt › Tragwein
+- **Wenzl Privatbräu** -- Schärding › Wernstein am Inn › Wimberg
+- **Steyrer Hofbräu** --  Steyr (Stadt)
+- **Leonfeldnerbier** -- Urfahr Umgebung › Bad Leonfelden
+- **Bierschmiede** -- Vöcklabruck › Steinbach am Attersee › Seefeld
 
 (St)
 
-- Eders Hofbräu -- Hartberg-Fürstenfeld › Fürstenfeld
-- Joglland Hoamat Bräu --  Weiz › Birkfeld › Waisenegg
+- **Eders Hofbräu** -- Hartberg-Fürstenfeld › Fürstenfeld
+- **Joglland Hoamat Bräu** --  Weiz › Birkfeld › Waisenegg
 
 (K)
 
-- Mühlenbräu -- Völkermarkt › Oschenitzen
-- Gelter Bräu -- Sankt Veit an der Glan › Goggerwenig
-- Katsch Beer -- Spittal an der Drau › Rennweg am Katschberg
+- **Mühlenbräu** -- Völkermarkt › Oschenitzen
+- **Gelter Bräu** -- Sankt Veit an der Glan › Goggerwenig
+- **Katsch Beer** -- Spittal an der Drau › Rennweg am Katschberg
 
 (S)
 
-- Hubertus Hausbrauerei -- Zell am See › Saalfelden am Steinernen Meer
+- **Hubertus Hausbrauerei** -- Zell am See › Saalfelden am Steinernen Meer
 
 (T)
 
-- CraftCountry Brewery  -- Innsbruck Land › Hall in Tirol
-- Braukunst Neidhartinger  -- Innsbruck Land › Kolsass
+- **CraftCountry Brewery**  -- Innsbruck Land › Hall in Tirol
+- **Braukunst Neidhartinge**r  -- Innsbruck Land › Kolsass
 
 
 _Brewpubs_
 
 (W)
 
-- Beaver Brewing Company  -- Wien › 9., Alsergrund
+- **Beaver Brewing Company**  -- Wien › 9., Alsergrund
 
 
 
@@ -89,53 +89,53 @@ _Breweries_
 
 (W)
 
-- Gegenbauer Wiener Bier -- 10., Favoriten
-- Ottakringer Brauwerk -- 16., Ottakring
+- **Gegenbauer Wiener Bier** -- 10., Favoriten
+- **Ottakringer Brauwerk** -- 16., Ottakring
 
 (B)
 
-- Brauerei Scharrer -- Oberpullendorf › Steinberg-Dörfl
+- **Brauerei Scharrer** -- Oberpullendorf › Steinberg-Dörfl
 
 (N)
 
-- Kurv'n Bräu Nestler -- Mistelbach › Staatz › Enzersdorf
-- Xandl Bräu --  Waidhofen an der Thaya › Vitis
+- **Kurv'n Bräu Nestler** -- Mistelbach › Staatz › Enzersdorf
+- **Xandl Bräu** --  Waidhofen an der Thaya › Vitis
 
 (O)
 
-- Hofbrauerei Pfesch --  Braunau › Treubach
-- Brauerei Hellwagner --  Grieskichen › Kallham › Kimpling
-- Kreativbrauerei --  Rohrbach › Schlägl
-- Römerbräu --  Vöcklabruck › Oberhofen am Irrsee
+- **Hofbrauerei Pfesch** --  Braunau › Treubach
+- **Brauerei Hellwagner** --  Grieskichen › Kallham › Kimpling
+- **Kreativbrauerei** --  Rohrbach › Schlägl
+- **Römerbräu** --  Vöcklabruck › Oberhofen am Irrsee
 
 (St)
 
-- Flecks SteirerBier -- Graz Umgebung › Frohnleiten › Laufnitzdorf
-- Herzog's Bierbotschaft --  Graz Umgebung › Wundschuh
-- Stubalm Brauerei -- Voitsberg › Köflach › Pichling
+- **Flecks SteirerBier** -- Graz Umgebung › Frohnleiten › Laufnitzdorf
+- **Herzog's Bierbotschaft** --  Graz Umgebung › Wundschuh
+- **Stubalm Brauerei** -- Voitsberg › Köflach › Pichling
 
 (K)
 
-- malle biermanufaktur --  Villach (Stadt)
+- **malle biermanufaktur** --  Villach (Stadt)
 
 (S)
 
-- Mandlbräu -- Tamsweg › Sankt Michael im Lungau
+- **Mandlbräu** -- Tamsweg › Sankt Michael im Lungau
 
 (T)
 
-- Ötztaler Bier Manufaktur Umhausen -- Imst › Umhausen
-- Klosterbräu  -- Innsbruck Land › Seefeld in Tirol
-- Wildschönau Brauerei -- Kufstein › Wildschönau
-- Freundsberg 66 -- Schwaz
+- **Ötztaler Bier Manufaktur Umhausen** -- Imst › Umhausen
+- **Klosterbräu**  -- Innsbruck Land › Seefeld in Tirol
+- **Wildschönau Brauerei** -- Kufstein › Wildschönau
+- **Freundsberg 66** -- Schwaz
 
 _Brewpubs_
 
 (N)
 
-- Schlossbrauerei Walpersdorf -- Sankt Pölten (Land) › Inzersdorf-Getzersdorf
-- Bahnhofsbräu --  Sankt Pölten (Land) › Ober-Grafendorf
-- Brauhaus Marchart -- Tulln › Sankt Anrdä-Wördern
+- **Schlossbrauerei Walpersdorf** -- Sankt Pölten (Land) › Inzersdorf-Getzersdorf
+- **Bahnhofsbräu** --  Sankt Pölten (Land) › Ober-Grafendorf
+- **Brauhaus Marchart** -- Tulln › Sankt Anrdä-Wördern
 
 
 
@@ -161,120 +161,117 @@ _Number of Breweries by Output in hl (100l)_
 
 (N)
 
-- Brauerei Schwechat (Brau Union), 1796 -- Wien Umbgebung › Schwechat
-- Brauerei Wieselburg (Brau Union), 1770 -- Mostviertel › Scheibbs › Wieselburg  
-- Privatbrauerei Fritz Egger, 1978 -- St. Pölten (Stadt) › Unterradlberg
+- **Brauerei Schwechat** (Brau Union), 1796 -- Wien Umbgebung › Schwechat
+- **Brauerei Wieselburg** (Brau Union), 1770 -- Mostviertel › Scheibbs › Wieselburg  
+- **Privatbrauerei Fritz Egger**, 1978 -- St. Pölten (Stadt) › Unterradlberg
 
 (O)
 
--  Brauerei Zipf (Brau Union) -- Vöcklabruck › Neukirchen an der Vöckla › Zipf
+-  **Brauerei Zipf** (Brau Union) -- Vöcklabruck › Neukirchen an der Vöckla › Zipf
 
 (W)
 
-- Ottakringer Brauerei|Ottakringer, 1838  -- 16., Ottakring
+- **Ottakringer Brauerei** | Ottakringer, 1838  -- 16., Ottakring
 
 (St)
 
-- Gösser Brauerei (Brau Union)|Brauerei Göss -- Leoben › Göss
-- Brauerei Puntigam (Brau Union) -- Graz (Stadt)
+- **Gösser Brauerei** (Brau Union) | Brauerei Göss -- Leoben › Göss
+- **Brauerei Puntigam** (Brau Union) -- Graz (Stadt)
 
 (S)
 
-- Stieglbrauerei|Stieglbrauerei zu Salzburg, 1492 -- Salzburg (Stadt)
+- **Stieglbrauerei** | Stieglbrauerei zu Salzburg, 1492 -- Salzburg (Stadt)
 
 
 ### 100 000 - 500 000 hl (7)
 
 (N)
 
-- Zwettler Brauerei|Privatbrauerei Zwettl, 1709  -- Waldviertel › Zwettl
+- **Zwettler Brauerei** | Privatbrauerei Zwettl, 1709  -- Waldviertel › Zwettl
 
 (O)
 
-- Brauerei Schloss Eggenberg|Schloss Eggenberg, 1681 -- Salzkammergut › Gmunden › Vorchdorf
-- Brauerei Jos. Baumgartner|Brauerei Baumgartner, 1609 -- Innviertel › Schärding
+- **Brauerei Schloss Eggenberg** | Schloss Eggenberg, 1681 -- Salzkammergut › Gmunden › Vorchdorf
+- **Brauerei Jos. Baumgartner** | Brauerei Baumgartner, 1609 -- Innviertel › Schärding
 
 (St)
 
-- Brauerei Murau|Obermurtaler Brauerei -- Murau
+- **Brauerei Murau** | Obermurtaler Brauerei -- Murau
 
 (S)
 
-- Trumer Privatbrauerei|Trumer Privatbrauerei Josef Sigl, 1601 -- Salzburg Umgebung › Obertrum
+- **Trumer Privatbrauerei** | Trumer Privatbrauerei Josef Sigl, 1601 -- Salzburg Umgebung › Obertrum
 
 (K)
 
-- Villacher Brauerei (Brau Union › Vereinigte Kärntner Brauereien) -- Villach (Stadt)
-- Brauerei Hirt, 1270  -- Sankt Veit an der Glan › Micheldorf › Hirt
+- **Villacher Brauerei** (Brau Union › Vereinigte Kärntner Brauereien) -- Villach (Stadt)
+- **Brauerei Hirt**, 1270  -- Sankt Veit an der Glan › Micheldorf › Hirt
 
 (V)
 
-- Brauerei Fohrenburg, 1881 -- Bludenz
+- **Brauerei Fohrenburg**, 1881 -- Bludenz
 
 
 ### 50 000 - 100 000 hl (5)
 
 (N)
 
-- Hubertus Bräu|Hubertusbräu, 1454 -- Weinviertel › Mistelbach › Laa an der Thaya
+- **Hubertus Bräu** | Hubertusbräu, 1454 -- Weinviertel › Mistelbach › Laa an der Thaya
 
 (O)
 
-- Brauerei Ried, 1536 -- Innviertel › Ried im Innkreis
-- Brauerei Grieskirchen, 1708 -- Innviertel › Grieskichen
-- Freistädter Brauhaus|Braucommune in Freistadt, 1770 -- Mühlviertel › Freistadt
+- **Brauerei Ried**, 1536 -- Innviertel › Ried im Innkreis
+- **Brauerei Grieskirchen**, 1708 -- Innviertel › Grieskichen
+- **Freistädter Brauhaus** | Braucommune in Freistadt, 1770 -- Mühlviertel › Freistadt
 
 (K)
 
-- Schleppe Brauerei (Brau Union › Vereinigte Kärntner Brauereien), 1607 -- Klagenfurt (Stadt)
+- **Schleppe Brauerei** (Brau Union › Vereinigte Kärntner Brauereien), 1607 -- Klagenfurt (Stadt)
 
 (V)
 
-- Mohrenbrauerei, 1834 -- Dornbirn
+- **Mohrenbrauerei**, 1834 -- Dornbirn
 
 (T)
 
-- Brauerei Falkenstein -- Osttirol › Lienz
+- **Brauerei Falkenstein** -- Osttirol › Lienz
 
 
 ###  20 000 - 50 000 hl (13)
 
 (B)
 
-- Pannonia Brauerei Gols, 2008 -- Neusiedl am See › Gols
+- **Pannonia Brauerei Gols**, 2008 -- Neusiedl am See › Gols
 
 (N)
 
-- Brauerei Schrems|Trojan, 1410 -- Waldviertel › Gmünd › Schrems
+- **Brauerei Schrems** | Trojan, 1410 -- Waldviertel › Gmünd › Schrems
 
 (O)
 
-- Privatbrauerei Wurmhöringer, 1652 -- Innviertel › Braunau › Altheim
-- Brauerei Raschhofer, 1645 -- Innviertel › Braunau › Altheim
-- Brauerei Schnaitl|Privatbrauerei Schnaitl, 1842 -- Innviertel › Braunau › Eggelsberg › Gundertshausen
-- Brauerei Vitzthum, 1600 -- Innviertel › Braunau › Helpfau-Uttendorf › Uttendorf
-- Stiftsbrauerei Schlägl, 1580 -- Mühlviertel › Rohrbach › Schlägl
-- Ritterbräu Neumarkt, 1609 -- Grieskichen › Neumarkt im Hausruckkreis
+- **Privatbrauerei Wurmhöringer**, 1652 -- Innviertel › Braunau › Altheim
+- **Brauerei Raschhofer**, 1645 -- Innviertel › Braunau › Altheim
+- **Brauerei Schnaitl** | Privatbrauerei Schnaitl, 1842 -- Innviertel › Braunau › Eggelsberg › Gundertshausen
+- **Brauerei Vitzthum**, 1600 -- Innviertel › Braunau › Helpfau-Uttendorf › Uttendorf
+- **Stiftsbrauerei Schlägl**, 1580 -- Mühlviertel › Rohrbach › Schlägl
+- **Ritterbräu Neumarkt**, 1609 -- Grieskichen › Neumarkt im Hausruckkreis
 
 (St)
 
-- Schladminger Brau (Brau Union), 1909 -- Liezen › Schladming
+- **Schladminger Brau** (Brau Union), 1909 -- Liezen › Schladming
 
 (S)
 
-- Brauerei Gusswerk|Brauhaus Gusswerk, 2007 --  Salzburg Umgebung › Hof bei Salzburg
+- **Brauerei Gusswerk** | Brauhaus Gusswerk, 2007 --  Salzburg Umgebung › Hof bei Salzburg
 
 (V)
 
-- Vorarlberger Brauereigenossenschaft Frastanz -- Feldkirch › Frastanz
+- **Vorarlberger Brauereigenossenschaft Frastanz** -- Feldkirch › Frastanz
 
 (T)
 
-- Brauhaus Simon Strasser|Zillertal Bier, 1509 -- Schwaz › Zell am Ziller
-- Familienbrauerei Huber|Huber Bräu, 1727 -- Kitzbühel › Sankt Johann
-
-
-
+- **Brauhaus Simon Strasser** | Zillertal Bier, 1509 -- Schwaz › Zell am Ziller
+- **Familienbrauerei Huber** | Huber Bräu, 1727 -- Kitzbühel › Sankt Johann
 
 
 
