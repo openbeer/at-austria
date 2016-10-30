@@ -14,6 +14,33 @@
   de.wikipedia: Bierwerkstatt_Weitra
   zwettler   # Part of Zwettler
 
+==== Gmünd › Kirchberg am Walde ====
+
+[kirchberger]
+  Kirchberger Bier, 2015
+  3932 Kirchberg am Walde // Nr. 12
+  www.kirchberger-bier.at
+  ## microbrewery / hausbrauerei
+
+==== Waidhofen an der Thaya › Vitis ====
+
+[xandlbraeu]
+  Xandl Bräu, 2012
+  3902 Vitis // Heidenreichsteiner Straße 2
+  www.xandlbraeu.at
+  ## owner/brewer: Alexander Pichler
+  ## selbstgebauten 4.5 hl Sudwerk
+  ## microbrewery / hausbrauerei
+
+==== Horn › Japons ====
+
+[dangl]
+  Brauerei Dangl, 1996
+  3763 Japons // Zettenreith 7
+  www.danglbier.at
+  ## microbrewery / hausbrauerei
+  ##  member of www.hausbrauereien.at -- add to groups!!!
+
 
 === Wachau ===         ## Waldviertel
 
@@ -39,6 +66,14 @@
 [geroldinger]
   Geroldinger Brauhaus, 2013
   3392 Gerolding // Graf Geroldstraße 43
+
+
+==== Scheibbs › Wieselburg =====
+
+[erlauftaler]
+  Hölzl Bräu|Erlauftaler Bräu, 2006
+  3250 Wieselburg // Teichweg 6
+  ## microbrewery / hausbrauerei
 
 
 ==== Scheibbs › Gaming ====
@@ -70,6 +105,23 @@
   3170 Hainfeld // Wienerstraße 10
   www.brauerei-hainfeld.at
 
+==== Lilienfeld › Sankt Veit an der Gölsen ====
+
+[petribraeu]
+  Petri-Bräu|Hausbrauerei Sigl, 2003
+  3161 St. Veit an der Gölsen // Brillergraben 8
+  www.petri-braeu.at
+  ## microbrewery / hausbrauerei
+
+
+
+==== Tulln › Langenrohr ====
+
+[langenrohrer]
+  Langenrohrer Erlebnisbrauerei|Rohrer Bräu, 2009
+  3442 Langenrohr // Josef-Reither-Straße 18
+  www.lebe-geniesse.com/bier
+  ## microbrewery / hausbrauerei
 
 
 ## use leval 4 inside viertel ??? - why? why not?
@@ -109,6 +161,24 @@
   Allander Stierkogl Bräu, 2008
   2534 Alland // Wagenhofstraße 538        ## check if brewpub / gasthausbrauerei ???
 
+==== Baden › Pottendorf ====
+
+[fritsche]
+  Siegersdorfer Bierwerkstatt Fritsche|Bierwerkstatt Thomas Fritsche, 2011
+  2486 Siegersdorf // Pottendorfer Straße 106
+  www.siegersdorfer.at
+  ## microbrewery / hausbrauerei
+
+==== Baden › Pottenstein ====
+
+[poidlbraeu]
+  Poidl Bräu, 1993
+  2563 Pottenstein // Wehrgasse 6
+  www.dreher.at
+  ## owner: Leopold Schlögl
+  ## sells (mostly) dreher brewing equipment
+
+
 
 ==== Wiener Neustadt (Land) › Krumbach ====
 
@@ -137,3 +207,37 @@
   2832 Thernberg // Blumengasse 7      
   www.wolfsbrau.at
   ##  Das Bucklige Weltbier Privatbrauerei Familie Wagner
+
+
+==== Neunkirchen › Payerbach ====
+
+[raxbraeu]
+  Rax Bräu|Rax Bräu Gerhofer, 2006
+  2650 Payerbach // Hauptstraße 40
+  ## microbrewery / hausbrauerei  -- check ??
+
+==== Neunkirchen › Enzenreith ====
+
+[zecherbraeu]
+  Zecher Bräu, 1991
+  2640 Enzenreith // Siedlaustraße 129
+  ## owner/brewer: Luis Lechner
+  ## microbrewery / hausbrauerei
+
+==== Neunkirchen › Warth ====
+
+[hassbacher]
+  Haßbacher Braueck|Privatbrauerei Martin Gruber, 2012
+  2831 Haßbach // Berggasse 6
+  www.braueck.at
+  ##  260l großen Sudkessel - im Keller unseres Hauses
+  ## microbrewery / hausbrauerei
+
+==== Neunkirchen › Schottwien ====
+
+[brettner]
+  Brettner Brauerei ("Altes Doktorhaus")|Brauerei Erich Brettner, 1993
+  www.brettner.at
+  2641 Schottwien // Hauptstraße 49
+  ## microbrewery / hausbrauerei
+
