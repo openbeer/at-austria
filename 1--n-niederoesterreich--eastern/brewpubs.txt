@@ -1,5 +1,7 @@
 #######################################################################
 # Brewpubs in Niederösterreich [Lower Austria] (N) / Eastern Austria
+#
+#  brewpubs -- Gasthausbrauerei | Wirtshausbrauerei | Bierheurigen
 
 ##
 #  todo: use regions
@@ -86,7 +88,7 @@
 
 [bahnhofsbraeu]
   Bahnhofsbräu, 2014
-  3200 Obergrafendorf // Bahnhofsstraße 1
+  3200 Ober-Grafendorf // Bahnhofsplatz 1
   www.bahnhofsbräu.com
 
 
