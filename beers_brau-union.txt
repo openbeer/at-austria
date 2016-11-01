@@ -99,9 +99,23 @@ Schladminger Sepp,               5.1%, 11.7°
 ______________________________________________________________
 - Hofbräu Kaltenhausen (Brau Union) | Kaltenhausen (Hallein)
 
-Kaltenhauser Kellerbier,  zwickl
-Kaltenhauser Original
-Kaltenhauser Weisse,    weizen
+Kaltenhauser Kellerbier, 4.8%, 11.8°, zwickl
+Kaltenhauser Original,  5.3%, 12.5° 
+Kaltenhauser 1475 Pale Ale, 5.5%, 12.6°
+
+
+## special seasonal (limited) editions
+
+Kaltenhauser Maroni|Kalternhauser Maroni Edition, 6.9%, 16.9°,  starkbier    # fall (2016) incl. maronenmehl
+
+## more limited editions
+
+Kaltenhauser Belgisch Wit, 4.2%, 11.8°
+
+
+## more
+
+Kaltenhauser Weisse,    weizen         ## check - still available (brewed) ???
 
 
 == Tirol (T) ==
