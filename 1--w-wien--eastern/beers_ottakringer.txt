@@ -28,6 +28,8 @@ Brauwerk Imperial Vienna Lager,     7.2%, 15.8°                     ##  brauwer
 
 #### Special n Season Editions
 
+Brauwerk Blumenkind (Flower Witbeer), 5.0%,   witbier       ## brauwerk.wien/der-sommer-ruft-das-blumenkind-antwortet
+
 Brauwerk Sommer Liebe (Tonic Ale),    5.2%, 12.5°, 2016, pale_ale
 Brauwerk FMBier (EM-Edition 2016),    5.5%, 12.5°, 2016, pale_ale|ipa
 
