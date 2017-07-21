@@ -138,6 +138,10 @@ Schlägl Weizenbier
 Schlägl Edle Reserve
 Schlägl Kleine Feine
 
+## special beers
+Schlägl Der Studiosus (Roggen IPA), 6.0%    # 2017  -- roggen india pale ale
+
+
 
 _______________________________________________________
 - Trappistenbrauerei Stift Engelszell | Engelhartszell
