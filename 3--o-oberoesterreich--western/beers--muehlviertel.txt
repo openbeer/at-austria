@@ -13,7 +13,10 @@ Freistädter Dunk'l
 Freistädter März'n
 Freistädter Böck'l
 
+### special beers
+
 Freistädter Rauchbier, 5.3%, 12.3°, c:14, rauchbier   ## move to history ??
+Freistädter Pegasus (Das Schwarze Bier), 5.4%, schwarzbier    ## 2017, ibu: 24
 
 
 _____________________________________________________________
