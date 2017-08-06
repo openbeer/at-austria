@@ -1,89 +1,98 @@
 
-[dreibb]
-  3BB-Farm
+___________________________________________
+3BB-Farm    ## [dreibb]
   8181 St. Ruprecht a.d. Raab // Dietmannsdorf 17
 
-[neuwirth]
-  Bauernhof Neuwirth
+
+__________________________________________
+Neuwirth|Bauernhof Neuwirth   ## [neuwirth]
   8200 Gleisdorf // Brodersdorf 21
 
-[schmallegger]
-  Bauernhofbrauerei Johann Schmallegger
+____________________________________________
+Schmallegger|Bauernhofbrauerei Johann Schmallegger  ## [schmallegger]
   8183 Floing // Haring 17
 
-[bergerbraeu]
-  Berger-Bräu
+____________________________________________
+Berger-Bräu      ## [bergerbraeu]
   8255 St.Jakob i. Walde  // Kirchenviertel 34
 
-[fuerstenbraeu]
-  Fürstenbräu 
+____________________________________________
+Fürstenbräu    ## [fuerstenbraeu]
   8280 Fürstenfeld // Hauptstraße 31
 
-[leitnbraeu]
-  Großstübinger Leitn Bräu
+
+____________________________________________
+Leitn Bräu|Großstübinger Leitn Bräu   ## [leitnbraeu]
   8114 Großstübing // Nr. 34     ## fix: was => 8114 Großstübing 34
 
-[hausbrauereiseidl]
-  Hausbrauerei Seidl
+
+_____________________________________________
+Hausbrauerei Seidl     ## [hausbrauereiseidl]
   8820 Neumarkt // Zeutschach 7
 
-[hermaxbraeu]
-  Hermax-Bräu
+_____________________________________________
+Hermax-Bräu   ## [hermaxbraeu]
   8311 Markt Hartmannsdorf // Reith 72
 
-[kandlbauers]
-  Kandlbauer's Hausbräu
-  8190 Birkfeld // Aschau 21 
+_____________________________________________
+Kandlbauer's|Kandlbauer's Hausbräu      ## [kandlbauers]
+  8190 Birkfeld // Aschau 21
 
-[kofler]
-  Kofler Bräu
+
+_____________________________________________
+Kofler|Kofler Bräu      ## [kofler]
   8786 Rottenmann // Hauptstraße 4
 
-[hengist]
-  Kulturbrauerei Hengist
+
+_____________________________________________
+Hengist|Kulturbrauerei Hengist    ## [hengist]
   8411 Hengsberg // Schönberg 24
 
-[laurenzi]
-  Laurenzi Bräu
+
+______________________________________________
+Laurenzi|Laurenzi Bräu     ## [laurenzi]
   8200 Gleisdorf // Hauptplatz 3
 
-[lavabraeu]
-  Lava Bräu
+
+_____________________________________________
+Lava Bräu    ## [lavabraeu]
   8330 Feldbach // Auersbach 130
 
-[marienbraeu]
-  Marienbräu Edwin Strobl
+_____________________________________________
+Marienbräu|Marienbräu Edwin Strobl   ## [marienbraeu]
   8075 Hart bei Graz // Rupertistraße 80
 
-[moarbraeu]
-  Moar-Bräu
+
+_____________________________________________
+Moar-Bräu     ## [moarbraeu]
   8223 Stubenberg // Vockenberg 46
 
-[nassauer]
-  Nassauer City Bier
+_____________________________________________
+Nassauer|Nassauer City Bier    ## [nassauer]
   8522 Unterbergla // Nassau 48
 
-[peterwirtsbraeu]
-  Peterwirtsbräu
+
+_____________________________________________
+Peterwirtsbräu   ## [peterwirtsbraeu]
   8983 Bad Mitterndorf // Nr. 68   ## fix: was => 8983 Bad Mitterndorf 68
 
-[putznbraeu]
-  Putz'n Bräu
+
+_____________________________________________
+Putz'n Bräu    ## [putznbraeu]
   8243 Pinggau // Wiesenhöf 17
 
-[skloanesudhaus]
-  s'kloane Sudhaus
+_____________________________________________
+s'kloane Sudhaus    ## [skloanesudhaus]
   8130 Frohnleiten // Mauritzener Hauptstraße 1
 
-[sajacher]
-  Sajacher Schlößl Bräu
+_____________________________________________
+Sajacher|Sajacher Schlößl Bräu   ## [sajacher]
   8424 Gabersdorf // Sajach 23
 
-[schwalbebraeu]
-  Schwalben-Bräu
+______________________________________________
+Schwalben-Bräu   ## [schwalbebraeu]
   8970 Schladming // Siedergasse 89
 
-[mariazell]
-  Wirtshausbrauerei Mariazell
+______________________________________________
+Mariazell|Wirtshausbrauerei Mariazell   ## [mariazell]
   8630 Mariazell // Wiener Straße 5
-

@@ -1,21 +1,55 @@
 ###############################################################
 # Breweries in Steiermark [Styria] (ST) / Southern Austria
 
-# NOTE: large breweries  500_000+ hl / year
+# Note: large breweries  500_000+ hl / year
 
-[goesser]
-  Gösser Brauerei (Brau Union)|Brauerei Göss
+
+_______________________________________________________________
+Gösser|Gösser Brauerei (Brau Union)|Brauerei Göss    # [goesser]
   8700 Göss/Leoben // Brauhausgasse 1
+  Göss › Leoben › Leoben › Steiermark      ## Ortsteil/Stadtteil › Gemeinde › Bezirk › etc.
   www.goesser.at
   brands: Gösser
   brauunion
   1_300_000 hl (2001)
 
 
-[puntigam]
-  Brauerei Puntigam (Brau Union)
-  8055 Graz // Triester Straße 359
+Gösser Märzen,  5.2%, 11.8°     # main/bestseller brand (70%)
+Gösser Gold,    5.3%, 12.2°, c:7, b:25  # premium   # Note: b:25 = 25 IBU = bitterness
+Gösser Spezial, 5.7%, 13.2°
+Gösser Zwickl|Gösser Zwickl Naturtrüb,  5.2%, 11.8°
+Gösser Dunkles Zwickl,  5.7%, 13.2°
+Gösser Bock,    7.1%, 16.2°, seasonal|weihnacht   # ausschließlich für die Weihnachtszeit gebraut
+Gösser Stiftsbräu, 4.2%, 11.8°
+
+
+___________________________________________________________
+Puntigam|Brauerei Puntigam (Brau Union)     # [puntigam]
+  8055 Graz // Triester Straße 357-359
+  Puntigam › Graz › Steiermark      ##  Puntigam (17. Stadtbezirk) › Graz (Statutarstadt)
   www.puntigamer.at
   brands: Puntigamer, Reininghaus
   brauunion
   1_000_000 hl (2001)
+  de.wikipedia: Brauerei_Puntigam
+
+Puntigamer Panther,               5.2%, 12.1°   # main/bestseller brand
+Puntigamer (Das "bierige" Bier),  5.1%, 11.8°, maerzen
+Puntigamer Winterbier,            6.0%, 13.8°
+## see www.brauunion.at/unser-bier/brauereien/puntigam
+
+Puntigamer Zwickl       # only available in Puntigamer Brauhaus (on location) ??
+
+#  etc. origin: Reininghaus Familie/Adel/Graf aus Graz?
+#   reininghaus uebernahme durch puntigamer in ???
+
+Reininghaus Märzen,              5.0%, 11.8°
+Reininghaus Pils,                4.8%, 11.4°
+Reininghaus Malz,                4.5%, 11.8°
+Reininghaus Jahrgangspils       #  2011,2012,2013,2014,2015
+
+
+==Brauhaus Puntigam==       ## Gaststätte
+8055 Graz // Triester Straße 361
+www.brauhaus-puntigam.co.at
+open: Mo-Sa 10.00-23.00, closed sundays & holidays  # sonntag u. feiertagen geschlossen

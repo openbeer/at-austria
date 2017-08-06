@@ -2,19 +2,31 @@
 # Breweries in Steiermark [Styria] (ST) / Southern Austria
 
 
-[murau]
-  Brauerei Murau|Obermurtaler Brauerei   ## todo: check if name Obermurtaler Brauerei is still in use?
+________________________________________________
+Murau|Brauerei Murau|Obermurtaler Brauerei     # [murau]
+  ## todo: check if name Obermurtaler Brauerei is still in use?
   8850 Murau // Raffaltplatz 19-23
+  Murau › Murau › Steiermark      ## Gemeinde › Bezirk › etc.
   www.murauerbier.at
   brands: Murauer
   160_000 hl
 
-[schladminger]
-  Schladminger Brau (Brau Union), 1909
+Murauer Märzen,   5.2%, 12.5°
+Murauer Pils,     5.1%, 12.2°
+Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
+
+
+______________________________________________________
+Schladminger|Schladminger Brau (Brau Union), 1909      ## [schladminger]
   8970 Schladming // Hammerfeldweg 163
+  Schladmig › Gröbming › Liezen › Steiermark   ## Gröbming (Expositur) › Liezen (Bezirk)
   www.schladmingerbier.at
   brands: Schladminger
   brauunion
   35_000 hl (2001)
 
 
+Schladminger Märzen,             5.1%, 11.7°,
+Schladminger Schnee Weiße,       5.0%, 12.2°, weizenbier
+Schladminger BioZwickl,          5.2%, 11.9°
+Schladminger Sepp,               5.1%, 11.7°

@@ -4,57 +4,149 @@
 ####
 # Microbreweries
 
-[flamberger]
-  Brauerei Michael Löscher
-  8505 St. Nikolai i. S. // Flamberg 101
+
+_______________________________________
+Flamberger|Brauerei Michael Löscher        ## [flamberger]
+  8505 St. Nikolai im Sausal // Flamberg 101
+  Flamberg › St. Nikolai im Sausal › Leibnitz › Steiermark
   www.flamberger.at
 
-[bevog]
-  Brauhaus Bevog|Bevog
+
+_______________________________________
+Bevog|Brauhaus Bevog                       ## [bevog]
   8490 Bad Radkersburg // Gewerbepark B Nr. 9
+  Bad Radkersburg › Südoststeiermark › Steiermark
   www.bevog.at
 
-[leutschach]
-  Brauerei Leutschach
+
+__________________________________________________
+Leutschach|Brauerei Leutschach            ## [leutschach]
   8463 Leutschach // Schillerplatz 3
+  Leutschach › Leibnitz › Steiermark
   www.diebrauerei.com
 
-[gratzer]
-  Brauerei Gratzer
+Rossnatur,  5.3%, 12.2°
+
+
+___________________________________________________
+Gratzer|Brauerei Gratzer      ## [gratzer]
   8224 Kaindorf // Obertiefenbach 26
+  Kaindorf › Hartberg-Fürstenfeld › Steiermark
   www.brauereigratzer.at
 
-[forstner]
-  Handbrauerei Forstner|Forstner Biere|Hof-Bräu Kalsdorf      # note: old name was Hof-Bräu Kalsdorf (still used for braeustueberl/brewery tap) 
+Gratzer Johann, 5.3%, 12.8°   # Spezialbier Maerzen
+Gratzer Ludwig, 7.2%, 16.7°   # Bockbier
+
+
+_____________________________________________________
+Forstner|Handbrauerei Forstner|Forstner Biere|Hof-Bräu Kalsdorf   ## [forstner]
+  # note: old name was Hof-Bräu Kalsdorf (still used for braeustueberl/brewery tap ??)
   8401 Kalsdorf // Dorfstraße 52
+  Kalsdorf › Graz-Umgebung › Steiermark
   www.forstner-biere.at
 
-[herzoghofbraeu]
-  Herzog Hofbräu|Herzog
-  8142 Wundschuh // Steindorf 8
-  www.herzog-hofbraeu.at
+Forstner Blond Pale Ale, 5.0%, 12.6°
+Forstner Das Rote,       5.0%, 12.5°   # Vollbier
+Forstner Slow 2 Roggen Ale, 5.4%, 13.4°
+Forstner Styrian Ale,    6.6%, 15.4°
+Forstner Triple 22,      9.5%, 22.2°
+Forstner Vollmond Doppelbock, 7.5%, 18.3°
 
-[pock]
-  Landwerkstatt & Genusslabor|Pock Bier
-  8481 Weinburg // Pichla/M. 31
+
+
+___________________________________________________
+Herzog Hofbräu|Herzog   ## [herzoghofbraeu]
+  8142 Wundschuh // Ponigler Straße 52
+  Wundschuh › Graz-Umgebung › Steiermark
+  www.bierbotschaft.at  ## was: www.herzog-hofbraeu.at
+
+
+## Klassik series
+
+Herzogs Helles,   5.0%
+Herzogs Pils,     5.1%
+Herzogs Hausbier, 4.9%
+Herzogs Weizen,   5.0%
+Herzogs Dunkles,  4.9%
+
+Herzogs Leichter Fall,  2.7%  ## saisonal
+Herzogs Grünhopfenbier, 5.0%  ## saisonal
+
+## Exquisit series
+
+Herzogs Damenbier,      4.7%
+Herzogs Herzlich Herbe, 5.1%
+Herzogs Pale Ale,       5.3%
+Herzogs IPA,            6.3%
+Herzogs Sauvignon Ale,  5.2%
+Herzogs Stout,          5.1%
+Herzogs Chili,          5.1%
+Herzogs Kaffeebier,     4.9%
+
+Herzogs Maisbier,       4.8%  ## saisonal
+Herzogs Erdäpfelbier,   5.0%  ## saisonal
+Herzogs Festbräu,       6.0%  ## saisonal (Winter)
+
+## Ambassador series
+
+Herzogs Pater Ator,     9.1%
+Herzogs Schwester Ator, 9.0%
+Herzogs Bruder Ator,   11.4%
+Herzogs Hopfinator,     9.5%
+
+Herzogs Heidelbeer,     4.8%  ## saisonal (im Sommer)
+Herzogs Johannisbeere,  5.0%  ## saisonal
+Herzogs Kastanienbier,  5.0%  ## saisonal (im Herbst)
+Herzogs Kirschenbier,   5.4%  ## saisonal
+Herzogs Isabellabier          ## saisonal
+Herzogs Gin-Bier,       5.0%  ## saisonal
+Herzogs Walnussbier,    8.8%  ## saisonal
+
+
+
+
+
+## move to brewpubs??
+
+==Bierbotschaft==    ## Herzogs Bierwirtshaus & Brauerei
+
+# open: Mi-Sa 11.00-22.00
+#      Sonntag & Feiertag (außer Mo + Di): 10.00-18.00
+#      Montag und Dienstag: Ruhetag
+
+
+
+
+_________________________________________________
+Pock|Landwerkstatt & Genusslabor Pock|Pock Bier   ## [pock]
+  8481 Weinburg // Pichla bei Mureck 31
   www.pockbier.com
 
-[nibelungengold]
-  Nibelungengold Brauerei
+
+_______________________________________________
+Nibelungengold|Nibelungengold Brauerei     ## [nibelungengold]
   8280 Fürstenfeld // Franz-Bauer-Weg 4
   www.nibelungengold.at
 
-[erzbergbraeu]
-  Privatbrauerei Erzbergbräu
+________________________________________________
+Erzbergbräu|Privatbrauerei Erzbergbräu     ## [erzbergbraeu]
   8790 Eisenerz // Trofengbachgasse 2
   www.erzbergbraeu.at
 
-[tonibraeu]
-  Toni Bräu
+
+_____________________
+Toni Bräu    ## [tonibraeu]
   8273 Ebersdorf // Wagenbach 61
+  Ebersdorf › Hartberg-Fürstenfeld › Steiermark
   www.tonibraeu.at
 
-[triebbraeu]
-  Trieb Bräu
+
+Toni Bräu Helles, 5.0%, 12.0°
+
+
+________________________________
+Trieb Bräu  ## [triebbraeu]
   8641 St. Marein // Ferdinand Raimundweg 7
 
+
+Trieb Bräu Märzen, 5.1%
