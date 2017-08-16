@@ -13,53 +13,112 @@ Schmallegger|Bauernhofbrauerei Johann Schmallegger  ## [schmallegger]
   8183 Floing // Haring 17
 
 ____________________________________________
-Berger-Bräu      ## [bergerbraeu]
-  8255 St.Jakob i. Walde  // Kirchenviertel 34
+Berger Bräu|Landhotel Berger, 2002        ## [bergerbraeu]
+  8255 St. Jakob im Walde  // Kirchenviertel 34
+  www.landhotel-berger.at
+  sudwerk: 100 liter
+  brewer: Johann Berger
+open:  kein ruhetag,  betriebsurlaub: nov + mitte märz bis mitte april
+
+
+Berger Bräu Hausbier, 5%   # bernsteinfarben
+
+
 
 ____________________________________________
-Fürstenbräu    ## [fuerstenbraeu]
+Fürstenbräu
   8280 Fürstenfeld // Hauptstraße 31
 
 
 ____________________________________________
-Leitn Bräu|Großstübinger Leitn Bräu   ## [leitnbraeu]
+Leit'n Bräu|Leit'n Bier|Großstübinger Leit'n Bräu
   8114 Großstübing // Nr. 34     ## fix: was => 8114 Großstübing 34
+  www.leitnbierfanclub.at
+  sudwerk: 200 liter
+  brewer: Gerhard Hurdax
+
+Leit'n Märzen, 4.8%
+Leit'n Light Bier, 3%
 
 
 _____________________________________________
-Hausbrauerei Seidl     ## [hausbrauereiseidl]
+Hausbrauerei Seidl
   8820 Neumarkt // Zeutschach 7
 
 _____________________________________________
-Hermax-Bräu   ## [hermaxbraeu]
+Hermax-Bräu
   8311 Markt Hartmannsdorf // Reith 72
 
 _____________________________________________
-Kandlbauer's|Kandlbauer's Hausbräu      ## [kandlbauers]
+Kandlbauer's|Kandlbauer's Hausbräu
   8190 Birkfeld // Aschau 21
 
 
-_____________________________________________
-Kofler|Kofler Bräu      ## [kofler]
+
+_______________________________________________________________
+Kofler|Kofler Bräu|Gasthof (& Hotel) Kofler, 2011
   8786 Rottenmann // Hauptstraße 4
+  sudwerk: 200 liter
+  brewer: Harald Kofler
+  open: kein Ruhetag; Betriebsurlaub im November und Mitte März bis Mitte April
+
+Kofler Bräu Märzen, 5.6%
+Kofler Bockbier, 7.2%   ## saisonal
 
 
-_____________________________________________
-Hengist|Kulturbrauerei Hengist    ## [hengist]
+________________________________________
+Hengist|Kulturbrauerei Hengist, 2013
   8411 Hengsberg // Schönberg 24
+  Schönberg › Hengsberg › ...
+  www.hengistbier.at
+  sudwerk: 450 liter
+  brewer: Alexander Klement, Walter Klement
+  open: Di-Sa 11.00-20.00
 
 
-______________________________________________
-Laurenzi|Laurenzi Bräu     ## [laurenzi]
+Hengist Bernstein|Hausbier, 5.5%
+Das Blonde Hengist, 6.5%   # bernsteinfarben
+Das Schwarze Hengist, 8%
+Leichtbier, 3.9%
+Das Leichte Hengist, 3.5%
+
+
+
+
+__________________________________________________________
+Laurenzi|Laurenzi Bräu|Bierwirtshaus Laurenzibräu, 2013
   8200 Gleisdorf // Hauptplatz 3
+  www.laurenzibraeu.at
+  sudwerk: 450 liter
+  brewer: Thomas Hadolt
+  open: Di-Sa 9.00-23.00, So u Mo 9.00-16.00
+
+Laurenzi Bräu Helles,  5%
+Laurenzi Bräu Dunkles, 5%
+Laurenzi Bräu, Bio-Solarbier, 5%
 
 
 _____________________________________________
-Lava Bräu    ## [lavabraeu]
+Lava Bräu, 2002
   8330 Feldbach // Auersbach 130
+  Auersbach › Feldbach › ...
+  www.lavabraeu.at
+  sudwerk: 450 liter
+  brewer: Günter Schmidt
+
+Lava Luna, 5.3%   ## bio-vollmondbier
+Lava Rossa, 5.8%   ## rot
+Lava Honig, 5.1%   ## honigbräu
+Lava Bock, 6.6%   # dunkel
+Lava Bräu West, 5.3%  # pils
+Lava Bräu Nord, 5.8%  # dunkel
+Lava Bräu Ost, 4.9%   # rot
+Lava Bräu Süd, 4.5%   # märzen
+Lava Bräu Opfl, 5.7%   # apfel-fruchtbier
+
 
 _____________________________________________
-Marienbräu|Marienbräu Edwin Strobl   ## [marienbraeu]
+Marienbräu|Marienbräu Edwin Strobl
   8075 Hart bei Graz // Rupertistraße 80
 
 
@@ -94,5 +153,16 @@ Schwalben-Bräu   ## [schwalbebraeu]
   8970 Schladming // Siedergasse 89
 
 ______________________________________________
-Mariazell|Wirtshausbrauerei Mariazell   ## [mariazell]
+Mariazell|Wirtshausbrauerei Mariazell|Brauhaus Mariazell, 1996
   8630 Mariazell // Wiener Straße 5
+  www.bierundbett.at
+  sudwerk: 210 liter
+  brewer: Hannes Girrer
+  open: Mi-Sa 10.00-23.00, So 10.00-14.00
+
+Zeller Gold, 4.6%   # helles
+Mönch Magnus, 4.9%  # dunkles
+
+# saisonbiere / saisonals
+Jubiläumsfestbier
+Herbstbier

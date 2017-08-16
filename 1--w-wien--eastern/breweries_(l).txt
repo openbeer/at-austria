@@ -1,11 +1,25 @@
 #######################################################
 # Breweries in Wien [Vienna] (W) / Eastern Austria
 
+>>  Wien
+>>> 16. Ottakring
 
-[ottakringer]
-  Ottakringer Brauerei|Ottakringer, 1838
+____________________________________________
+Ottakringer|Ottakringer Brauerei, 1838
   1160 Wien // Ottakringer Platz 1
   www.ottakringer.at
   brands: Ottakringer
   740_000 hl
 
+
+Ottakringer Helles,                  5.2 %, 11.8°
+Ottakringer Wiener Original,         5.3 %, 12°,   wiener_lager|vienna_lager
+Ottakringer Wiener G'mischtes,       5.1 %, 11.8°   # hell und dunkel gemischt
+
+Ottakringer (Gold Fassl) Spezial,    5.6 %, 12.7°
+Ottakringer (Gold Fassl) Pils,       4.8 %, 11.2°
+Ottakringer (Gold Fassl) Pur {Bio},  5.2 %, 11.8°, bio
+Ottakringer (Gold Fassl) Zwickl,     5.2 %, 12.2°
+Ottakringer (Gold Fassl) Zwickl Rot, 5.2 %, 12.2°
+Ottakringer (Gold Fassl) Dunkles,    4.9 %, 12.2°
+Ottakringer (Gold Fassl) Bock,       7.6 %, 17.0°

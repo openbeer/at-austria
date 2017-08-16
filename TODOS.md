@@ -3,13 +3,17 @@
 
 ## format
 
-use for second-level entries (shops, brewery taps, brewery museum etc.)
+use `==`,`===`, etc.
+for second-level entries (shops, brewery taps, brewery museum etc.)
 
-    >> Brauhaus Puntigam <<       ## Gaststätte
+    == Brauhaus Puntigam ==
 
-or
+use `>>`, `>>>`, etc. for geographic hierarchy
 
-    == Brauhaus Puntigam ==       - Why? why not?
+    >>> Mostviertel
+    >>>> Scheibbs › Wieselburg
+
+
 
 ## more
 
@@ -28,3 +32,8 @@ Use different convention for beer n brewery files e.g.
 - mbrewerie_xxl.txt
 - breweries_mid_size.txt
 - breweries_large.txt
+
+
+## wien.db
+
+move brewpubs in wien / vienna to wien.db ??

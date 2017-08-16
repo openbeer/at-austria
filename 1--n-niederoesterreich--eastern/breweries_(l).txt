@@ -1,13 +1,14 @@
 #############################################################################
 # Breweries in Niederösterreich [Lower Austria] (N) / Eastern Austria
 
-# NOTE: large breweries  500_000+ hl / year
+# Note: large breweries  500_000+ hl / year
 
-=== Wien Umgebung ===
-==== Wien Umbgebung › Schwechat ====
 
-[schwechat]
-  Brauerei Schwechat (Brau Union), 1796
+>>> Wien Umgebung
+>>>> Wien Umbgebung › Schwechat
+
+____________________________________________________________
+Schwechat|Brauerei Schwechat (Brau Union), 1796   ## [schwechat]
   2320 Schwechat // Mautner Markhof-Straße 11
   www.schwechater.at
   brands: Schwechater
@@ -15,35 +16,35 @@
   de.wikipedia: Brauerei_Schwechat
   brau_union   # Part of Brau Union
 
-[schwechatii]  # note: add on-location "braustüberl" - how-to link with brewery record??
-  Brauhaus Schwechat      
-  2320 Schwechat // Mautner-Markhof-Straße 13 
+
+# note: add on-location "braustüberl" - how-to link with brewery record??
+==Brauhaus Schwechat==     ## [schwechatii]
+  2320 Schwechat // Mautner-Markhof-Straße 13
   www.brauhaus-schwechat.at
   open: Mo-Sa 11.00-23.00, Sonn- und Feiertag 11.00-16.00
 
 
-=== St. Pölten & Umgebung ===
-==== St. Pölten (Stadt) ====
+>>> St. Pölten & Umgebung
+>>>> St. Pölten (Stadt)
 
-[egger]
-  Privatbrauerei Fritz Egger, 1978
+_____________________________________________
+Egger|Privatbrauerei Fritz Egger, 1978
   3105 Unterradlberg // Tiroler Straße 18       ## Radlberg - Stadtteil von St. Pölten
   www.egger-bier.at
   brands: Egger
-  870_000 hl (2015)   
+  870_000 hl (2015)
   de.wikipedia: Privatbrauerei_Egger
 
 
 
-=== Mostviertel === 
-==== Scheibbs › Wieselburg ====
- 
-[wieselburg]
-  Brauerei Wieselburg (Brau Union), 1770
+>>> Mostviertel
+>>>> Scheibbs › Wieselburg
+
+_______________________________________________________________________
+Wieselburg|Brauerei Wieselburg (Brau Union), 1770  ## [wieselburg]
   3250 Wieselburg // Dr.-Beuerle-Straße 1
   www.wieselburger.at
   brands: Wieselburger, Kaiser
   900_000 hl
   brau_union  # Part of Brau Union
   de.wikipedia: Brauerei_Wieselburg
-

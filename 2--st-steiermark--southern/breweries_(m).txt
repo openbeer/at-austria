@@ -3,7 +3,7 @@
 
 
 ________________________________________________
-Murau|Brauerei Murau|Obermurtaler Brauerei     # [murau]
+Murau|Brauerei Murau|Obermurtaler Brauerei
   ## todo: check if name Obermurtaler Brauerei is still in use?
   8850 Murau // Raffaltplatz 19-23
   Murau › Murau › Steiermark      ## Gemeinde › Bezirk › etc.
@@ -17,7 +17,7 @@ Murauer Hopfengold, 5.7%, 13.5°, c:12, spezial
 
 
 ______________________________________________________
-Schladminger|Schladminger Brau (Brau Union), 1909      ## [schladminger]
+Schladminger|Schladminger Brau (Brau Union), 1909
   8970 Schladming // Hammerfeldweg 163
   Schladmig › Gröbming › Liezen › Steiermark   ## Gröbming (Expositur) › Liezen (Bezirk)
   www.schladmingerbier.at

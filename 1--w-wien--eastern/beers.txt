@@ -1,83 +1,6 @@
 ##############################
 # Wien (W)
 
-=== 1. Innere Stadt ===
-
-_______________________________
-- 1516 Brewing Company
-
-## regular beers (all-year/all-season)
-
-1516 Lager, blond_lager            # €2.80 (0.25l) €3.40 (0.4l)
-1516 Weisse, weissbier|wheat ale   # €3.40 (0.25l) €4.20 (0.4l)
-
-Victory Hop Devil IPA    # €3.50 (0.25l) €4.50 (0.4l)
-
-1516 Black & Tan | 1516 Schnitt  # mix of dark and blond beer  	€2.80 (0.25l) €3.40 (0.4l)
-
-
-## special beers
-
-Slipper Pale Ale, 5.2%            # session ale  - 2016, 2017 
-
-Kimber - Kiril's Amber Ale, 2016
-Jet Lag Ace - Extra Special Bitter Ale, 2016
-MBA - Mild Brown Ale, 2016
-Wit Series 16/V3: Kalamansi, 2016     # spiced wih cilantro and kalamansi
-No Nonsense 16. V02 - Pale Ale, 2016   # dry hopped pale ale
-Slovenian John Doe Red Ale, 2016
-Eejit's Stout     # irish style dry stout
-Rogg Bock         # rauch bock rye malt
-Bourgeois Bohemian Pilsener    # bohemian-style pilsener
-Bavarian Dunkles (100 % Dark Malt) V2    # dark lager
-
-
-1516 Shades of Earl Grey - Tea Bagged IPA, 2017
-Landing Strip Lickorice Porter, 2017
-Bo Rye - PITB Bohemian Rye, 2017
-Mosaic Single Hop Pale Ale, 2017    ## single hop w/ mosaic
-
-
-____________________________________
-- Stadtbrauerei Schwarzenberg
-
-Schwarzenberg Helles,  11.9°, 5.0%       # €3.30 (0.3) €4.20 (0.5l)   
-Schwarzenberg Dunkles, 11.7°, 4.8%       # €3.30 (0.3) €4.20 (0.5l)
-Schwarzenberg G'mischtes, 11.8°, 5.0%   # mix of helles and dunkles -- €3.30 (0.3) €4.20 (0.5l)
-Schwarzenberg Weizen, 11.9°, 5.1%        # €3.40 (0.3) €4.50 (0.5l)
-Schwarzenberg Honey Ale, 12.9°, 5.4%. amber_ale  #  brewed with original Nottingham Ale yeast and forest honey  -- €3.40 (0.3) €4.50 (0.5l)
-
-
-=== 3., Landstraße ===
-
-______________
-- Salm Bräu
-
-## five regular beers
-
-Salm 1842 Pils|Pils,     5.0%, 12.5°   # €3.30 (0.3l)  €4.10 (0.5l)
-Salm Helles|Helles,   4.8%, 12°        # €3.30 (0.3l)  €4.10 (0.5l)
-Salm (Wiener) Märzen|Märzen,   5.0%, 12.5°    # €3.30 (0.3l)  €4.10 (0.5l)
-Salm Böhmisch (Dunkles) G'mischtes|G'mischtes, 5.0%, 12.5°   # €3.40 (0.3l)  €4.20 (0.5l)
-Salm Weizen|Weizen,   4.6%, 12°, weissbier          # €3.40 (0.3l)  €4.20 (0.5l)
-
-## special / limited beers
-
-Salm Burning Hell, 4.9%, 12.2°, 2016, chilli   ## helles chilli bier 
-
-
-=== 4. Wieden ===
-
-________________
-- Wieden Bräu
-
-## regular beers
-
-Wieden Bräu Helles,  	11.3°, 4.3%    #  €3.30 (0.3l)	€4.00 (0.5l)
-Wieden Bräu Märzen,   12.5°, 5.1%    #  €3.30 (0.3l)	€4.00 (0.5l)
-Wieden Bräu Dunkles,	11.3°, 4.5%    #  €3.30 (0.3l)	€4.00 (0.5l)
-Wieden Bräu Gemischtes      # mix helles and dunkles --	Schnitt aus Hellem und Dunklem --  €3.30 (0.3l)	€4.00 (0.5l)
-
 
 === 5. Margareten ===
 
@@ -86,7 +9,7 @@ ____________________________________
 
 # regular beers
 
-Hackl Bräu Helles  
+Hackl Bräu Helles
 Hackl Bräu Dunkles
 Hackl Bräu Märzen
 Hackl Bräu Schnitt
@@ -133,7 +56,7 @@ Lichtenthaler Porter,           13.2°
 Lichtenthaler Dinkel Leicht
 
 
-La Viennette     ## sour (lambic-style??) beer 
+La Viennette     ## sour (lambic-style??) beer
 
 ____________________________________
 - Beaver Brewing Co.
@@ -148,7 +71,7 @@ Witty Bastard|Witty Bastard Witbier, 4.1%, witbier
 
 Charlie|Charlie Brown Ale, 5.4%                            # €3.20 (0.3l), €4.20 (0.4l)
 Brave Lion|Brave Lion Golden Strong Ale, 8.4%  # belgian-style golden strong ale   # €3.50 (0.3l), €4.50 (0.4l)
-ESP|ESP - English Special Bitter (ESB), 5.2%               # €3.20 (0.3l), €4.20 (0.4l) 
+ESP|ESP - English Special Bitter (ESB), 5.2%               # €3.20 (0.3l), €4.20 (0.4l)
 Modern Lager,   5%, american_lager
 Cobretti,     8.5%, double_ipa
 
@@ -172,5 +95,3 @@ Medl Bräu Märzen,   4.9%, 12.2°
 Medl Bräu Dunkles
 Medl Bräu Gemischtes
 Medl Bräu Weizen     # nur im Sommer -- summer only
-
-

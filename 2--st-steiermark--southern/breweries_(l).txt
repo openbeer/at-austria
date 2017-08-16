@@ -4,14 +4,18 @@
 # Note: large breweries  500_000+ hl / year
 
 
+>>>  ???            ## region ??
+>>>> Leoben       ## bezirk
+
 _______________________________________________________________
-Gösser|Gösser Brauerei (Brau Union)|Brauerei Göss    # [goesser]
+Gösser|Gösser Brauerei (Brau Union)|Brauerei Göss, 1860
   8700 Göss/Leoben // Brauhausgasse 1
   Göss › Leoben › Leoben › Steiermark      ## Ortsteil/Stadtteil › Gemeinde › Bezirk › etc.
   www.goesser.at
   brands: Gösser
   brauunion
   1_300_000 hl (2001)
+  sudwerk: 670 hektoliter (hl)  ## 67_000 liter
 
 
 Gösser Märzen,  5.2%, 11.8°     # main/bestseller brand (70%)
@@ -23,8 +27,12 @@ Gösser Bock,    7.1%, 16.2°, seasonal|weihnacht   # ausschließlich für die W
 Gösser Stiftsbräu, 4.2%, 11.8°
 
 
+
+>>>  Graz
+>>>> Puntigam
+
 ___________________________________________________________
-Puntigam|Brauerei Puntigam (Brau Union)     # [puntigam]
+Puntigam|Brauerei Puntigam (Brau Union)
   8055 Graz // Triester Straße 357-359
   Puntigam › Graz › Steiermark      ##  Puntigam (17. Stadtbezirk) › Graz (Statutarstadt)
   www.puntigamer.at

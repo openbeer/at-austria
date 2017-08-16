@@ -2,12 +2,22 @@
 # micro / virtual / gypsy breweries
 #
 
-=== 12., Meidling ===
+>>  Wien
+>>> 12. Meidling
 
-[nextlevelbrewing]
-  Next Level Brewing|Next Level, 2015    ## virtual / gypsy brewery by Johannes Grohs n Alexander Beinhauer
+___________________________________________
+Next Level|Next Level Brewing, 2015    ## virtual / gypsy brewery by Johannes Grohs n Alexander Beinhauer
   1120 Wien // Wilhelmstraße 23
   www.nextlevelbrewing.at
- 
-  
 
+Local Hero - Easy Pale Ale,    5.3%, 12.8°       # 26 IBU -- Hopfen: Centennial, Simcoe, Chinook  ++ brewed by Brauhaus Gusswerk, Hof bei Salzburg
+Lemon Thyme - Freestyle Gose,  4.9%, 12.7°       # 10 IBU -- Hopfen: Northern Brewer ++ brewed by Gablitzer Privatbrauerei; next batch: Biermanufaktur Loncium
+Smoky Melon - Smoked Pale Ale,  5.7%, 13.8°      # 26 IBU -- Hopfen: Huell Melon ++ brewed by Brauhaus Gusswerk; next batch: Biermanufaktur Loncium
+High Diver - India Pale Ale,   6.8%, 15.7°       # 66 IBU -- Hopfen: Columbus, Cascade, Centennial, Simcoe ++ brewed by Pannonia Brauerei Gols, Burgenland
+Flower Power - Hibiscus Brew,   4.6%, 11.7°P     #  9 IBU -- Hopfen: Perle ++ brewed by Biermanufaktur Loncium
+Five O'Clock - Earl Grey IPA,   5.7%, 14.2°P     # 55 IBU -- Hopfen: First Gold, East Kent Goldings, Fuggles ++ brewed by Bierschmiede, Attersee
+Black Queen - Imperial Stout,  10.1%, 21.4°P     # 65 IBU -- Hopfen: Admiral, East Kent Golding ++ brewed by Schwarzbräu, Krumbach
+
+-- seasonals / limited --
+
+Bitter Freak - Brutal IPA,    7.0%, 16.5°P       # ~200 IBU -- Magnum, Cascade, Centennial, Chinook ++ brewed by Biermanufaktur Loncium
